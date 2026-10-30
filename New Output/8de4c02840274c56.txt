@@ -1,0 +1,52 @@
+Facebook reveals Mark Zuckerberg's US Congress testimony
+
+Headline ID: 8de4c02840274c56
+Source URL: https://www.bbc.com/news/technology-43698739
+Author: BBC News
+Published: 2018-04-09T16:10:11.000Z
+
+Mark Zuckerberg has revealed his planned testimony to the US Congress, ahead of answering questions during a two day hearing about data privacy.
+
+The Facebook founder will speak about the Cambridge Analytica data scandal, Russian election interference and what the company is doing to prevent future incidents.
+
+He will say the firm's new investment in security will affect its profits.
+
+"Protecting our community is more important," he adds.
+
+On the subject of users' data, he will say that every app that had access to a large amount of Facebook data prior to 2014 will be investigated. He said privacy controls had been made easier to understand.
+
+Mr Zuckerberg also admits that Facebook was slow to spot Russian meddling.
+
+• Read Mark Zuckerberg's full statement here
+
+Over a two year period, 126 million people were estimated to have seen Facebook content by the Internet Research Agency, a Russian propaganda organisation, he said.
+
+However, Facebook has since developed better AI tools to shut down fake accounts, he will tell Congress.
+
+Advertising policies have also been amended to include identity checks on advertisers wishing to run political ads, and people who run pages with large followings.
+
+"My top priority has always been our social mission of connecting people, building community," Mr Zuckerberg said.
+
+"Advertisers and developers will never take priority over that as long as I'm running Facebook."
+
+Analysis: Dave Lee, BBC North America Technology Reporter
+
+What is missing from this statement, and likely to be asked by lawmakers, is why it took a newspaper to discover this breach of Facebook's systems.
+
+And, once Facebook knew, why it didn't notify the public and regulators immediately - instead of doing everything it could to block the story.
+
+The measures put out by Facebook in recent days are good, common sense ideas - such as disabling data sharing with any app you don't use for more than three months.
+
+By why did it take so long? Why weren't these protections built-in in the first place?
+
+Mark Zuckerberg is going to try and highlight the good things Facebook has brought to our lives, of which there are many.
+
+But I don't expect US representatives to give him too much credit for that - not this week, anyway.
+
+Facebook alerts users after data scandal
+
+How to protect your Facebook data
+
+Copyright 2026 BBC. All rights reserved. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

@@ -1,0 +1,72 @@
+Mark Zuckerberg says he's 'open' to testifying to Congress, fixes will cost 'many millions' and he 'feels really bad'
+
+Headline ID: d1623866e25972ed
+Source URL: https://www.cnbc.com/2018/03/21/mark-zuckerberg-says-hes-open-to-testifying-to-congress.html
+Author: Kurt Wagner, Kara Swisher
+Published: 2018-03-22T01:18:44+0000
+
+Mark Zuckerberg, CEO of Facebook
+
+Getty Images
+
+While not definitively saying yes, Mark Zuckerberg says he's "open" to testifying before members of Congress regarding Facebook's recent privacy scandal involving Cambridge Analytica. The data firm, which worked for President Donald J. Trump's presidential campaign before the 2016 election, is now embroiled in an ongoing controversy about how it collected user data from the social networking giant without user consent.
+
+In a wide-ranging interview with Recode this afternoon, the Facebook CEO and co-founder said that he would appear before legislators if he was the "right' one inside the company to give lawmakers information about what happened.
+
+"I'm open to doing that," he said when asked if he'd testify. "We actually do this fairly regularly ... There are lots of different topics that Congress needs and wants to know about, and the way that we approach it is that our responsibility is to make sure that they have access to all of the information that they need to have."
+
+More from Recode:
+
+Police have released the first video from inside the Uber self-driving car that killed a pedestrian Uber has withdrawn a job offer to a top Amazon exec after discovering a discrepancy Mark Zuckerberg says Facebook has a 'responsibility to protect your data,' but he doesn't apologize for its data privacy scandal
+
+"So I'm open to doing it if I'm the right [person]," he added. (Note to Mark: You are the right and only person to speak for Facebook at this point in the controversy.)
+
+The worst case scenario for Facebook would be increased data regulation, which could cripple Facebook's advertising business that relies on collecting lots of data from its users. Facebook already lost roughly $50 billion in market cap this week alone.
+
+Zuckerberg admitted multiple times throughout the 20-minute interview that Facebook had made major mistakes in the building of its social platform — going as far back as 2007 — that ultimately led to Cambridge Analytica's ability to misuse personal profile information of some 50 million users. Unlike in his statement posted to his Facebook page on Wednesday, Zuckerberg even apologized.
+
+"We let the community down and I feel really bad and I'm sorry about that," he said. Earlier and in this interview, he had called the mistakes a "breach of trust" with its users.
+
+One that Facebook was clearly responsible for. Zuckerberg reflected on these faults in how Facebook was built in the first place, techniques which it also used to grow enormously. The original mistake, he said, was the decision to open Facebook's data trove so broadly to third-party developers without proper monitoring, which began in 2007 and was turbocharged with his 2008 launch of single sign-on feature called Facebook Connect. The vision was that people would be able to bring their Facebook identity, as well as their friend network, with them into all of the other apps and services they used online.
+
+That wasn't what people actually wanted, Zuckerberg said he has now come to realize. "Frankly, I just think I got that wrong," he said, a sentiment that most Silicon Valley moguls are loathe to admit.
+
+"There was this values tension playing out between the value of data portability — being able to take your data and some social data, the ability to create new experiences — on one hand, and privacy on the other hand," he said. "I was maybe too idealistic on the side of data portability, that it would create more good experiences — and it created some — but I think what the clear feedback was from our community was that people value privacy a lot more."
+
+He also regrets how the company handled the original revelation that Cambridge Analytica had collected Facebook user data back in 2015. At the time, the firm gave Facebook a written statement that any data it had collected was deleted, but now Zuckerberg said he wishes Facebook had actually done its own check to confirm that claim.
+
+"At the time it didn't seem like we needed to go further on that," he said. "Given what we know now we clearly should have followed up and we're never going to make that mistake again."
+
+But Zuckerberg did not give any details about why it did not do those checks and about why broader monitoring of third-party developers — who were given vast troves of user information in some cases — was so shoddy.
+
+He said Facebook is now trying to go back and check who has user data, although it's essentially an effort to put the genie back into the bottle. When asked if he could recover some of the data now, Zuckerberg admitted, "not always."
+
+To help fix what has been broken — Facebook's famous former motto was "move fast and break things" — Zuckerberg announced earlier today that Facebook will start to investigate if other developers abused its policies in the same way Cambridge Analytica did.
+
+That won't be easy, Zuckerberg acknowledged.
+
+"The data isn't on our servers, so it would require us sending out forensic auditors to different apps," he explained. "We do know all the apps that registered for Facebook, and all the people who were on Facebook who registered for those apps, and have a log of the different data requests that the developers made. So we can get a sense of — what are the reputable companies? What are companies that were doing unusual things?"
+
+Facebook, he said, will try to flag suspect behavior for a deeper dive. "Anyone who either has a ton of data or was doing something unusual, we're going to take the next step of having them go through an audit," Zuckerberg said.
+
+How big could the problem be? Pretty big, apparently. Zuckerberg estimated that this process will take months, cost "many millions of dollars," and include at least basic analysis of the data collection from tens of thousands of apps.
+
+"The conversation we were having internally on this is: Are there enough people who are trained auditors in the world to do the number of audits that we're going to need quickly?" he said.
+
+Still, in keeping with Facebook's — and his own — values of trying to remain a neutral platform in an increasingly fractured world, Zuckerberg also reiterated his concern about having too much of his own personal ideology influencing Facebook's rules and regulations.
+
+"A lot of the most sensitive issues that we face today are conflicts between real values, right? Freedom of speech, and hate speech and offensive content. Where is the line?" he said, sounding more like an ethics student than the billionaire CEO of one of the world's most valuable and influential companies.
+
+"What I would really like to do is find a way to get our policies set in a way that reflects the values of the community so I am not the one making those decisions," Zuckerberg said. "I feel fundamentally uncomfortable sitting here in California in an office making content policy decisions for people around the world."
+
+"[The] thing is like, 'Where's the line on hate speech?' I mean, who chose me to be the person that did that?," Zuckerberg said. "I guess I have to, because of [where we are] now, but I'd rather not."
+
+Now, of course, he might have to.
+
+(Note: Recode will post the entire transcript as soon as it is ready.)
+
+Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.
+
+© 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

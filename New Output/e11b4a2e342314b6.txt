@@ -1,0 +1,48 @@
+I started Facebook and am responsible, says Mark Zuckerberg in testimony
+
+Headline ID: e11b4a2e342314b6
+Source URL: https://www.deccanchronicle.com/world/america/110418/i-started-facebook-and-am-responsible-says-mark-zuckerberg-in-testimo.html
+Author: DC Correspondent
+Published: 2018-04-11T07:50:01+05:30
+
+Washington: Facebook CEO Mark Zuckerberg disclosed Tuesday his company is “working with” special counsel Robert Mueller in the federal probe of Russian interference in the 2016 presidential campaign — and working hard to change its own operations after the harvesting of users’ private information by a Trump campaign-affiliated data-mining company.
+
+The founder of the social media giant publicly apologized for his company’s errors in failing to better protect the personal information of its millions of users, a controversy that has brought a flood of bad publicity and sent the company’s stock value plunging. He seemed to achieve a measure of success: Facebook shares surged 4.5 per cent for the day, the biggest gain in two years.
+
+Zuckerberg told the Senate Judiciary and Commerce committees that he has not been personally interviewed by Mueller’s team, but “I know we’re working with them.” He offered no details, citing a concern about confidentiality rules of the investigation.
+
+Earlier in 2018, Mueller charged 13 Russian individuals and three Russian companies in a plot to interfere in the 2016 presidential election through a social media propaganda effort that included online ad purchases using US aliases and politicking on US soil. A number of the Russian ads were on Facebook. Facebook CEO Mark Zuckerberg says his company is “working with” special counsel Robert Mueller in his probe into Russian interference.
+
+During Tuesday’s at-times-contentious hearing, Zuckerberg said it had been “clearly a mistake” to believe the data-mining company Cambridge Analytica had deleted user data that it had harvested in an attempt to sway elections. He said Facebook had considered the data collection “a closed case” because it thought the information had been discarded.
+
+Facebook CEO Mark Zuckerberg before a joint hearing of the Commerce and Judiciary Committees on Capitol Hill in Washington, Tuesday, April 10, 2018, about the use of Facebook data to target American voters in the 2016 election. (Photo: AP)
+
+Facebook also didn’t alert the Federal Trade Commission, Zuckerberg said, and he assured senators the company would handle the situation differently today. He began a two-day congressional inquisition with a public apology for the way Facebook handled the data-mining of its users’ data. He took responsibility for failing to prevent Cambridge Analytica, which was affiliated with Donald Trump’s presidential campaign, from gathering personal information from 87 million users.
+
+Separately, the company began alerting some of its users that their data was gathered by Cambridge Analytica. A notification that appeared on Facebook for some users Tuesday told them that “one of your friends” used Facebook to log into a now-banned personality quiz app called “This Is Your Digital Life.” The notice says the app misused the information, including public profiles, page likes, birthdays and current cities, by sharing it with Cambridge Analytica.
+
+Zuckerberg had apologized many times already, to users and the public, but this was the first time before Congress. He also is to testify Wednesday before the House Energy and Commerce Committee. Sen. John Thune, R-S.D., the Commerce Committee chairman, told Zuckerberg his company had a 14-year history of apologizing for “ill-advised decisions” related to user privacy. “How is today’s apology different?” Thune asked. “We have made a lot of mistakes in running the company,” Zuckerberg responded. “I think it’s pretty much impossible, I believe, to start a company in your dorm room and then grow it to be at the scale that we’re at now without making some mistakes.”
+
+Zuckerberg said Facebook is going through “a broader philosophical shift in how we approach our responsibility as a company.” He said the company needs to take a “more proactive role” that includes ensuring the tools it creates are used in “good and healthy” ways. Sen. Orrin Hatch, R-Utah, said Zuckerberg’s appearance marked the most intense hearing for a tech company since entrepreneur and businessman Bill Gates testified before Congress in March 1998.
+
+Many of the senators’ questions seemed to focus on Facebook’s basic functions, such as its privacy settings and what it does and doesn’t do with user data. Because each of the 44 senators had just 5 minutes to ask questions, there was little time for tough follow-ups. On some subjects, that allowed Zuckerberg to tell the lawmakers that his people would get back to them with more information.
+
+In the hearings, Zuckerberg is trying to both restore public trust in his company and stave off federal regulations that some lawmakers have floated. In his opening statement, he also apologized for his company’s involvement in facilitating fake news and Russian interference in the elections.
+
+Democratic Sen. Bill Nelson of Florida said he believes Zuckerberg was taking the congressional hearings seriously “because he knows there is going to be a hard look at regulation.” Democrats like Nelson have argued that federal laws might be necessary to ensure user privacy. Republicans have yet to get behind any such legislation, but that could change. Sen. Lindsey Graham, R-S.C., asked Zuckerberg if he would be willing to work with lawmakers to examine what “regulations you think are necessary in your industry.”
+
+Facebook CEO Mark Zuckerberg testifies before a joint hearing of the Commerce and Judiciary Committees on Capitol Hill in Washington, Tuesday, April 10, 2018, about the use of Facebook data to target American voters in the 2016 election. (Photo: AP)
+
+Absolutely, Zuckerberg responded, saying later in an exchange with Sen. Dan Sullivan, R-Alaska, that “I’m not the type of person who thinks that all regulation is bad.” He called for a “full conversation about what is the right regulation not whether it should be or shouldn’t be.”
+
+And Texas Sen. John Cornyn, a member of the Judiciary panel and the No. 2 Republican in the Senate, appeared open to regulation in a speech ahead of the hearing. Cornyn said apologies are “not enough” and suggested legislation could eventually be needed to give consumers more control over their data privacy. “This is a serious matter, and I think people expect us to take action,” Cornyn told reporters after his speech.
+
+At the hearing, Zuckerberg said, “We didn’t take a broad enough view of our responsibility, and that was a big mistake. It was my mistake, and I’m sorry. I started Facebook, I run it, and I’m responsible for what happens here.”
+
+After resisting previous calls to testify, Zuckerberg agreed to come to Capitol Hill this month after reports surfaced — and the company confirmed — that Cambridge Analytica had gathered Facebook users’ data. Zuckerberg said his company has a responsibility to make sure that doesn’t happen again. He acknowledged that the company was too slow to respond to Russian election interference and said it was “working hard to get better.” The company has said that as many as 146 million people may have received information from a Russian agency that’s accused of orchestrating much of the cyber meddling in the election.
+
+He outlined steps the company has taken to restrict outsiders’ access to people’s personal information. He also said the company is investigating every app that had access to a large amount of information before the company moved to prevent such access in 2014 — actions that came too late in the Cambridge Analytica case.
+
+
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

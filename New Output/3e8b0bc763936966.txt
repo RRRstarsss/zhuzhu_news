@@ -1,0 +1,42 @@
+What Zuckerberg’s congressional testimony doesn’t say
+
+By Jonathan Shieber
+1:59 PM PDT · April 9, 2018
+
+There’s a lot of keen analytical hindsight on display in Facebook chief executive Mark Zuckerberg’s written testimony to Congress ahead of his appearance at hearings on Wednesday, but nothing that indicates Facebook is ready to come to terms with the problems rotting the core of the social network.
+
+The bulk of Zuckerberg’s opening statement is an historical analysis of the events of the past two years that have bruised the company’s reputation and share price.
+
+Zuckerberg is defending his company on two fronts as he faces down the members of Congress that could regulate his company out of existence — user privacy and platform integrity.
+
+In the testimony, Zuckerberg highlights the initial steps that Facebook has taken to close down access for third parties and to do more to combat fake accounts and the spread of misinformation.
+
+These steps constitute what are now Zuckerberg’s usual assurances… Facebook is sacrificing its own profits to develop new tools and hire new personnel to combat bad actors that would leverage Facebook’s user information for their own fun and profit. Facebook has taken steps before the U.S. election to root out bad actors and will take even more steps now — since those initial efforts weren’t enough.
+
+Near the close of his written testimony, Zuckerberg writes: “I want to be clear about what our priority is: protecting our community is more important than maximizing our profits.”
+
+What Zuckerberg’s testimony fails to mention, as ever, is whether users themselves will ever be protected from Facebook.
+
+Ultimately Facebook’s scandal is about how much the company knows about its users and how much power those users then have to control how Facebook applies (or shares) its knowledge.
+
+As Wired columnist Zeynep Tufekci pointed out in a column this weekend, that’s been Facebook’s problem since the company’s inception.
+
+By now, it ought to be plain to them, and to everyone, that Facebook’s 2 billion-plus users are surveilled and profiled, that their attention is then sold to advertisers and, it seems, practically anyone else who will pay Facebook—including unsavory dictators like the Philippines’ Rodrigo Duterte. That is Facebook’s business model. That is why the company has an almost half-a-trillion-dollar market capitalization, along with billions in spare cash to buy competitors.
+
+All of the steps that Facebook is taking now to “make sure what happened with Kogan and Cambridge Analytica doesn’t happen again” only achieve one thing — consolidating Facebook’s control over the user data that it can make available to its customers.
+
+The policies just reduce the funnel of information that application developers, advertisers and others can freely access (the emphasis here is on free). For those who want to pay the company for the information — there’s no guarantee that it won’t be used in some way.
+
+As Tufekci writes, Facebook is a surveillance engine — that’s the core of its business and the sale of that surveillance to bidders is the way that it functions to connect its “community.” And protecting that community is a good way to also protect Facebook’s profits.
+
+The problem for Facebook begins with the platform itself — and Zuckerberg’s designs for it. And it won’t be solved with a single congressional hearing.
+
+To pre-empt Congressional questioning and change the conversation, Zuckerberg could have offered solutions for Facebook to proactively address the problems that bedevil it — beyond the adoption of the One scenario that could free Facebook from the advertising chains that ostensibly bind it to being a digital surveillance state is the introduction of a subscription service (as my colleague Josh Constine suggested earlier this year).
+
+For regulators looking at potential legal solutions, the application of GDPR standards across the entire Facebook platform would be a step in the right direction. Zuckerberg has committed to it, but his company has a history of failing to live up to its promises to users. Perhaps Congress will find a way to convince Facebook’s chief to help the company keep its word… and avoid another apology tour.
+
+---
+Source: https://techcrunch.com/2018/04/09/what-zuckerbergs-congressional-testimony-doesnt-say/
+© 2026 TechCrunch Media LLC.
+Terms of use: https://techcrunch.com/terms-of-service/
+Single local copy for personal, non-commercial use. Original article wording preserved; webpage navigation, advertising, media controls and related-content cards omitted.

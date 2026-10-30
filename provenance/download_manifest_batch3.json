@@ -1,0 +1,1492 @@
+{
+  "batch": 3,
+  "source_workbook": "news_urls(1).xlsx",
+  "source_sheet": "headline_urls",
+  "created_at": "2026-10-30T21:19:47+08:00",
+  "requested_article_count": 60,
+  "completed_article_count": 60,
+  "prior_existing_count": 43,
+  "new_output_txt_count": 100,
+  "total_unique_articles_including_current_output": 103,
+  "use_scope": "Personal learning or nonprofit research, as confirmed by user; no commercial reuse or redistribution implied.",
+  "format": "UTF-8 text, original wording and attribution; complete published article text including brief news items and introductions accompanying videos. Video speech is not represented as transcribed when no transcript was supplied by the publisher.",
+  "excluded_existing_headline_ids": [
+    "015291b340d30b5f",
+    "02a4a9146ce5f8f8",
+    "07266c1e9e42c1f8",
+    "0ab5cd31a49fd223",
+    "0ecce865fcd1a229",
+    "104a9e477fbc5106",
+    "1b25cd49fd6877c7",
+    "1bf0343ff0caf413",
+    "20424d423898dffa",
+    "215ac022510ddb4c",
+    "219f22863f883836",
+    "260ead4ad1b85b11",
+    "30c38943018a84b7",
+    "38e99fb080df6c2e",
+    "3e8b0bc763936966",
+    "4098035751a54ada",
+    "4373dfc5956125a7",
+    "43d74244f2f60480",
+    "480b9ba8a2870f6b",
+    "48154e460ebd896f",
+    "49fa77aa4b01d3b3",
+    "54046453e1e7474b",
+    "5eb5f5aec2daab88",
+    "6b6671d4672b2a43",
+    "6d07f1b0a05d4670",
+    "73b518e59edfe055",
+    "805bc7876930b3b8",
+    "877edb478d7b0181",
+    "879bbe105c99a086",
+    "912e9e2adc2aaf10",
+    "9199f404e2c5d3b0",
+    "95a22d75f841b8a5",
+    "9688b6465b196bf2",
+    "9c40208645235ec2",
+    "a3770e9c1f8323fa",
+    "a48e5372ff39cc4c",
+    "ad0e74bfc7de3c8a",
+    "add878cbf2a98ccd",
+    "e0ab5d11e0083444",
+    "e620f6b398fdedaa",
+    "e9d9289afe25c3ca",
+    "ef97949630e91d6a",
+    "f3253760e025a25e"
+  ],
+  "validation": {
+    "existing_43_hashes_unchanged": true,
+    "new_unique_ids": 60,
+    "new_unique_urls": 60,
+    "total_unique_texts": 103,
+    "body_near_duplicate_pairs_above_jaccard_0_5": 0,
+    "body_containment_pairs_above_0_7_and_50_shared_5grams": 0,
+    "independent_article_spot_check_passed": true
+  },
+  "articles": [
+    {
+      "headline_id": "90dae46a40263b93",
+      "filename": "90dae46a40263b93.txt",
+      "original_headline": "Where did Zuckerberg sleep last night? (And other key moments from Senate grilling)",
+      "page_title": "Where did Zuckerberg sleep last night? (And other key moments from Senate grilling)",
+      "source_url": "https://www.euronews.com/2018/04/11/mark-zuckerberg-testimony-key-moments-facebook-ceo-s-day-hot-n864696",
+      "author": "Euronews (no individual byline shown)",
+      "publication_date": "2018-04-11T00:16:00+02:00",
+      "body_words": 724,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section A permits one downloaded personal noncommercial copy on one computer, with notices retained. User confirmed personal learning/nonprofit research.",
+      "rights_url": "https://www.euronews.com/terms-and-conditions",
+      "copyright_notice": [
+        "Copyright © euronews 2026"
+      ],
+      "sha256": "3932d9836078217cc572f4280ce6658384eebe81725a171633a4465e7eb7ee75",
+      "body_sha256": "3650174eaa966e07de5d4bd9e24ad104d710da0168a82749ac6647b8bd1418b9",
+      "original_match_quality": "high",
+      "source_match_notes": "Complete public article text and subheadings; advertisements and navigation removed. Short 2019 article is a complete three-paragraph live-video introduction, not a transcript.",
+      "headline_ids_with_same_source_url": [
+        "90dae46a40263b93"
+      ]
+    },
+    {
+      "headline_id": "3244c9529a4f69a0",
+      "filename": "3244c9529a4f69a0.txt",
+      "original_headline": "WATCH LIVE: Facebook chief Mark Zuckerberg testifies before US Congress",
+      "page_title": "Facebook chief Mark Zuckerberg testifies before US Congress",
+      "source_url": "https://www.euronews.com/2019/10/23/watch-live-facebook-chief-mark-zuckerberg-testifies-before-us-congress",
+      "author": "Alastair Jamieson",
+      "publication_date": "2019-10-23T16:33:17+02:00",
+      "body_words": 77,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section A permits one downloaded personal noncommercial copy on one computer, with notices retained. User confirmed personal learning/nonprofit research.",
+      "rights_url": "https://www.euronews.com/terms-and-conditions",
+      "copyright_notice": [
+        "Copyright © euronews 2026"
+      ],
+      "sha256": "a897f3ee9b94c83e8686bd9e828c1db81ae24c7578931ac914b8af614f6145cd",
+      "body_sha256": "53c21000aa55fda73a473a066918a8eefc5ddf96b31248b37322c9a41f076333",
+      "original_match_quality": "high",
+      "source_match_notes": "Complete public article text and subheadings; advertisements and navigation removed. Short 2019 article is a complete three-paragraph live-video introduction, not a transcript.",
+      "headline_ids_with_same_source_url": [
+        "3244c9529a4f69a0",
+        "347984f1f1e164b2"
+      ]
+    },
+    {
+      "headline_id": "368ad122ad7574aa",
+      "filename": "368ad122ad7574aa.txt",
+      "original_headline": "Facebook chief Mark Zuckerberg to testify before US Congress in wake of Cambridge Analytica scandal, says insider",
+      "page_title": "Facebook chief to testify before US Congress in wake of Cambridge Analytica scandal, says insider",
+      "source_url": "https://www.smh.com.au/technology/facebook-chief-to-testify-before-us-congress-in-wake-of-cambridge-analytica-scandal-says-insider-20180328-p4z6ld.html",
+      "author": "Reuters",
+      "publication_date": "2018-03-27T18:50:10Z",
+      "body_words": 378,
+      "content_type": "Complete published article text",
+      "rights_basis": "Intellectual Property section permits downloading/reproducing material for own personal noncommercial use. Confirmed actual linked terms in ordinary browser.",
+      "rights_url": "https://login.nine.com.au/terms?client_id=smh",
+      "copyright_notice": [
+        "Copyright © 2026"
+      ],
+      "sha256": "aab7b8c758724b04754f8b44c25a07fcf8d2480c55449bd852ed4cd29d63e503",
+      "body_sha256": "a4ba286435949a98296604b852a1177c3c44395a40a2d317b8c225e37d3d45fa",
+      "original_match_quality": "high",
+      "source_match_notes": "Full article body visible in ordinary anonymous browser including final paragraph despite false schema access flag. No paywall bypass. All prose retained; navigation, ads, related article cards and photo captions excluded.",
+      "headline_ids_with_same_source_url": [
+        "368ad122ad7574aa",
+        "cab4687c9f837ea3"
+      ]
+    },
+    {
+      "headline_id": "4fcab099a9444932",
+      "filename": "4fcab099a9444932.txt",
+      "original_headline": "'Breathtaking arrogance': US senators grill Facebook of over cryptocurrency plan",
+      "page_title": "'Breathtaking arrogance': US senators grill Facebook over cryptocurrency plan",
+      "source_url": "https://www.watoday.com.au/world/north-america/facebook-should-not-be-trusted-with-crazy-libra-cryptocurrency-plan-us-senators-20190717-p527vf.html",
+      "author": "Matthew Knott",
+      "publication_date": "2019-07-16T19:21:08Z",
+      "body_words": 660,
+      "content_type": "Complete published article text",
+      "rights_basis": "Intellectual Property section permits downloading/reproducing material for own personal noncommercial use. Confirmed actual linked terms in ordinary browser.",
+      "rights_url": "https://login.nine.com.au/terms?client_id=smh",
+      "copyright_notice": [
+        "Copyright © 2026"
+      ],
+      "sha256": "c3dcae4e88acc911990ab0ace3f11a64760eb620eaaff234b6e0510bdc5b0b9b",
+      "body_sha256": "938f8a612f8195ddae000a2d01113305d6b17d1d7515eef4b49c18294630494c",
+      "original_match_quality": "high",
+      "source_match_notes": "Full article body visible in ordinary anonymous browser including final paragraph despite false schema access flag. No paywall bypass. All prose retained; navigation, ads, related article cards and photo captions excluded.",
+      "headline_ids_with_same_source_url": [
+        "4fcab099a9444932",
+        "05fffbc3f738c262",
+        "50321f756ed01a66"
+      ]
+    },
+    {
+      "headline_id": "7420fad6945242da",
+      "filename": "7420fad6945242da.txt",
+      "original_headline": "Read Next: Facebook Shares Climb as Mark Zuckerberg Testifies at Senate Hearing",
+      "page_title": "Facebook Shares Climb as Mark Zuckerberg Testifies at Senate Hearing",
+      "source_url": "https://variety.com/2018/digital/news/facebook-stock-mark-zuckerberg-testifies-senate-1202749625/",
+      "author": "Todd Spangler",
+      "publication_date": "2018-04-10T19:21:24+00:00",
+      "body_words": 477,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "0d65d21650f20dc0eff10bf79d021f14c487772e929145071ee36f1f4bdb5018",
+      "body_sha256": "26eec7440b33f88e95e925ffe4bc8ba6d1b739c601f9dc25de800160e7bcb9d6",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "7420fad6945242da",
+        "77aa18e5dbebd81c",
+        "3f8769a62d5ff158",
+        "7996bd0078ad27f6",
+        "2ab34ba783cdf73b"
+      ]
+    },
+    {
+      "headline_id": "50577973707ed9f1",
+      "filename": "50577973707ed9f1.txt",
+      "original_headline": "Watch Mark Zuckerberg's First Congressional Hearing Live",
+      "page_title": "Watch Mark Zuckerberg’s First Congressional Hearing Live",
+      "source_url": "https://variety.com/2018/digital/news/mark-zuckerberg-congressional-hearings-how-to-watch-online-livestream-1202749420/",
+      "author": "Variety Staff",
+      "publication_date": "2018-04-10T17:41:27+00:00",
+      "body_words": 243,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "182d626de52ac8526b77ba915765a783e0c919ece5efe4b0d0045656ffa64a23",
+      "body_sha256": "2265ec2709afb376b5dff8fe2326042d9a11c5ebf908355e4eaf4a0033da9197",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "50577973707ed9f1",
+        "cb201d53121513ed"
+      ]
+    },
+    {
+      "headline_id": "cf26145d28b09fa8",
+      "filename": "cf26145d28b09fa8.txt",
+      "original_headline": "Read Next: Zuckerberg to Emphasize Positives, Admit Shortcomings in Congressional Testimony",
+      "page_title": "Zuckerberg to Emphasize Positives, Admit Shortcomings in Congressional Testimony",
+      "source_url": "https://variety.com/2018/digital/news/zuckerberg-house-committee-testimony-1202747520/",
+      "author": "Janko Roettgers",
+      "publication_date": "2018-04-09T16:12:34+00:00",
+      "body_words": 490,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "458fb1acd6191fcf8b14e66a5ed42879d86c9dff2ed41828d86b2b8f4b6c933b",
+      "body_sha256": "a8eeb8df62a049480db675f61fd805eb56abb8577116b80e721a7a6ade6c8789",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "cf26145d28b09fa8",
+        "d53eac3ee91f8377"
+      ]
+    },
+    {
+      "headline_id": "76cfc58f0605a280",
+      "filename": "76cfc58f0605a280.txt",
+      "original_headline": "Facebook, Twitter Will Face GOP Questions of Political Bias at Congressional Hearings",
+      "page_title": "Facebook, Twitter Will Face GOP Questions of Political Bias at Congressional Hearings",
+      "source_url": "https://variety.com/2018/politics/news/facebook-twitter-congressional-hearings-gop-1202926136/",
+      "author": "Ted Johnson",
+      "publication_date": "2018-09-04T18:21:56+00:00",
+      "body_words": 981,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "0073d9b7c66afc3f381ddbd7885f465554bd3ee29a00deb331622ce4cf8a52ba",
+      "body_sha256": "92519d07c2f5b70cc118355d8bb7f9113b2691b1d23cdfa0d4323b8d369860ae",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "76cfc58f0605a280"
+      ]
+    },
+    {
+      "headline_id": "64e4ab6b6a78f18a",
+      "filename": "64e4ab6b6a78f18a.txt",
+      "original_headline": "Read Next: Mark Zuckerberg Will Testify Before Congress on April 11",
+      "page_title": "Mark Zuckerberg Will Testify Before Congress on April 11",
+      "source_url": "https://variety.com/2018/politics/news/mark-zuckerberg-facebook-congress-1202743497/",
+      "author": "Ted Johnson",
+      "publication_date": "2018-04-04T12:59:46+00:00",
+      "body_words": 236,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "a1fdaff852267e260ae9633f1d4e4ca653dddcca94fc1c1269402a8d4a9a1c8b",
+      "body_sha256": "5df8310be30b9d5454c7ee5e95ef3549a7df05accfd8373901198ddaafe2ae60",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "64e4ab6b6a78f18a",
+        "bd34079f80ffffa9"
+      ]
+    },
+    {
+      "headline_id": "06bea0424f4f8a75",
+      "filename": "06bea0424f4f8a75.txt",
+      "original_headline": "Read Next: House Committee Leaders Ask Facebook's Mark Zuckerberg to Testify at Hearing",
+      "page_title": "House, Senate Committee Leaders Ask Facebook’s Mark Zuckerberg to Testify at Hearing",
+      "source_url": "https://variety.com/2018/politics/news/mark-zuckerberg-facebook-congress-tesify-1202734412/",
+      "author": "Ted Johnson",
+      "publication_date": "2018-03-23T14:39:30+00:00",
+      "body_words": 524,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "120782137146cf3f06a56dbbcecc2dd16b3a7bee7e851131e6d6dd6d2a94f193",
+      "body_sha256": "a26d8875632e368abf3605c2e8a896e721eef83a6d9be6bdc8dacba37073b4f2",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "06bea0424f4f8a75",
+        "3bb9ec57bea59578",
+        "3def5304986e6c16",
+        "530a5735767e4166",
+        "30692299e5ae2af0"
+      ]
+    },
+    {
+      "headline_id": "daf73df4cd079d1b",
+      "filename": "daf73df4cd079d1b.txt",
+      "original_headline": "Read Next: MPAA Seizes on Mark Zuckerberg Testimony to Urge Greater Internet Accountability",
+      "page_title": "MPAA Seizes on Mark Zuckerberg Testimony to Urge Greater Internet Accountability",
+      "source_url": "https://variety.com/2018/politics/news/mpaa-mark-zuckerberg-facebook-1202750026/",
+      "author": "Ted Johnson",
+      "publication_date": "2018-04-11T01:26:38+00:00",
+      "body_words": 251,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "cd77e1e1c6f56f9d4a21081e768a890c063af1a324a8535de0ae6cfe10951833",
+      "body_sha256": "70dd0c31f260b8f119c8407e0632524c549202c89b1877036a078a087dcff85b",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "daf73df4cd079d1b",
+        "f5b3fdb6694b27bb"
+      ]
+    },
+    {
+      "headline_id": "3b08e7e64679e4df",
+      "filename": "3b08e7e64679e4df.txt",
+      "original_headline": "Lawmakers Grill T-Mobile, Sprint Execs on Merger Plans",
+      "page_title": "Lawmakers Grill T-Mobile, Sprint Execs on Merger Plans",
+      "source_url": "https://variety.com/2019/politics/news/t-mobile-sprint-merger-lawmakers-opposition-1203138599/",
+      "author": "Ted Johnson",
+      "publication_date": "2019-02-13T22:02:37+00:00",
+      "body_words": 625,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "7977232bff74ca65b169c391616979261c77268d5ac9c64519dfa4220e98ebc0",
+      "body_sha256": "ad90eeb12286716d114a7c63a9bcdafac6501cf53b02655fd53285ecfbd33739",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "3b08e7e64679e4df"
+      ]
+    },
+    {
+      "headline_id": "06832244dcea857f",
+      "filename": "06832244dcea857f.txt",
+      "original_headline": "Apple Promotes Research It Commissioned Defending App Store's Fee Structure Ahead of Congressional Hearing",
+      "page_title": "Apple Promotes Research It Commissioned Defending App Store’s Fee Structure Ahead of Congressional Hearing",
+      "source_url": "https://variety.com/2020/digital/news/apple-app-store-research-fees-1234713340/",
+      "author": "Todd Spangler",
+      "publication_date": "2020-07-22T17:00:36+00:00",
+      "body_words": 561,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "87275b9b86fb5875a9b95d9104b76821cd2e30537053aeb3f718016c661508a7",
+      "body_sha256": "65dadab16bc6660d02fec773fdf5e0494b78bf7d02f4585b7513830daaf22ddd",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "06832244dcea857f"
+      ]
+    },
+    {
+      "headline_id": "cbff28a816597327",
+      "filename": "cbff28a816597327.txt",
+      "original_headline": "CEOs of Facebook, Amazon, Apple and Google to Testify at House...",
+      "page_title": "CEOs of Facebook, Amazon, Apple and Google to Testify at House Antitrust Hearing",
+      "source_url": "https://variety.com/2020/digital/news/ceos-facebook-apple-amazon-google-house-antitrust-hearing-1234696945/",
+      "author": "Todd Spangler",
+      "publication_date": "2020-07-02T17:10:18+00:00",
+      "body_words": 275,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "05b447565b5bb2fe49d6de523c739538105aa9382b0199286a52ec799329a151",
+      "body_sha256": "4c0080a7684a7c2391983311cda541f45f497da3f45f21857da216142645f55d",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "cbff28a816597327",
+        "821016cb103cacd5",
+        "1773c2dd7c0ef246"
+      ]
+    },
+    {
+      "headline_id": "8843da29805cb56f",
+      "filename": "8843da29805cb56f.txt",
+      "original_headline": "Facebook's Sheryl Sandberg and Twitter's Jack Dorsey to testify this week on Capitol Hill",
+      "page_title": "Facebook’s Sheryl Sandberg, Twitter’s Jack Dorsey Testify on Capitol Hill",
+      "source_url": "https://variety.com/2018/politics/news/twitter-facebook-congress-1202927470/",
+      "author": "Ted Johnson",
+      "publication_date": "2018-09-05T14:23:43+00:00",
+      "body_words": 1265,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "dab16b598b38944f13151c03c7620d642ea62525ee5c45b77adab01ec6fd2423",
+      "body_sha256": "32ecda01cd7f14e484ea321a96279037fc6bf65ee13dbfd7be7fc2039356e9d9",
+      "original_match_quality": "high",
+      "source_match_notes": "All editorial text blocks preserved; page navigation, ads, related articles, and media player controls excluded. Chosen 2018-09-04 alias for the same Sep 5 hearing; source page is Sep 5 hearing report. Rejected alias1db3ecbd5f17e589 with wrong 2019 date.",
+      "headline_ids_with_same_source_url": [
+        "1db3ecbd5f17e589",
+        "8843da29805cb56f"
+      ]
+    },
+    {
+      "headline_id": "690f356636852de4",
+      "filename": "690f356636852de4.txt",
+      "original_headline": "Senators Call On Mark Zuckerberg To Testify Under Oath About Cambridge Analytica Data Leak",
+      "page_title": "Senators Call On Mark Zuckerberg To Testify Under Oath About Cambridge Analytica Data Leak",
+      "source_url": "https://deadline.com/2018/03/senators-call-on-mark-zuckerberg-facebook-testify-cambridge-analytica-data-leak-1202351539/",
+      "author": "Dawn C. Chmielewski",
+      "publication_date": "2018-03-22T16:43:38+00:00",
+      "body_words": 374,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "32318ce0ef3b3ba73602024485c39ae88c1bcdec3de48a07164bf750b3fe1d48",
+      "body_sha256": "f07ed73b316b0c6f7c99b932ac231f9f9a7f7940dc390b8fcca2c09e7d4385ef",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser rendered complete article to its final paragraph without a paywall, verified by root agent despite false schema flag. All editorial text blocks preserved; navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "690f356636852de4",
+        "99282247b38afa71"
+      ]
+    },
+    {
+      "headline_id": "b93507abe0bdb706",
+      "filename": "b93507abe0bdb706.txt",
+      "original_headline": "READ: Facebook CEO Mark Zuckerberg's Prepared Testimony Revealed Ahead of Wednesday Hearing",
+      "page_title": "Read Mark Zuckerberg’s Prepared Testimony Ahead of Wednesday Hearing",
+      "source_url": "https://www.hollywoodreporter.com/news/general-news/read-mark-zuckerbergs-prepared-testimony-wednesday-hearing-1101002/",
+      "author": "THR Staff",
+      "publication_date": "2018-04-09T09:50:16+00:00",
+      "body_words": 2968,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "c82812a6e801d0a90e373725e889a8f23cfebe791e62c4fab543fc4caaf04f67",
+      "body_sha256": "16d001d6e8f80953d3f7b336b1ecd67816b7aefb7aa549be83685fa8b62e3fdc",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser rendered complete article to its final paragraph without a paywall, verified by root agent despite false schema flag. All editorial text blocks preserved; navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "b93507abe0bdb706",
+        "e40efaa8ec7e607d"
+      ]
+    },
+    {
+      "headline_id": "044113a151cb27cb",
+      "filename": "044113a151cb27cb.txt",
+      "original_headline": "Mark Zuckerberg To Testify Before Senate Judiciary and Commerce Committees, House Energy And Commerce Committee",
+      "page_title": "Mark Zuckerberg To Testify Before Senate Judiciary and Commerce Committees, House Energy And Commerce Committee",
+      "source_url": "https://deadline.com/2018/04/mark-zuckerberg-decides-testify-congress-cnn-cambridge-analytica-1202354099/",
+      "author": "Dawn C. Chmielewski",
+      "publication_date": "2018-04-05T01:17:29+00:00",
+      "body_words": 544,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "4149e3214cbc75bf2095f3f78c327f116fa9fd008dd036a7201d2035cf86d974",
+      "body_sha256": "9f3bfe3f2f1e69af9911609f9207b7e5a49eb40b64bc470e0f35a57db1c84f96",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser rendered complete article to its final paragraph without a paywall, verified by root agent despite false schema flag. All editorial text blocks preserved; navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "044113a151cb27cb"
+      ]
+    },
+    {
+      "headline_id": "23db61dd7e5b1cd0",
+      "filename": "23db61dd7e5b1cd0.txt",
+      "original_headline": "Facebook's Mark Zuckerberg Testifies In Front Of Senate Committees - Watch Live",
+      "page_title": "Facebook’s Mark Zuckerberg Testifies In Front Of Senate Committees – Watch Live",
+      "source_url": "https://deadline.com/2018/04/mark-zuckerberg-senate-testimony-live-stream-facebook-data-scandal-1202361386/",
+      "author": "Patrick Hipes",
+      "publication_date": "2018-04-10T18:19:06+00:00",
+      "body_words": 250,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "caeef88610f4b85c9279cd437f75cd557ca54002c55a8517e08a8216e9afbed8",
+      "body_sha256": "a5d7982a600a7d18cd9050a2fd9a20d9cbef0eb9085249c30e9057b1e197a484",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser rendered complete article to its final paragraph without a paywall, verified by root agent despite false schema flag. All editorial text blocks preserved; navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "23db61dd7e5b1cd0"
+      ]
+    },
+    {
+      "headline_id": "c30e619f07d8cee6",
+      "filename": "c30e619f07d8cee6.txt",
+      "original_headline": "Facebook's Sheryl Sandberg Continues Apology Tour Ahead Of Mark Zuckerberg's Congressional Testimony",
+      "page_title": "Facebook’s Sheryl Sandberg Continues Apology Tour Ahead Of Mark Zuckerberg’s Congressional Testimony",
+      "source_url": "https://deadline.com/2018/04/sheryl-sandberg-facebook-apology-fox-news-interview-video-1202360061/",
+      "author": "Dawn C. Chmielewski",
+      "publication_date": "2018-04-06T21:45:24+00:00",
+      "body_words": 561,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "25f3abab1ae202f2d44d4e821db6d1008752cd946bb3c919219675cb3f062394",
+      "body_sha256": "f9dbb9d7eedf2e4afa8c070c7774312c092eaedc1e06b0f2250a4d0ca184ff83",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser rendered complete article to its final paragraph without a paywall, verified by root agent despite false schema flag. All editorial text blocks preserved; navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "c30e619f07d8cee6"
+      ]
+    },
+    {
+      "headline_id": "9a7b532ea94aa8e1",
+      "filename": "9a7b532ea94aa8e1.txt",
+      "original_headline": "Mark Zuckerberg Defends Facebook's Political Ad Policies In Heated Congressional Hearing",
+      "page_title": "Mark Zuckerberg Defends Facebook’s Political Ad Policies In Heated Congressional Hearing",
+      "source_url": "https://deadline.com/2019/10/mark-zuckerberg-maxine-waters-facebook-1202766988/",
+      "author": "Ted Johnson",
+      "publication_date": "2019-10-23T16:31:33+00:00",
+      "body_words": 662,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "6632dfd53ff803f9a83844233ee5812d7c3a31fb81500650b7dec4541d365c8c",
+      "body_sha256": "deb46218d4d1580e7437f5028d2fd3b7a35b9e6e315b04aafecd4b2dc14a3981",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser rendered complete article to its final paragraph without a paywall, verified by root agent despite false schema flag. All editorial text blocks preserved; navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "9a7b532ea94aa8e1"
+      ]
+    },
+    {
+      "headline_id": "2139b7dc3959097d",
+      "filename": "2139b7dc3959097d.txt",
+      "original_headline": "Tech CEOs From Amazon, Facebook, Apple, Alphabet To Testify Before Congress",
+      "page_title": "Tech CEOs From Amazon, Facebook, Apple, Alphabet To Testify Before Congress",
+      "source_url": "https://deadline.com/2020/07/tech-ceos-to-testify-before-congress-on-antitrust-issues-1202976778/",
+      "author": "Bruce Haring",
+      "publication_date": "2020-07-03T02:47:46+00:00",
+      "body_words": 156,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "a1c2fd5c26ebcf8a2f8dcc314f6e202ef6d7a40ebd2b9592f923952485903696",
+      "body_sha256": "6158dcaad23b5313aff091ac080e294e8f61273fd134c1de9d9711b2b3a30536",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser rendered complete article to its final paragraph without a paywall, verified by root agent despite false schema flag. All editorial text blocks preserved; navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "2139b7dc3959097d"
+      ]
+    },
+    {
+      "headline_id": "6e83a44e78221ff1",
+      "filename": "6e83a44e78221ff1.txt",
+      "original_headline": "Facebook CEO Mark Zuckerberg Proposes Section 230 Tweaks As Social Media CEOs Prepare For Grilling In Congress",
+      "page_title": "Facebook CEO Mark Zuckerberg Proposes Section 230 Tweaks As Social Media CEOs Prepare For Grilling In Congress",
+      "source_url": "https://deadline.com/2021/03/mark-zuckerberg-section-230-jack-dorsey-twitter-sundar-pichai-google-congress-testimony-house-hearing-1234721236/",
+      "author": "Jill Goldsmith",
+      "publication_date": "2021-03-24T22:33:25+00:00",
+      "body_words": 523,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "6370a4d4cbe38faad899f377b891677a11a9838340bc8010798a86b4b608c137",
+      "body_sha256": "e34d2847e53a7a8fef00c1e3241b4c317ad91c12802826a66d3d2ed65d82a7dd",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser rendered complete article to its final paragraph without a paywall, verified by root agent despite false schema flag. All editorial text blocks preserved; navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "6e83a44e78221ff1"
+      ]
+    },
+    {
+      "headline_id": "9805ef74d6efc7fb",
+      "filename": "9805ef74d6efc7fb.txt",
+      "original_headline": "Late-Night Hosts Dissect Mark Zuckerberg's Congressional Testimony",
+      "page_title": "Late-Night Hosts Dissect Mark Zuckerberg’s Congressional Testimony",
+      "source_url": "https://www.hollywoodreporter.com/tv/tv-news/late-night-hosts-dissect-mark-zuckerbergs-congressional-testimony-1101602/",
+      "author": "Katie Kilkenny",
+      "publication_date": "2018-04-10T18:50:28+00:00",
+      "body_words": 594,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "3fba7d29c8a4966cfced8447f32ea030e3e2974cf4a4cc652cc9e0d8966e002c",
+      "body_sha256": "32e0035de0e655dc88e1d134e978f1faa02a3265645068d9e7a7025e0d7b7978",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser rendered complete article to its final paragraph without a paywall, verified by root agent despite false schema flag. All editorial text blocks preserved; navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "9805ef74d6efc7fb"
+      ]
+    },
+    {
+      "headline_id": "a8be38e4ebb3baaa",
+      "filename": "a8be38e4ebb3baaa.txt",
+      "original_headline": "Hope Hicks Will Be First Donald Trump Aide To Testify Before House Panel In Obstruction Probe",
+      "page_title": "Hope Hicks Will Be First Donald Trump Aide To Testify Before House Panel In Obstruction Probe",
+      "source_url": "https://deadline.com/2019/06/hope-hickstestify-house-judiciary-donald-trump-obstruction-1202631758/",
+      "author": "Erik Pedersen",
+      "publication_date": "2019-06-12T21:42:01+00:00",
+      "body_words": 402,
+      "content_type": "full news article text",
+      "rights_basis": "Section 3: single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "62e4dfb18bedaaae320cbe6f3da3ec9cdcdfd02ca05d6ec3b912ff89f848d8a7",
+      "body_sha256": "d5429e8840b9313b2c2646e226b53b5a5af0dd17106e672677671880ec90de97",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser rendered complete article to its final paragraph without a paywall, verified by root agent despite false schema flag. All editorial text blocks preserved; navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "a8be38e4ebb3baaa"
+      ]
+    },
+    {
+      "headline_id": "88a88286cf59d681",
+      "filename": "88a88286cf59d681.txt",
+      "original_headline": "Watch Mark Zuckerberg's Libra congressional testimony here",
+      "page_title": "Watch Mark Zuckerberg’s Libra congressional testimony here",
+      "source_url": "https://www.theverge.com/2019/10/23/20928558/zuckerbergs-hearings-watch-live-stream-how-to-libra-congressional-testimony-facebook",
+      "author": "Makena Kelly",
+      "publication_date": "2019-10-23T14:19:55+00:00",
+      "body_words": 114,
+      "content_type": "full news article text",
+      "rights_basis": "Publisher footer links current PMC terms, Section 3 single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "d879aea3c45a0db7892f717cc5056e5ef236d51c73ad79b09b7103fa8851106d",
+      "body_sha256": "57ba24ed1929b94e742838eefe6e872d07c0bb8805a48809dffc1de38006214c",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser confirmed complete visible article to its final paragraph, verified by root agent. Body matches full articleBody schema after HTML unescaping and whitespace normalization; repeated pull quotes, navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "88a88286cf59d681"
+      ]
+    },
+    {
+      "headline_id": "0c7da8e1b62b2a6a",
+      "filename": "0c7da8e1b62b2a6a.txt",
+      "original_headline": "The Senate will hold a hearing next month on Facebook's Libra currency",
+      "page_title": "The Senate will hold a hearing next month on Facebook’s Libra currency",
+      "source_url": "https://www.theverge.com/2019/6/19/18691937/facebook-libra-crypto-currency-blockchain-senate-finance-committee-july-16",
+      "author": "Makena Kelly",
+      "publication_date": "2019-06-19T20:24:22+00:00",
+      "body_words": 349,
+      "content_type": "full news article text",
+      "rights_basis": "Publisher footer links current PMC terms, Section 3 single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "1a76ddf10466cb550fc7a8cbf4b943b3d28bcd82a55cf3b556a8191cd05a5a9b",
+      "body_sha256": "9ea434c0017bb37522deaf2dc3e54975ff2518391da9effd1e3617a56535f92d",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser confirmed complete visible article to its final paragraph, verified by root agent. Body matches full articleBody schema after HTML unescaping and whitespace normalization; repeated pull quotes, navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "0c7da8e1b62b2a6a"
+      ]
+    },
+    {
+      "headline_id": "9585a9bf3e6a9ebf",
+      "filename": "9585a9bf3e6a9ebf.txt",
+      "original_headline": "Facebook's Libra hearings in Congress are the best free entertainment you'll get all week",
+      "page_title": "Facebook’s Libra hearings in Congress are the best free entertainment you’ll get all week",
+      "source_url": "https://www.theverge.com/2019/7/15/20692263/facebook-libra-cryptocurrency-hearings-congress-trump-bitcoin",
+      "author": "Elizabeth Lopatto",
+      "publication_date": "2019-07-15T13:30:00+00:00",
+      "body_words": 1402,
+      "content_type": "full news article text",
+      "rights_basis": "Publisher footer links current PMC terms, Section 3 single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "c9a1ae02d79e23589f316ab71962eb2d5d1efa1c2c6fcc767ee4fe1a46d05c05",
+      "body_sha256": "de6d7996b5677be96c1ee40d7b361d36f06c0a8c4c3abf0e417fc7e1baa8f5af",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser confirmed complete visible article to its final paragraph, verified by root agent. Editorial prose matches full articleBody schema after HTML unescaping, media-placeholder removal, and whitespace normalization; repeated pull quotes, navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "9585a9bf3e6a9ebf"
+      ]
+    },
+    {
+      "headline_id": "6d66a9bbbd17a83b",
+      "filename": "6d66a9bbbd17a83b.txt",
+      "original_headline": "Apple, Google, Amazon, and Facebook CEOs will testify before Congress",
+      "page_title": "Apple, Google, Amazon, and Facebook CEOs will testify before Congress",
+      "source_url": "https://www.theverge.com/2020/7/2/21311049/house-judiciary-committee-antitrust-investigation-amazon-facebook-alphabet-google-apple-ceo-testify",
+      "author": "Jon Porter",
+      "publication_date": "2020-07-02T09:23:26+00:00",
+      "body_words": 365,
+      "content_type": "full news article text",
+      "rights_basis": "Publisher footer links current PMC terms, Section 3 single copy for personal internal non-commercial use; original notices preserved.",
+      "rights_url": "https://www.pmc.com/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "5e1993eedff27fdb0fa81667a44614328df62d1252c3a702826a78605c80da03",
+      "body_sha256": "b893683a7abc25eb5f0afb690bf7f69f09e0ddf842dba81af7c8d102054e4166",
+      "original_match_quality": "high",
+      "source_match_notes": "Normal browser confirmed complete visible article to its final paragraph, verified by root agent. Editorial prose matches full articleBody schema after HTML unescaping, media-placeholder removal, and whitespace normalization; repeated pull quotes, navigation, ads, related articles, and media controls excluded.",
+      "headline_ids_with_same_source_url": [
+        "6d66a9bbbd17a83b",
+        "37c914a1615c4805"
+      ]
+    },
+    {
+      "headline_id": "fa15e068d5db4171",
+      "filename": "fa15e068d5db4171.txt",
+      "original_headline": "Facebook CEO Mark Zuckerberg declines to testify in U.K. about data scandal",
+      "page_title": "Facebook CEO Mark Zuckerberg declines to testify in U.K. about data scandal",
+      "source_url": "https://globalnews.ca/news/4107630/mark-zuckerberg-facebook-declines-testify-uk/",
+      "author": "Eric Auchard and Costas Pitas",
+      "publication_date": "2018-03-27T08:23:34-04:00",
+      "body_words": 224,
+      "content_type": "Complete published article text",
+      "rights_basis": "Express download of individual pages for non-commercial use; preserve notices. Personal learning/nonprofit research confirmed.",
+      "rights_url": "https://www.corusent.com/terms-of-use/",
+      "copyright_notice": [
+        "© 2018 Reuters",
+        "©2026 Global News, a division of Corus Entertainment Inc. Corus News. All rights reserved.",
+        "©2026 Corus Entertainment Inc. All rights reserved."
+      ],
+      "sha256": "e7283a28fb80a9a2a447b2a7b0babf3e2457f6c5f920315ae856083ff222ba68",
+      "body_sha256": "6213094cf3f47ddd83533cbbb37f4685727f4262fb261bc2d64b7d50d7159fcb",
+      "original_match_quality": "high",
+      "source_match_notes": "Entire main article prose and headings retained; navigation, ads, newsletter signup, related links and embedded video player labels excluded.",
+      "headline_ids_with_same_source_url": [
+        "fa15e068d5db4171"
+      ]
+    },
+    {
+      "headline_id": "0c1f295930b5f64e",
+      "filename": "0c1f295930b5f64e.txt",
+      "original_headline": "Mark Zuckerberg to testify before Congress over Facebook data scandal",
+      "page_title": "Mark Zuckerberg to testify before Congress over Facebook data scandal",
+      "source_url": "https://globalnews.ca/news/4122177/mark-zuckerberg-congress-facebook-privacy/",
+      "author": "Makini Brice",
+      "publication_date": "2018-04-04T10:14:16-04:00",
+      "body_words": 188,
+      "content_type": "Complete published article text",
+      "rights_basis": "Express download of individual pages for non-commercial use; preserve notices. Personal learning/nonprofit research confirmed.",
+      "rights_url": "https://www.corusent.com/terms-of-use/",
+      "copyright_notice": [
+        "© 2018 Reuters",
+        "©2026 Global News, a division of Corus Entertainment Inc. Corus News. All rights reserved.",
+        "©2026 Corus Entertainment Inc. All rights reserved."
+      ],
+      "sha256": "83a766b7d34644ecc0d89b738435a2c0b1d101da62ebc29067cae2852b0b29a3",
+      "body_sha256": "4c5b2d1e88b13ef0e7611e4b571d3254ba58688a857a9cbccc77f5da57e27aca",
+      "original_match_quality": "high",
+      "source_match_notes": "Entire main article prose and headings retained; navigation, ads, newsletter signup, related links and embedded video player labels excluded.",
+      "headline_ids_with_same_source_url": [
+        "0c1f295930b5f64e"
+      ]
+    },
+    {
+      "headline_id": "7d4c11aa365e4f70",
+      "filename": "7d4c11aa365e4f70.txt",
+      "original_headline": "Facebook's Mark Zuckerberg to testify before Congress in wake of controversy",
+      "page_title": "Facebook’s Mark Zuckerberg to testify before Congress in wake of controversy",
+      "source_url": "https://globalnews.ca/news/4134458/facebook-ceo-mark-zuckerberg-testify/",
+      "author": "David Ingram, Dustin Volz",
+      "publication_date": "2018-04-10T06:58:47-04:00",
+      "body_words": 498,
+      "content_type": "Complete published article text",
+      "rights_basis": "Express download of individual pages for non-commercial use; preserve notices. Personal learning/nonprofit research confirmed.",
+      "rights_url": "https://www.corusent.com/terms-of-use/",
+      "copyright_notice": [
+        "© 2018 Reuters",
+        "©2026 Global News, a division of Corus Entertainment Inc. Corus News. All rights reserved.",
+        "©2026 Corus Entertainment Inc. All rights reserved."
+      ],
+      "sha256": "9c8a7b6ac2c2d7bc45f8f7754d1564074cf17f4f4aaa3b1b70e0ba53e4fccdaa",
+      "body_sha256": "c7590d2030207aed73b28381ad72d83493898a31d613b2e4ae3e2fc20d36066d",
+      "original_match_quality": "high",
+      "source_match_notes": "Entire main article prose and headings retained; navigation, ads, newsletter signup, related links and embedded video player labels excluded.",
+      "headline_ids_with_same_source_url": [
+        "7d4c11aa365e4f70",
+        "1627654bb9af3bc5"
+      ]
+    },
+    {
+      "headline_id": "e4e2da7e37e7d99e",
+      "filename": "e4e2da7e37e7d99e.txt",
+      "original_headline": "Mark Zuckerberg's Congress testimony: How to watch Facebook CEO testify on privacy scandal",
+      "page_title": "Mark Zuckerberg’s Congress testimony: How to watch Facebook CEO testify on privacy scandal",
+      "source_url": "https://globalnews.ca/news/4134833/mark-zuckerberg-facebook-testimony-how-to-watch-congress/",
+      "author": "Adam Frisk",
+      "publication_date": "2018-04-10T10:20:10-04:00",
+      "body_words": 303,
+      "content_type": "Complete published article text",
+      "rights_basis": "Express download of individual pages for non-commercial use; preserve notices. Personal learning/nonprofit research confirmed.",
+      "rights_url": "https://www.corusent.com/terms-of-use/",
+      "copyright_notice": [
+        "© 2018 Global News, a division of Corus Entertainment Inc.",
+        "©2026 Global News, a division of Corus Entertainment Inc. Corus News. All rights reserved.",
+        "©2026 Corus Entertainment Inc. All rights reserved."
+      ],
+      "sha256": "9c51377079c0b001022100c42c0598ba5671d9d85767a670cf2789ebbe3161c1",
+      "body_sha256": "5d1e890e94db3cf98da50f9fa1f2abe32c00255208a30a029751ece9612679de",
+      "original_match_quality": "high",
+      "source_match_notes": "Entire main article prose and headings retained; navigation, ads, newsletter signup, related links and embedded video player labels excluded.",
+      "headline_ids_with_same_source_url": [
+        "e4e2da7e37e7d99e"
+      ]
+    },
+    {
+      "headline_id": "273b4d3fce463b93",
+      "filename": "273b4d3fce463b93.txt",
+      "original_headline": "Twitter CEO to testify before U.S. House panel amid Republican concerns on censorship",
+      "page_title": "Twitter CEO to testify before U.S. House panel amid Republican concerns on censorship",
+      "source_url": "https://globalnews.ca/news/4408910/twitter-jack-dorsey-testify-censorship-republicans/",
+      "author": "Staff",
+      "publication_date": "2018-08-24T19:33:13-04:00",
+      "body_words": 225,
+      "content_type": "Complete published article text",
+      "rights_basis": "Express download of individual pages for non-commercial use; preserve notices. Personal learning/nonprofit research confirmed.",
+      "rights_url": "https://www.corusent.com/terms-of-use/",
+      "copyright_notice": [
+        "© 2018 Reuters",
+        "©2026 Global News, a division of Corus Entertainment Inc. Corus News. All rights reserved.",
+        "©2026 Corus Entertainment Inc. All rights reserved."
+      ],
+      "sha256": "b2455698bf1db4e73951057cd3e2cf249426f97bcd4c44f15ae0f9d37764f79f",
+      "body_sha256": "9966e271d4d2a2a5ea18c7738ed4cd4c49db67a83632536db04408f3d4138227",
+      "original_match_quality": "high",
+      "source_match_notes": "Entire main article prose and headings retained; navigation, ads, newsletter signup, related links and embedded video player labels excluded.",
+      "headline_ids_with_same_source_url": [
+        "273b4d3fce463b93"
+      ]
+    },
+    {
+      "headline_id": "b7461adaee48973f",
+      "filename": "b7461adaee48973f.txt",
+      "original_headline": "Facebook CEO Mark Zuckerberg's congressional testimony",
+      "page_title": "Facebook CEO Mark Zuckerberg's congressional testimony",
+      "source_url": "https://www.kalb.com/content/news/Facebook-CEO-Mark-Zuckerbergs-congressional-testimony--479311293.html",
+      "author": null,
+      "publication_date": "2018-04-10T20:03:23Z",
+      "body_words": 2842,
+      "content_type": "Complete published article text",
+      "rights_basis": "Personal and noncommercial reproduction permitted, preserve copyright notices.",
+      "rights_url": "https://graymedia.com/about/copyright-complaint-procedures/",
+      "copyright_notice": "A Gray Local Media Station © 2002-2026",
+      "sha256": "41f28ab2b430ae3ca67e43a55e8213a092678bb816b51d1454da6edabb3582a0",
+      "body_sha256": "44bb4c96dc66b1d6d8bbd274a5ecab3ca3e441473978ed698870f0616babb13e",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "b7461adaee48973f"
+      ]
+    },
+    {
+      "headline_id": "8c65ced9d0ae3afa",
+      "filename": "8c65ced9d0ae3afa.txt",
+      "original_headline": "Former Equifax CEO testifies before Congress",
+      "page_title": "Former Equifax CEO testifies before Congress",
+      "source_url": "https://www.kfyrtv.com/content/news/Former-Equifax-CEO-testifies-before-Congress-449287053.html",
+      "author": null,
+      "publication_date": "2017-10-03T19:46:20Z",
+      "body_words": 56,
+      "content_type": "Complete published article text",
+      "rights_basis": "Personal and noncommercial reproduction permitted, preserve copyright notices.",
+      "rights_url": "https://graymedia.com/about/copyright-complaint-procedures/",
+      "copyright_notice": "A Gray Local Media Station © 2002-2026",
+      "sha256": "cdc990303da97da433257556480b3cc8e8421f292ca9d6a74ebcf9f3ec705739",
+      "body_sha256": "9df905b6c676458fc1f159cc5a460713107026038c603321a1703d0caa763be8",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "8c65ced9d0ae3afa"
+      ]
+    },
+    {
+      "headline_id": "cd8f1467d38c8fbc",
+      "filename": "cd8f1467d38c8fbc.txt",
+      "original_headline": "US lawmakers set to grill Facebook executive in charge of Libra",
+      "page_title": "US lawmakers grill Facebook executive in charge of Libra",
+      "source_url": "https://www.kpax.com/cnn-social-media-technology/2019/07/17/us-lawmakers-set-to-grill-facebook-executive-in-charge-of-libra/",
+      "author": "CNN News",
+      "publication_date": "2019-07-16T06:38:28-0400",
+      "body_words": 877,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section 4 personal noncommercial one-copy download; local article provides Print functionality. Local terms: https://www.kpax.com/terms-of-use",
+      "rights_url": "https://scripps.com/user-agreement/",
+      "copyright_notice": "© 2026 Scripps Media, Inc",
+      "sha256": "bfc8ad5d2c161f2fabf19f1a6e0c91dc198e1f38e90e6b5f5ae3e1cb146ce1ca",
+      "body_sha256": "eeac3f1b7f7b7811607447ade45e95f1061462f3e4dd8a889762ea1f264d9dae",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "cd8f1467d38c8fbc",
+        "45800abe329383f0"
+      ]
+    },
+    {
+      "headline_id": "aeb6b4a27ca60698",
+      "filename": "aeb6b4a27ca60698.txt",
+      "original_headline": "'He can't send staff': Sen. Warner says Mark Zuckerberg needs to testify",
+      "page_title": "Mark Warner says Mark Zuckerberg needs to testify: ‘He can’t send staff’",
+      "source_url": "https://www.wtkr.com/2018/03/25/mark-warner-says-mark-zuckerberg-needs-to-testify-he-cant-send-staff",
+      "author": "CNN Wire",
+      "publication_date": "2018-03-25T20:26:01-0400",
+      "body_words": 244,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section 4 personal noncommercial one-copy download; local article provides Print functionality. Local terms: https://www.wtkr.com/terms-of-use",
+      "rights_url": "https://scripps.com/user-agreement/",
+      "copyright_notice": "© 2026 Scripps Media, Inc",
+      "sha256": "d04e4afd955c3b892e892e5871e7c0e99deb21c6078c11d6abcf128e48bf8759",
+      "body_sha256": "c3096f9aaa2a74c9947fa73a58f6199796ed560e2814fe0627aef18cd749134a",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "aeb6b4a27ca60698",
+        "aeca820c96d442e0",
+        "855df3ef3e1a2bb5"
+      ]
+    },
+    {
+      "headline_id": "80d9c05c20ca7f39",
+      "filename": "80d9c05c20ca7f39.txt",
+      "original_headline": "Mark Zuckerberg to testify before Congress amid scrutiny of Libra cryptocurrency",
+      "page_title": "Mark Zuckerberg to testify before Congress amid scrutiny of Libra cryptocurrency",
+      "source_url": "https://www.wtvr.com/2019/10/09/mark-zuckerberg-to-testify-before-congress-amid-scrutiny-of-libra-cryptocurrency",
+      "author": "CNN Wire",
+      "publication_date": "2019-10-09T22:26:39-0400",
+      "body_words": 248,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section 4 personal noncommercial one-copy download; local article provides Print functionality. Local terms: https://www.wtvr.com/terms-of-use",
+      "rights_url": "https://scripps.com/user-agreement/",
+      "copyright_notice": "© 2026 Scripps Media, Inc",
+      "sha256": "464e8ffcc7e970edea8e50fa068ac03efe36d59c97d5f32b3419485d51167252",
+      "body_sha256": "2b5e9020653b7fb6382a141ce1374618068fbb22e4c51c0d43209d1bb21cf427",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "80d9c05c20ca7f39"
+      ]
+    },
+    {
+      "headline_id": "ba27b6442258c982",
+      "filename": "ba27b6442258c982.txt",
+      "original_headline": "Mark Zuckerberg grilled by Congress over Libra and political ads",
+      "page_title": "Mark Zuckerberg grilled by Congress over Libra and political ads policy",
+      "source_url": "https://www.wtvr.com/2019/10/23/mark-zuckerberg-grilled-by-congress-over-libra-and-political-ads-policy",
+      "author": "CNN Wire",
+      "publication_date": "2019-10-23T22:33:26-0400",
+      "body_words": 947,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section 4 personal noncommercial one-copy download; local article provides Print functionality. Local terms: https://www.wtvr.com/terms-of-use",
+      "rights_url": "https://scripps.com/user-agreement/",
+      "copyright_notice": "© 2026 Scripps Media, Inc",
+      "sha256": "2c7bbcfb5bf5fbbbb986a1eda5042c3e8bd77e97650e46035dfd5bd3ad26221d",
+      "body_sha256": "63f44f3a07bd669957a2197e9a28e490d654b2674bb4ee4dc58fdc380cd0d9d5",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "ba27b6442258c982"
+      ]
+    },
+    {
+      "headline_id": "71496837ef6bf822",
+      "filename": "71496837ef6bf822.txt",
+      "original_headline": "The Latest: Mother Testifies About 8-Year-Old's Abduction",
+      "page_title": "Mother testifies about 8-year-old's abduction",
+      "source_url": "https://www.wtxl.com/news/mother-testifies-about--year-old-s-abduction/article_98124dd0-108d-11e8-b8af-eb12ef9a2d57.html",
+      "author": null,
+      "publication_date": "2018-02-13T02:14:00-0500",
+      "body_words": 97,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section 4 personal noncommercial one-copy download; local article provides Print functionality. Local terms: https://www.wtxl.com/terms-of-use",
+      "rights_url": "https://scripps.com/user-agreement/",
+      "copyright_notice": "© 2026 Scripps Media, Inc",
+      "sha256": "715c9437181be51af7451a1deeb3eedf1c25060cdc091ad52ef06db9f19a82be",
+      "body_sha256": "d90ff575ddfee38f469062c5bc5d6039942ecf28adf21553233ce9ee1e73fb13",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "71496837ef6bf822"
+      ]
+    },
+    {
+      "headline_id": "1e1cf7cab32e312c",
+      "filename": "1e1cf7cab32e312c.txt",
+      "original_headline": "BREAKING: Facebook CEO Mark Zuckerberg to Testify Before Congress Next Week",
+      "page_title": "Facebook CEO Mark Zuckerberg Will Testify Before Congress Next Week",
+      "source_url": "https://time.com/5227492/facebook-mark-zuckerberg-congress-testimony/",
+      "author": "TIME Staff",
+      "publication_date": "2018-04-04T12:42:30Z",
+      "body_words": 128,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section 6 permits individual-page copies for personal noncommercial use; source and notices retained.",
+      "rights_url": "https://legal.time.com/terms-of-service/",
+      "copyright_notice": "© 2026 TIME USA, LLC. All Rights Reserved.",
+      "sha256": "6035546295a79bf35fc33d8eb13209e053ae6e59abdd5d86c74ea717b7eedf4e",
+      "body_sha256": "1c07ee5919a7949daf8adaea50e759b9228f191ed42e54fd9adc273916741eb3",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "1e1cf7cab32e312c"
+      ]
+    },
+    {
+      "headline_id": "195572c102bc722d",
+      "filename": "195572c102bc722d.txt",
+      "original_headline": "How to watch Mark Zuckerberg's congressional hearings online",
+      "page_title": "How to Watch Facebook CEO Mark Zuckerberg's Congressional Testimony Live",
+      "source_url": "https://time.com/5234567/mark-zuckerberg-testimony-live-congress/",
+      "author": "Flora Carr",
+      "publication_date": "2018-04-10T14:33:11Z",
+      "body_words": 504,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section 6 permits individual-page copies for personal noncommercial use; source and notices retained.",
+      "rights_url": "https://legal.time.com/terms-of-service/",
+      "copyright_notice": "© 2026 TIME USA, LLC. All Rights Reserved.",
+      "sha256": "1a828e52cff270e2cde6fc8ca8a78b51cbb0ada624ef98525efad3a2f42d7f36",
+      "body_sha256": "331bbf98ec3e277bce54b7996276ac0a6905d9694d5bbc196b9e3d0969ef0da0",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "195572c102bc722d",
+        "30ed21e3ae466f90",
+        "4b0f897d662fbbd2",
+        "15664fab39ebc404",
+        "1c8d7e67c1628047",
+        "0657ee84da031e23",
+        "dbeb96c68db2bd74",
+        "85429597564bc37c",
+        "d6ecc1f818abb51d",
+        "3cad984493ad513a",
+        "ec55a6ccbfde8488",
+        "db7012c83cc19abe",
+        "d6613a300ecaaa20",
+        "fda54d1f33a75d17",
+        "eb02d6a04cfba100",
+        "682ee6eaf232ccec",
+        "d5968f0252b3af5b"
+      ],
+      "modified_date": "2023-12-12T20:40:00Z"
+    },
+    {
+      "headline_id": "53a609c45e12f1d9",
+      "filename": "53a609c45e12f1d9.txt",
+      "original_headline": "The 'Monopoly Man' showed up to Equifax's Senate hearing",
+      "page_title": "The 'Monopoly Man' Showed Up to Equifax's Senate Hearing and It Was 'Magical'",
+      "source_url": "https://time.com/4969307/monopoly-man-equifax-senate-hearing/",
+      "author": "Megan McCluskey",
+      "publication_date": "2017-10-04T19:33:29Z",
+      "body_words": 175,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section 6 permits individual-page copies for personal noncommercial use; source and notices retained.",
+      "rights_url": "https://legal.time.com/terms-of-service/",
+      "copyright_notice": "© 2026 TIME USA, LLC. All Rights Reserved.",
+      "sha256": "6387c303c16a55fc0e75e80d8e1ebb334ed47a363668ab2d07cc373543f88543",
+      "body_sha256": "0454423b2f98ea1b1d95561967e0fba2bfc883ce883bd7c52e34c2b034f382bc",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "53a609c45e12f1d9",
+        "c434a8900c47df73"
+      ]
+    },
+    {
+      "headline_id": "e88cc0686fbcc3eb",
+      "filename": "e88cc0686fbcc3eb.txt",
+      "original_headline": "Mark Zuckerberg's Congressional Testimony Will Mark a Stunning Reversal for the Facebook CEO",
+      "page_title": "Mark Zuckerberg's Congressional Testimony Will Mark a Stunning Reversal for the Facebook CEO",
+      "source_url": "https://time.com/5233296/mark-zuckerberg-congress-hearing-facebook-russia/",
+      "author": "Nash Jenkins",
+      "publication_date": "2018-04-09T17:47:14Z",
+      "body_words": 695,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section 6 personal noncommercial individual-page download.",
+      "rights_url": "https://legal.time.com/terms-of-service/",
+      "copyright_notice": "© 2026 TIME USA, LLC. All Rights Reserved.",
+      "sha256": "a7be07aae1482168ac9a800f38558391ac8a2a033977e9b3ba18fffc0cd5ed9c",
+      "body_sha256": "4efda4e9aa195f2ed55b906a4c8aee9ad7b4cb47e61c0d6643da7a0136bc16f1",
+      "original_match_quality": "low",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "e88cc0686fbcc3eb"
+      ]
+    },
+    {
+      "headline_id": "0f4356c008a8e519",
+      "filename": "0f4356c008a8e519.txt",
+      "original_headline": "Mark Zuckerberg's Testimony on Cambridge Analytica Could Backfire on Congress",
+      "page_title": "Mark Zuckerberg's Testimony on Cambridge Analytica Could Backfire on Congress",
+      "source_url": "https://time.com/5233733/mark-zuckerberg-facebook-congress-testimony/",
+      "author": "Philip Elliott",
+      "publication_date": "2018-04-09T20:35:43Z",
+      "body_words": 979,
+      "content_type": "Complete published article text",
+      "rights_basis": "Section 6 personal noncommercial individual-page download.",
+      "rights_url": "https://legal.time.com/terms-of-service/",
+      "copyright_notice": "© 2026 TIME USA, LLC. All Rights Reserved.",
+      "sha256": "9828361d24b326fcc2b0e89897a304e858e57b664ce958509ae0bd02b7677303",
+      "body_sha256": "55740ab6cc63e2598e037c360b4fd0f2fe8f35f185e1184a902ebffb72e709c1",
+      "original_match_quality": "medium",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "0f4356c008a8e519",
+        "633e67006f16d14c"
+      ]
+    },
+    {
+      "headline_id": "6992bc644699493f",
+      "filename": "6992bc644699493f.txt",
+      "original_headline": "...on Testifying Before Congress: 'I'm Happy to if It's the Right Thing to Do'",
+      "page_title": "Zuckerberg on Testifying Before Congress: ‘I’m Happy to if It’s the Right Thing to Do’",
+      "source_url": "https://www.breitbart.com/clips/2018/03/21/zuckerberg-testifying-congress-im-happy-right-thing/",
+      "author": "Ian Hanchett",
+      "publication_date": "2018-03-22T01:52:15Z",
+      "body_words": 205,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "a03f62bc0dda94029fc8c42878235607941eeac656dfbe14560741c1bcbaa614",
+      "body_sha256": "ca83216883b2edea4c08ecaceef5b3231f3a871ace661be95bb9b047b2f19b04",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "6992bc644699493f",
+        "9aacde6a61e32728"
+      ]
+    },
+    {
+      "headline_id": "5a7722c6e62c865d",
+      "filename": "5a7722c6e62c865d.txt",
+      "original_headline": "Dem Sen Warner: Facebook's Zuckerberg 'Needs to Come and Testify'",
+      "page_title": "Dem Sen Warner: Facebook’s Zuckerberg ‘Needs to Come and Testify’",
+      "source_url": "https://www.breitbart.com/clips/2018/03/26/dem-sen-warner-facebooks-zuckerberg-needs-come-testify/",
+      "author": "Jeff Poor",
+      "publication_date": "2018-03-26T15:28:47Z",
+      "body_words": 221,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "9c9b6cc0476796078ad389749c62eee401556c88a3c95aef1c5ae55febd907aa",
+      "body_sha256": "259860955a9e0f9d69ffba944e7521a7077c8c0675590c54e442951c6f217f62",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "5a7722c6e62c865d"
+      ]
+    },
+    {
+      "headline_id": "5178b60574a2b819",
+      "filename": "5178b60574a2b819.txt",
+      "original_headline": "Zuckerberg on Capitol Hill to Meet Lawmakers Ahead of Congressional Hearings",
+      "page_title": "Zuckerberg on Capitol Hill to Meet Lawmakers Ahead of Congressional Hearings",
+      "source_url": "https://www.breitbart.com/politics/2018/04/09/zuckerberg-capitol-hill-meet-lawmakers-ahead-congressional-hearings/",
+      "author": "Sean Moran",
+      "publication_date": "2018-04-09T16:54:26Z",
+      "body_words": 303,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "7761929e2c11c48c3d40e49a6ad8f6d42f3c379ad616bb66bb5c3d61f87fb055",
+      "body_sha256": "8d67a619e1a81e42f5f54fd91595823f7b9553e4707a2cf64325a74fbbe50496",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "5178b60574a2b819"
+      ]
+    },
+    {
+      "headline_id": "0f3764dbec7630ad",
+      "filename": "0f3764dbec7630ad.txt",
+      "original_headline": "Report: Facebook Donated Hundreds of Thousands to Senators Grilling Zuckerberg",
+      "page_title": "Report: Facebook Donated Hundreds of Thousands to Senators Grilling Zuckerberg",
+      "source_url": "https://www.breitbart.com/politics/2018/04/10/report-facebook-donated-hundreds-of-thousands-to-lawmakers-grilling-zuckerberg/",
+      "author": "Tony Lee",
+      "publication_date": "2018-04-10T18:06:16Z",
+      "body_words": 187,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "9dc6c7a91219478ae904fcd007bba231c7817d7af5edb928643764eb8d0750f7",
+      "body_sha256": "e5779a2d7bf9039f560ca3d922d74a098fe144cc543b24593e9e6a75fc84bc86",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "0f3764dbec7630ad",
+        "a836ba148464b209",
+        "bb20993d535fcc1a"
+      ]
+    },
+    {
+      "headline_id": "86ebb8f79fe0d83c",
+      "filename": "86ebb8f79fe0d83c.txt",
+      "original_headline": "Twitter Chief Jack Dorsey to Testify Before Congress in September",
+      "page_title": "Twitter Chief Jack Dorsey to Testify Before Congress in September",
+      "source_url": "https://www.breitbart.com/politics/2018/08/24/twitter-chief-jack-dorsey-to-testify-before-congress-in-september/",
+      "author": "Sean Moran",
+      "publication_date": "2018-08-24T21:49:17Z",
+      "body_words": 442,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "76103b46d47d36ee3564fd0fe6a798dda49eb7a511eca998ee8c24cb3c4e1033",
+      "body_sha256": "e57591ed50a9220338c3241cbd08584dd084954805f04b04a864aebd9d7cb0fb",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "86ebb8f79fe0d83c",
+        "6df18d300b085ff7"
+      ]
+    },
+    {
+      "headline_id": "02316a53299c3af6",
+      "filename": "02316a53299c3af6.txt",
+      "original_headline": "Congressional Committee Asks Mark Zuckerberg to Testify on Facebook Data Scandal",
+      "page_title": "Congressional Committee Asks Mark Zuckerberg to Testify on Facebook Data Scandal",
+      "source_url": "https://www.breitbart.com/tech/2018/03/22/congressional-committee-asks-mark-zuckerberg-to-testify-on-data-scandal/amp/",
+      "author": "Lucas Nolan",
+      "publication_date": "2018-03-22T17:17:33Z",
+      "body_words": 382,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "b9da4d7ca904741c1468cefb427a4a5b59cc7d0287088b65df57ca8f7767a4d1",
+      "body_sha256": "8a0a2c46a6cc6e901266a23b966760abe2386fbd90a6ebfddad10bb4832cb4db",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "02316a53299c3af6"
+      ]
+    },
+    {
+      "headline_id": "caa45897c501c033",
+      "filename": "caa45897c501c033.txt",
+      "original_headline": "Mark Zuckerberg Asked to Testify Before Senate Judiciary Committee About Facebook User Data Policies",
+      "page_title": "Mark Zuckerberg Asked to Testify Before Senate Judiciary Committee About Facebook User Data Policies",
+      "source_url": "https://www.breitbart.com/tech/2018/03/27/mark-zuckerberg-asked-to-testify-before-senate-judiciary-committee/",
+      "author": "Lucas Nolan",
+      "publication_date": "2018-03-27T16:42:11Z",
+      "body_words": 717,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "df7409b963711b5a308fdc3c64050fe6935540ca701bbb3a45ab77ad36eb4c03",
+      "body_sha256": "7616802c03b58de5f59df6ec1598287170f48808094c6ae1fd2805bb56768ffe",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "caa45897c501c033",
+        "4a56baa8af8d7ee3",
+        "638e122781cba132"
+      ]
+    },
+    {
+      "headline_id": "fbefb883403a5e99",
+      "filename": "fbefb883403a5e99.txt",
+      "original_headline": "Facebook CEO Mark Zuckerberg Will Testify Before Senate, Too",
+      "page_title": "Facebook CEO Mark Zuckerberg to Testify Before Senate",
+      "source_url": "https://www.breitbart.com/tech/2018/04/06/facebook-ceo-mark-zuckerberg-to-testify-before-senate/",
+      "author": "Charlie Nash",
+      "publication_date": "2018-04-06T18:09:44Z",
+      "body_words": 289,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "59041bd189eabe2b01fedc6dff6caf6ca73c43ae6defaff082f0073951436cc0",
+      "body_sha256": "66bfec0c36d9f3e7112e493a030d7796d72720314f512ff1009041bcceede88e",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "fbefb883403a5e99"
+      ]
+    },
+    {
+      "headline_id": "16fd61a97032c9e9",
+      "filename": "16fd61a97032c9e9.txt",
+      "original_headline": "RIGGED: Lawmakers Should Grill Zuckerberg On His Establishment Media Favoritism",
+      "page_title": "RIGGED: Lawmakers Should Grill Zuckerberg On His Establishment Media Favoritism",
+      "source_url": "https://www.breitbart.com/tech/2018/04/10/facebook-sets-rules-for-journalists/",
+      "author": "Allum Bokhari",
+      "publication_date": "2018-04-10T12:11:24Z",
+      "body_words": 699,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "d624574a22f15ef0413e308d1af676a2142f89e58d18ce8344f575b7682cb747",
+      "body_sha256": "c315f1ec420384ecf74c5e5e004fe8cd373ca8766ec681a4f23db208f291d789",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "16fd61a97032c9e9"
+      ]
+    },
+    {
+      "headline_id": "b294a53d67bde4b6",
+      "filename": "b294a53d67bde4b6.txt",
+      "original_headline": "Senator Dianne Feinstein Failed to Disclose Husband's $100K in Facebook Stock Before Zuckerberg Testimony",
+      "page_title": "Senator Dianne Feinstein Failed to Disclose Husband's $100K in Facebook Stock Before Zuckerberg Testimony",
+      "source_url": "https://www.breitbart.com/tech/2018/07/12/senator-dianne-feinstein-failed-to-disclose-husbands-100k-in-facebook-stock-before-zuckerberg-testimony/amp/",
+      "author": "Lucas Nolan",
+      "publication_date": "2018-07-12T20:02:31Z",
+      "body_words": 393,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "30762bde5308f793e27d6ee8de90e61412670ca4b105a9071e999667e8a6b5d4",
+      "body_sha256": "796b99dd5c6d2774dda7313f253a5a023904689fca9db5dd102004ef8d37cd29",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "b294a53d67bde4b6"
+      ]
+    },
+    {
+      "headline_id": "64d24dc374565d1e",
+      "filename": "64d24dc374565d1e.txt",
+      "original_headline": "Damage Control: Twitter Says Overzealous Shadowbanning Was a Mistake, 3 Days Before Congress Grills CEO Jack Dorsey",
+      "page_title": "Damage Control: Twitter Says Overzealous Shadowbanning Was a Mistake, 3 Days Before Congress Grills CEO Jack Dorsey",
+      "source_url": "https://www.breitbart.com/tech/2018/09/03/damage-control-twitter-says-overzealous-shadowbanning-was-a-mistake-3-days-before-congress-grills-ceo-jack-dorsey/",
+      "author": "Allum Bokhari",
+      "publication_date": "2018-09-03T19:12:05Z",
+      "body_words": 320,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "bf74016408aa35088e84de2f79ce17cd589f69a913194eb956e5b0d60946e102",
+      "body_sha256": "623a1bf716de18d638729b6915602d0d9a7c339e3af65655b8f6e838f3e23a13",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "64d24dc374565d1e"
+      ]
+    },
+    {
+      "headline_id": "93112e979ace203d",
+      "filename": "93112e979ace203d.txt",
+      "original_headline": "Google, Amazon, Facebook, Apple to Appear at Congressional Antitrust Hearing Next Week",
+      "page_title": "Google, Amazon, Facebook, Apple to Appear at Congressional Antitrust Hearing Next Week",
+      "source_url": "https://www.breitbart.com/tech/2019/07/10/google-amazon-facebook-apple-to-appear-at-congressional-antitrust-hearing-next-week/",
+      "author": "Lucas Nolan",
+      "publication_date": "2019-07-10T14:45:15Z",
+      "body_words": 477,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "c628550940407a505e4bd7d45d1e0c6f68bf9fb1dce74f25fc52cef6475f68eb",
+      "body_sha256": "895eff66e41827ec16d1eaa34556e91eaa7c97d9db038d827a54b9dfbb256ccd",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "93112e979ace203d"
+      ]
+    },
+    {
+      "headline_id": "f8819750f4c05639",
+      "filename": "f8819750f4c05639.txt",
+      "original_headline": "CEO's of Apple, Amazon, Facebook, Google to Testify at House Antitrust Probe",
+      "page_title": "CEO’s of Apple, Amazon, Facebook, Google to Testify at House Antitrust Probe",
+      "source_url": "https://www.breitbart.com/tech/2020/07/02/ceos-of-apple-amazon-facebook-google-to-testify-at-house-antitrust-probe/",
+      "author": "Lucas Nolan",
+      "publication_date": "2020-07-02T16:35:37Z",
+      "body_words": 308,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "9ef106594b1a9c537ee10ace5c627408ccc98928e6369eca74b642723744d8fb",
+      "body_sha256": "a1bc7d9b4c0fc1a1ce3eb4728af61f607ceeb56ad61d54bdd3fb3b5ba51993d5",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "f8819750f4c05639"
+      ]
+    },
+    {
+      "headline_id": "0161eb8a4c4c947d",
+      "filename": "0161eb8a4c4c947d.txt",
+      "original_headline": "Google Disputes Claims of Declining Search Traffic Despite Apple Exec's Testimony",
+      "page_title": "Google Disputes Claims of Declining Search Traffic Despite Apple Exec’s Testimony",
+      "source_url": "https://www.breitbart.com/tech/2025/05/09/google-disputes-claims-of-declining-search-traffic-despite-apple-execs-testimony/",
+      "author": "Lucas Nolan",
+      "publication_date": "2025-05-09T15:21:45Z",
+      "body_words": 430,
+      "content_type": "Complete published article text",
+      "rights_basis": "BREITBART CONTENT section expressly excepts personal use from copying/downloading prohibition. Single personal noncommercial copy retained locally with notices.",
+      "rights_url": "https://www.breitbart.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Breitbart",
+      "sha256": "5c15ddb07941a4df5a67821081311be40f697fa9b1a21f9641c5c8fdfc04a72c",
+      "body_sha256": "ab62c1d26d076fe5a9528fd40fce7048e15adceb93d6f3f050f0e52aedec9af2",
+      "original_match_quality": "high",
+      "source_match_notes": "Title, date and complete article body checked against the supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "0161eb8a4c4c947d"
+      ]
+    }
+  ],
+  "skipped_candidates": [
+    {
+      "headline_id": "06f24af69c4908e4",
+      "url": "https://financialpost.com/pmn/business-pmn/big-tech-execs-due-on-capitol-hill-next-week-for-antitrust-hearing",
+      "status": "access_blocked",
+      "reason": "Ordinary browser denied access by site security policy; excluded without bypass."
+    },
+    {
+      "headline_id": "6be8c2ee766d22e7",
+      "url": "https://financialpost.com/pmn/business-pmn/head-of-international-737-max-review-ntsb-chair-to-testify-before-senate",
+      "status": "access_blocked",
+      "reason": "Ordinary browser denied access by site security policy; excluded without bypass."
+    },
+    {
+      "headline_id": "19751e51d4acfbd3",
+      "url": "https://financialpost.com/pmn/business-pmn/tech-executives-head-to-capitol-hill-for-antitrust-hearing",
+      "status": "access_blocked",
+      "reason": "Ordinary browser denied access by site security policy; excluded without bypass."
+    },
+    {
+      "headline_id": "06720fd042dc45e4",
+      "url": "https://financialpost.com/pmn/business-pmn/u-s-tech-chiefs-to-testify-before-house-antitrust-panel-on-july-27-committee",
+      "status": "access_blocked",
+      "reason": "Ordinary browser denied access by site security policy; excluded without bypass."
+    },
+    {
+      "headline_id": "5301aaf58c98a0d6",
+      "url": "https://financialpost.com/transportation/airlines/boeing-ceo-tells-u-s-lawmakers-at-hearing-weve-made-mistakes-faces-tough-questions",
+      "status": "access_blocked",
+      "reason": "Ordinary browser denied access by site security policy; excluded without bypass."
+    },
+    {
+      "headline_id": "8180fb2220839769",
+      "url": "https://nationalpost.com/news/world/person-dressed-as-rich-uncle-pennybags-attends-ex-equifax-ceos-senate-hearing-adjusts-monocle",
+      "status": "access_blocked",
+      "reason": "Ordinary browser denied access by site security policy; excluded without bypass."
+    },
+    {
+      "headline_id": "703a3a458e0bb28a",
+      "url": "https://nationalpost.com/pmn/news-pmn/politics-news-pmn/boeing-ceo-we-know-we-made-mistakes-on-737-max-testimony",
+      "status": "access_blocked",
+      "reason": "Ordinary browser denied access by site security policy; excluded without bypass."
+    },
+    {
+      "headline_id": "00552367c73f23b7",
+      "url": "https://www.newsmax.com/finance/streettalk/apple-iphone-google/2025/05/07/id/1209950/",
+      "reason": "Direct ordinary request returned HTTP403; no bypass attempted."
+    },
+    {
+      "headline_id": "b6e1106853497671",
+      "url": "https://www.newsmax.com/finance/streettalk/house-committee-facebook-zuckerberg/2018/03/23/id/850424/",
+      "reason": "Direct ordinary request returned HTTP403; no bypass attempted."
+    },
+    {
+      "headline_id": "570b6bf12e4577b9",
+      "url": "https://www.newsmax.com/finance/streettalk/mark-zuckerberg-facebook-libra-cryptocurrency/2019/10/03/id/935588/",
+      "reason": "Direct ordinary request returned HTTP403; no bypass attempted."
+    },
+    {
+      "headline_id": "df94678fa810d3c2",
+      "url": "https://www.newsmax.com/newsfront/facebook-zuckerberg-testify-congress/2018/04/04/id/852461/",
+      "reason": "Direct ordinary request returned HTTP403; no bypass attempted."
+    },
+    {
+      "headline_id": "baabb36371dd7ed1",
+      "url": "https://www.newsmax.com/newsfront/zuckerberg-testifies-congress-facebook/2018/04/10/id/853699/",
+      "reason": "Direct ordinary request returned HTTP403; no bypass attempted."
+    },
+    {
+      "headline_id": "48f18f621e3a0268",
+      "url": "https://www.newsmax.com/politics/dianne-feinstein-data-mining-facebook-cambridge-analytica/2018/03/19/id/849570/",
+      "reason": "Direct ordinary request returned HTTP403; no bypass attempted."
+    },
+    {
+      "headline_id": "cbe636995cb108ce",
+      "url": "https://www.newsmax.com/us/alexander-vindman-testimony-quid-pro-quo-investigation/2019/10/30/id/939475/",
+      "reason": "Direct ordinary request returned HTTP403; no bypass attempted."
+    },
+    {
+      "headline_id": "a1e6b6379bf4053b",
+      "url": "https://fortune.com/2017/10/03/how-to-watch-equifax-hearing/",
+      "reason": "Direct ordinary request returned CloudFront403; stopped Fortune requests."
+    }
+  ]
+}

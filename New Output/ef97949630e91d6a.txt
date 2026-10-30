@@ -1,0 +1,64 @@
+Equifax CEO Richard Smith Resigns After Backlash Over Massive Data Breach
+
+2017-09-26T16:29:00-04:00
+
+Equifax's CEO Richard Smith is resigning following a backlash over the hack at the company that compromised the data of 143 million Americans. He joins several other executives who have left the company over the scandal. Smith will continue to advise the company on an unpaid basis. It's not known yet whether he will appear at a congressional hearing next week about the massive breach.
+
+Transcript
+
+AILSA CHANG, HOST:
+
+The CEO of Equifax is out. The credit reporting company revealed earlier this month that it suffered one of the worst data breaches in history. As many as 143 million Americans had their personal information stolen. Richard Smith's resignation today was effective immediately. And it comes as investigators continue looking into the company and the entire credit reporting industry more broadly. NPR's Chris Arnold has been following all of this, and he joins us now. Hey, Chris.
+
+CHRIS ARNOLD, BYLINE: Hi, Ailsa.
+
+CHANG: So with all of these investigators circling the serious implications of the breach, the terrible publicity, does it feel like this resignation was just bound to happen?
+
+ARNOLD: I mean, it certainly wasn't surprising, right? I mean, this was just such a colossal disaster for this company - and not just for this company. I mean, this is echoing throughout the entire credit reporting industry because this wasn't like, oh, they got some credit card numbers.
+
+CHANG: Right.
+
+ARNOLD: This was Social Security numbers, names, birth dates, addresses. And then on top of that, there were missteps made in the wake of this big hack, where people called up, and they said, hey, can you put a freeze on my credit report so that I'll know if somebody's trying to open a credit card or borrow money in my name? And then Equifax started to charge people to do that. And they were very upset because...
+
+CHANG: Right.
+
+ARNOLD: ...You know, like, now they're making money off of this debacle. So the company stopped charging them. One big thing that the company needs to decide now is whether the CEO gets a big, multimillion-dollar retirement package after heading out the door.
+
+CHANG: Were there other signs of problems at Equifax before this whole hack was disclosed?
+
+ARNOLD: Not really. And this might raise your eyebrows a bit. So back on August 17, the CEO, Richard Smith - he gave this very upbeat talk about how Equifax's bright future. And keep in mind this is several weeks after the company knew about this hack but hadn't yet made it public.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+RICHARD SMITH: Our goal financially in the next five years or so is to go from about $4 billion of revenue to $8 billion, from a valuation of $20 billion to $40 billion. And to do that, we're focused on a couple of things important to us.
+
+ARNOLD: And one of those things he went on to explain was that Equifax could become a leader in fraud prevention, which, in retrospect, is a bit stunning, right?
+
+CHANG: Yeah.
+
+ARNOLD: So this could obviously raise some questions - the CEO talking up Equifax after the company knew it was about to release this bombshell hack announcement, which has since sent the stock price down nearly 30 percent.
+
+CHANG: And I gather some executives were selling stock well ahead of that announcement.
+
+ARNOLD: That's right. According to regulatory filings, several senior Equifax executives sold $2 million worth of company stock after the hack took place. Equifax says that the executives had no knowledge of the breach at the time that they sold the shares. But as you'd imagine, there've been calls for the SEC to investigate that.
+
+CHANG: So, you know, Equifax and other credit reporting firms - these are companies that determine your credit score. In other words, they affect whether you can borrow money or whether you can get a job. Their entire existence is built on compiling sensitive data. So how does the industry change after all of this?
+
+ARNOLD: For years, consumer advocates have complained that it's hard for people to see their credit reports. You've got to jump through a bunch of hoops to kind of - it's once a year or something you can see them. Also, when you find a mistake, it can be very difficult to get the errors fixed. So now the question is, does this hack change the landscape?
+
+You know, now, these companies have been compiling all of this private financial information about all of us without our permission. And if it turns out, no, look, they can't even keep it safe, will Congress come together and make them play by a different set of rules? There's a bill in the Senate from Elizabeth Warren. And it's called the Freedom from Equifax Exploitation Act, which...
+
+CHANG: There's a bill named after Equifax now.
+
+ARNOLD: Yeah, which, in this case, is not so good. And as you can see from the name, at least some lawmakers are very fired up about this.
+
+CHANG: All right. That's NPR's Chris Arnold. Thank you very much.
+
+ARNOLD: Thanks, Ailsa.
+
+Copyright © 2017 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+Accuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record. Please note that NPR platforms and products also include some programming produced by third parties; NPR cannot guarantee transcripts for that content and some transcripts may be produced using automated or other tools.
+
+Source: https://www.npr.org/2017/09/26/553799200/equifax-ceo-richard-smith-resigns-after-backlash-over-massive-data-breach
+Publisher: NPR

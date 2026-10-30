@@ -1,0 +1,25 @@
+Congress released Mark Zuckerberg’s statement for Wednesday's hearing
+
+Headline ID: db82bfde769d71a5
+Source URL: https://www.engadget.com/2018-04-09-mark-zuckerberg-statement-congress-april-11th.html
+Published: 2018-04-09T15:53:00+00:00
+
+In it, the founder and CEO takes personal responsibility for Facebook's failures.
+
+Add Engadget on Google:
+
+Google Discover
+
+On Wednesday, Facebook founder and CEO Mark Zuckerberg will testify before Congress. Today, Congress released a copy of his statement. In it, Zuckerberg takes responsibility for Facebook's myriad failures over the past few years and pledges to do better. You can read the full text of the statement at CNBC.
+
+1
+
+"[I]t's clear now that we didn't do enough to prevent these tools from being used for harm as well," Zuckerberg says in his statement. "That goes for fake news, foreign interference in elections, and hate speech, as well as developers and data privacy. We didn't take a broad enough view of our responsibility, and that was a big mistake. It was my mistake, and I'm sorry. I started Facebook, I run it, and I'm responsible for what happens here."
+
+Zuckerberg outlines how exactly the company got to the point where the Cambridge Analytica scandal could occur, then turns to what the company is doing to improve and prevent anything like this from ever happening again. That includes safeguarding the platform by taking actions such as removing developers' access to data if their app hasn't been used in three months, reducing the data an app has access to, requiring developers to sign a contract that "imposes strict requirements in order to ask anyone for access to their posts or other private data" and restricting APIs. The company is also investigating apps that had access to large amounts of personal data and is putting together better controls over who has access to your data.
+
+Zuckerberg also addresses Russian interference in elections, and the company is in the process of building new tech to prevent this kind of abuse from ever happening again. He pledged to increase investment in security by hiring more people working on content review, as well as to make advertising policies stronger. Additionally, the Facebook CEO addressed the Honest Ads act, which "raise the bar for all political advertising online."
+
+© 2026 Static Media. All Rights Reserved
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

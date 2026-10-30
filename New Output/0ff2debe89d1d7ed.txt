@@ -1,0 +1,90 @@
+At Facebook and Twitter hearings, Congress needs to bring its A-game
+
+Headline ID: 0ff2debe89d1d7ed
+Source URL: https://www.cnet.com/news/politics/at-facebook-and-twitter-hearings-congress-needs-to-bring-its-a-game/
+Author: Richard Nieva
+Published: 2018-08-31T12:00:00-04:00
+
+Next week, some of Silicon Valley’s most powerful leaders will descend on Capitol Hill to face a grilling from lawmakers.
+
+And if we’re judging from the last high-profile tech hearings — Facebook CEO Mark Zuckerberg’s showdown in the Senate and House in April — lawmakers have nowhere to go but up when it comes to holding the tech industry accountable for cleaning up its messes.
+
+After a combined 10 hours of testimony from Zuckerberg four months ago, Congress was widely panned for being out of touch with modern tech. Critics said lawmakers were wildly unprepared with their questions and in some casesdidn't even understand the basics of the technology.
+
+This time around, Facebook COO Sheryl Sandberg and Twitter CEO Jack Dorsey will occupy the hot seats. Larry Page, CEO of Google’s parent company, Alphabet, has also been invited, but the search giant hasn’t confirmed whether he’ll attend.
+
+Next week's hearings bring a new opportunity for lawmakers to grill some of the most influential people in the world. Experts say Congress this time around needs to meaningfully question the tech leaders. The stakes are even higher than before: Foreign actors are still trying to meddle with public opinion, and people are even more suspicious of potential biases in tech’s mighty algorithms. Yet the divide between the tech industry and the federal government seems wider than ever.
+
+“A lot of it has to do with public faith,” said Jen King, director of Consumer Privacy at Stanford Law School’s Center for Internet and Society. “Who can people hold accountable for protecting them? Who’s going to get [tech leaders] in trouble if they get something wrong?”
+
+Unending scandals
+
+And make no mistake: The tech giants have gotten some things terribly wrong.
+
+Facebook, Twitter and Google are still in the doghouse after Russian trolls abused their platforms to sow discord and false news among US voters in the 2016 elections, and Facebook is still reeling from the fallout of its Cambridge Analytica scandal, when a whistleblower revealed the UK-based digital consultancy harvested the personal information of 87 million Facebook users without their permission. For lawmakers, that was the final straw — placing Zuckerberg in the congressional hot seat in the first place. The controversy exposed Silicon Valley’s lax attitude about data collection and use.
+
+Google has been hit by privacy controversies too. The search giant felt the blowback from consumers after reports surfaced that employees at third-party email apps could read our emails if we integrated those apps with our Gmail account. Google was hammered again earlier this month, when the Associated Press revealed the company was tracking users' locations even after they'd turned off their phones’ location history setting.
+
+A number of potential topics could come up at next week’s hearings.
+
+Facebook, Twitter and Google have already detected campaigns from foreign actors attempting to influence public opinion ahead of the midterm elections. Facebook last week said it was removing more than 600 "inauthentic" pages, groups and accounts with ties to Russia and Iran. Twitter followed with a seemingly related disclosure, saying it had suspended 284 accounts with ties to Iran for “coordinated manipulation.” Days later, Google said it was removing 58 accounts tied to Iran from YouTube and other Google services.
+
+Lawmakers have already raised the specter of regulation and investigations.
+
+Sen. Mark Warner, a Democrat from Virginia, and Sen. Amy Klobuchar, a Democrat from Minnesota, last year introduced the Honest Ads Act. The Senate bill would require tech companies to disclose how they target online political ads and how much those ads cost. Facebook and Twitter have both thrown their support behind it.
+
+And on Thursday, Sen. Orrin Hatch, a Republican from Utah, sent a letter to the Federal Trade Commission asking it to re-examine Google’s search and digital advertising practices, calling reports of anticompetitive conduct by the company “disquieting.”
+
+‘They have to be careful’
+
+The gap of understanding between tech and government continues to widen.
+
+President Donald Trump spent much of this week accusing Google, Facebook and Twitter of political bias. On Monday, he tweeted that Google's search results are “RIGGED,” saying the company is “suppressing voices of Conservatives.”
+
+“I think Google has really taken advantage of a lot of people,” he later told reporters. “Google and Twitter and Facebook, they’re really treading on very, very troubled territory, and they have to be careful.”
+
+On Tuesday, he tweeted a video claiming Google promoted former President Barack Obama’s State of the Union addresses every January — but not his. Trump added the hashtag #StopTheBias. Google denied the accusation, saying the search engine’s homepage did indeed promote Trump’s address in January. (A screenshot from the Internet Archive, which keeps a record of what appeared on web domains at any given time, also backs up Google’s assertion.) Google said it didn’t promote either Trump’s or Obama’s addresses during their first years in office because those speeches aren’t technically considered State of the Union address.
+
+Still, Trump’s attacks demonstrate how much government doesn’t know about how tech works.
+
+Observers say the lack of understanding by politicians is systemic. There are relatively few technologists and people who understand technology policy in the federal government, King says. The private sector pays too well, and there’s not much incentive for tech-minded people to go into public service, either as elected officials or staff. That becomes painfully apparent at closely watched spectacles like the tech hearings.
+
+The honeymoon is over
+
+• Why Washington is so angry with Facebook, Twitter and YouTube
+
+• Facebook, Twitter, Google at Senate Intelligence Committee: Watch live Sept. 5
+
+• Twitter's Dorsey to testify before House committee: Watch live Sept. 5
+
+For example, at one point during Zuckerberg’s April senate hearing, Hatch asked the Facebook CEO, “How do you sustain a business model in which users don’t pay for your service?” Zuckerberg — seemingly confused why the question would even need to be asked — paused, smirked and replied, “Senator, we run ads.”
+
+The response reportedly elicited a cheer from Facebook employees watching the coverage back at headquarters in Menlo Park, California. The phrase quickly began to appears on T-shirts. (In another facepalm moment, Rep. Yvette Clarke, a Democrat from New York, called the CEO Mark “Zuckerman.”)
+
+One longer-term fix would be for Congress to reinstate the Office of Technology Assessment, says David Eaves, a public policy lecturer at the Harvard Kennedy School of Government. The OTA was created in 1972 as a nonpartisan group focused on emerging technologies. The office was shuttered by Congress in 1995 as part of an attempt to rein in government spending.
+
+“I don’t think there’s been a really conscious effort to understand technology since then,” Eaves says.
+
+Given that, what’s the best possible outcome for next week’s tech hearings? “To actually settle on what we think are the core elements of an agenda we need to work on,” Eaves said. “Right now, we’re kind of thrashing around.”
+
+The Honeymoon is Over: Everything you need to know about why tech is under Washington’s microscope.
+
+Infowars and Silicon Valley: Everything you need to know about the tech industry’s free speech debate.
+
+Richard Nieva
+
+Former senior reporter
+
+Richard Nieva was a senior reporter for CNET News, focusing on Google and Yahoo. He previously worked for PandoDaily and Fortune Magazine, and his writing has appeared in The New York Times, on CNNMoney.com and on CJR.org. See full bio
+
+The Latest from Richard
+
+• Google scraps plans to manage people’s bank accounts
+
+• Google adds context to search results, brings more wildfire info to Maps
+
+• ‘Don’t be evil’: Google’s iconic mantra comes into question at labor trial
+
+© 2026 CNET, a Ziff Davis company. All rights reserved.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

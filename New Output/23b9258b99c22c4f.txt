@@ -1,0 +1,28 @@
+Ted Cruz, Senate Grill Mark Zuckerberg on Facebook's Privacy Scandal, Conservative Censorship
+
+Headline ID: 23b9258b99c22c4f
+Source URL: https://cbn.com/news/us/ted-cruz-senate-grill-mark-zuckerberg-facebooks-privacy-scandal-conservative-censorship
+Author: Emily Jones
+Published: 2018-04-10T21:00:00-0400
+
+Emily Jones
+
+04-10-2018
+
+Facebook Founder and CEO, Mark Zuckerberg testified before Congress Tuesday after millions of users' personal information was compromised by Cambridge Analytica without their knowledge. It was the first of a two-day public inquisition into the social media giant's security practices. Zuckerberg opened his remarks before the Senate Commerce and Judiciary committees by apologizing for failing to prevent the data-mining firm Cambridge Analytica from collecting personal information from 87 million users. He also apologized for fake news, hate speech, a lack of privacy, and Russian interference in U.S. elections. "It was my mistake, and I'm sorry. I started Facebook, I run it, and I'm responsible for what happens here," he said. When Facebook found out their users' information was compromised, they demanded Cambridge Analytica delete the information. However, Zuckerberg admitted his team did not follow up to verify that the data had been deleted. Zuckerberg said this "was clearly a mistake," in explaining why it took his company so long to tell users their data and been scraped by Cambridge Analytica. Zuckerberg also listed a number of steps Facebook is taking to prevent future breaches of security on the platform. These include limiting the amount of information developers can access from user accounts, investigating apps that have had access to a large amount of private information, and helping users block apps of their choice from having access to their personal data. When it comes to fighting hate speech, which he did not explicitly define, Zuckerberg said the company will use artificial intelligence tools within a five to 10 year period to flag hate speech. However, he acknowledged hate speech has "linguistic nuances" that make it hard to accurately identify and ban.
+
+Not everyone took kindly to Zuckerberg’s idea of cracking down on hate speech. Facebook has been accused of singling out and censoring conservative voices it deems offensive or hateful.
+
+Senator Ted Cruz (R-TX) pressed Zuckerberg about these allegations.
+
+“There are a great many Americans who I think are deeply concerned that Facebook and other tech companies are engaged in a pervasive pattern of bias and political censorship. There have been numerous instances with Facebook,” Cruz said.
+
+Zuckerberg admitted his company is located in the Silicon Valley, which is an “an extremely-left leaning place.”
+
+“This is actually a concern that I have, that I try to root out in the company, is making sure that we don’t have any bias in the work that we do, and I think that it is a fair concern that people would wonder about it,” he added. “Now what I can say, and I do want to get this in before the end here, is that I am very committed to making sure that Facebook is a platform for all ideas. That is a very important founding principle of what we do, and we’re proud of the discourse and the different ideas that people can share on the service, and that is something that as long as I’m running the company I’m going to be committed to making sure is the case.”
+
+Another area of focus was Russian interference in the 2016 election which Zuckerberg said Facebook is "working hard to make sure it doesn't happen again." The company has said that some 146 million people may have received information from a Russian agency accused of meddling in the election. To prevent this in the future, Zuckerberg said Facebook is building new technology and investing in more security to prevent abuse by foreign entities. Zuckerberg also said Facebook is "working with" special counsel Robert Mueller in his probe into Russian interference. However, he said he has not been personally interviewed and is not aware if the company has been subpoenaed. While Zuckerberg gave a list of measures his company is taking to ensure privacy, many senators asked if those measures are enough. Some lawmakers even suggested federal regulations would be a better solution to the company's problems. On Monday Zuckerberg visited with senators in closed-door meetings. Prior to that, Zuckerberg visited Capitol Hill to meet with Florida Senator Bill Nelson, the top Democrat on the Commerce Committee. Zuckerberg will testify again on Wednesday before the house.
+
+© 2026 The Christian Broadcasting Network, Inc., A nonprofit 501 (c)(3) Charitable Organization.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

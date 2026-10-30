@@ -1,0 +1,53 @@
+Boeing CEO Dennis Muilenburg to Testify Before U.S. Congress
+
+Boeing President and CEO Dennis Muilenburg and Boeing Commercial Airplanes Vice President and Chief Engineer John Hamilton to address the Boeing 737 MAX and aviation safety
+
+By Boeing
+2019-10-28
+
+CHICAGO, Oct. 28, 2019 /PRNewswire/ -- Boeing [NYSE: BA] President and Chief Executive Officer Dennis Muilenburg will testify tomorrow, October 29, before the U.S. Senate Committee on Commerce, Science and Transportation regarding aviation safety and the 737 MAX airplane. He will be joined by Boeing Commercial Airplanes Vice President and Chief Engineer John Hamilton. Muilenburg and Hamilton will also appear Wednesday, October 30, before the U.S. House Committee on Transportation and Infrastructure to discuss the design and development of the 737 MAX.
+
+In prepared remarks released today, Muilenburg first and foremost expressed his deepest sympathies to the families and loved ones of those who were lost in the Lion Air Flight 610 and Ethiopian Airlines Flight 302 accidents.
+
+"As we observe today the solemn anniversary of the loss of Lion Air Flight 610, we carry the memory of these accidents, and the lives lost, with us every day. They will never be forgotten, and those memories drive us every day to make our airplanes and our industry safer," Muilenburg said.
+
+Boeing has made robust improvements to the 737 MAX flight control software. "We have brought the very best of Boeing to this effort," said Muilenburg. "We've dedicated all resources necessary to ensure that the improvements to the 737 MAX are comprehensive and thoroughly tested. When the 737 MAX returns to service, it will be one of the safest airplanes ever to fly."
+
+The Maneuvering Characteristics Augmentation System (MCAS) flight control software function has been updated to provide additional layers of protection, including:
+
+- MCAS now compares information from both angle of attack sensors before activating and will only respond if data from both sensors agree;
+
+- MCAS will only activate a single time; and
+
+- MCAS will never provide more input than the pilot can counteract using the control column alone.
+
+These changes will prevent the flight control conditions that occurred on the Lion Air 610 and Ethiopian Airlines 302 flights from ever happening again. Boeing has dedicated more than 100,000 engineering and test hours on the development of these improvements, flown more than 814 test flights with the updated software and conducted numerous simulator sessions with 545 participants from 99 customers and 41 global regulators.
+
+"We have learned and are still learning from these accidents. We know we made mistakes and got some things wrong," continued Muilenburg.
+
+In his testimony, Muilenburg outlined key actions Boeing is taking to improve as a company, including:
+
+- Establishing a permanent Aerospace Safety Committee of the company's Board of Directors;
+
+- Creating a new Product and Services Safety organization that will review all aspects of product safety and provide streamlined reporting and elevation of safety concerns;
+
+- Strengthening the company's Engineering organization, with all engineers reporting up through Boeing's chief engineer;
+
+- Investing in advanced research and development in new safety technologies; and
+
+- Exploring ways to strengthen safety not just for Boeing products and services, but the aviation industry as a whole.
+
+Muilenburg's written testimony is available here.
+
+Boeing is the world's largest aerospace company and leading provider of commercial airplanes, defense, space and security systems, and global services. As the top U.S. exporter, the company supports commercial and government customers in more than 150 countries. Boeing employs more than 150,000 people worldwide and leverages the talents of a global supplier base. Building on a legacy of aerospace leadership, Boeing continues to lead in technology and innovation, deliver for its customers and invest in its people and future growth.
+
+Contact Members of the news media should direct queries to media@boeing.com or 312-544-2002.
+
+SOURCE Boeing
+
+---
+Source: Boeing
+Original URL: https://boeing.mediaroom.com/2019-10-28-Boeing-CEO-Dennis-Muilenburg-to-Testify-Before-U-S-Congress
+Copyright © 1995–2026 Boeing. All Rights Reserved.
+Personal, non-commercial informational copy; source wording and notices retained.
+Permissions: https://www.boeing.com/terms-of-submission-and-privacy-policy/site-terms

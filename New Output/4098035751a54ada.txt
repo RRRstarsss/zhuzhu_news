@@ -1,0 +1,29 @@
+Zuckerberg will testify before Congress on April 11
+
+By Jordan Crook
+5:44 AM PDT · April 4, 2018
+
+Mark Zuckerberg will testify before the House Energy and Commerce Committee on April 11. E&C Committee Chairman Greg Walden (R-OR) and Ranking Member Frank Pallone, Jr. (D-NJ) made this announcement this morning, clarifying that Zuckerberg will speak on the company’s use and protection of user data.
+
+Here’s what the Congressmen had to say in a prepared statement:
+
+This hearing will be an important opportunity to shed light on critical consumer data privacy issues and help all Americans better understand what happens to their personal information online. We appreciate Mr. Zuckerberg’s willingness to testify before the committee, and we look forward to him answering our questions on April 11th.
+
+This all comes amidst the greatest existential threat to Facebook we’ve yet to see.
+
+In 2014, a third-party quiz app developed by Aleksandr Kogan collected the data of around 50 million raw profiles. Only 270,000 some people who downloaded the app and participated in the survey, but at the time, Facebook allowed third parties to collect information around friends of friends.
+
+Facebook no longer allows this data sharing, and had asked for certification in 2015 that this data had been deleted.
+
+Kogan harvested and sold that data to Cambridge Analytica, a political firm that would use information on identity, social networks and likes to target demographics and influence voters. In 2016, the Trump Campaign hired Cambridge Analytica.
+
+Following these revelations, a movement to #deletefacebook sprang up across the internet. But it wasn’t just users who reacted.
+
+On March 21, Zuck issued his first response to the scandal, adding: “If it is ever the case that I am the most informed person at Facebook in the best position to testify, I will happily do that.”
+
+Two short days later, the House and Senate put Zuckerberg on notice, saying that he is the right person to testify. CNN reported on March 27 that Zuck had come to terms with the fact that he’d have to testify and the Facebook team began preparing for his day on the Hill.
+
+That day now has a precise date: April 11.
+
+Source: https://techcrunch.com/2018/04/04/zuckerberg-will-testify-before-congress-on-april-11/
+© 2026 TechCrunch Media LLC.

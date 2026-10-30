@@ -1,0 +1,381 @@
+{
+  "created_at": "2026-10-30T23:46:19.204473+08:00",
+  "workbook": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/news_urls(1).xlsx",
+  "sheet": "headline_urls",
+  "requested": 100,
+  "saved_count": 15,
+  "request_count": 52,
+  "stop_reason": "end_of_rows",
+  "journal": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/Cursor新闻抓取工具/runs/download_20261030_234136_542902.jsonl",
+  "articles": [
+    {
+      "excel_row": 3,
+      "headline_id": "39a8f658cee3f4d1",
+      "headline": "FACEBOOK CEO MARK ZUCKERBERG TESTIFIES ON CAPITOL HILL",
+      "url": "https://6abc.com/post/facebook-ceo-mark-zuckerberg-testifies-on-capitol-hill/3322492/",
+      "title": "Facebook CEO Mark Zuckerberg testifies on Capitol Hill",
+      "author": "MARY CLARE JALONICK and BARBARA ORTUTAY Associated Press",
+      "publication_date": "2018-04-10T21:46:19.000Z",
+      "final_url": "https://6abc.com/post/facebook-ceo-mark-zuckerberg-testifies-on-capitol-hill/3322492/",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/39a8f658cee3f4d1.txt",
+      "body_words": 1065,
+      "method": "generic_prose_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted."
+      ],
+      "copyright": [
+        "Copyright © 2026 by The Associated Press. All Rights Reserved.",
+        "Copyright © 2026 ABC, Inc., WPVI-TV Philadelphia. All Rights Reserved."
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "8807d41b0359bc0487f4f7914c423f416b438beab27503e3c327eee01ffd318d",
+      "status": "saved"
+    },
+    {
+      "excel_row": 18,
+      "headline_id": "e35918c40df75bd3",
+      "headline": "State senators plan field hearings on Facebook, Google reach",
+      "url": "https://abc6onyourside.com/news/local/state-senators-plan-field-hearings-on-facebook-google-reach",
+      "title": "State senators plan field hearings on Facebook, Google reach",
+      "author": "Associated Press",
+      "publication_date": "2019-09-19T13:53:05.000-04:00",
+      "final_url": "https://abc6onyourside.com/news/local/state-senators-plan-field-hearings-on-facebook-google-reach",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/e35918c40df75bd3.txt",
+      "body_words": 133,
+      "method": "generic_article_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted.",
+        "JSON-LD articleBody differs from the visible DOM and was not used."
+      ],
+      "copyright": [
+        "Copyright Notices"
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "3e92dd095284cbe2f0ca3fd6befe246f9214f4f633d0457d77c3b54afff2903e",
+      "status": "saved"
+    },
+    {
+      "excel_row": 19,
+      "headline_id": "b94f22432655eeb9",
+      "headline": "Monopoly Man photobombs Senate hearing on Equifax",
+      "url": "https://abc7chicago.com/post/monopoly-man-photobombs-senate-hearing-on-equifax/2489066/",
+      "title": "Monopoly Man photobombs Senate hearing on Equifax",
+      "author": "CNNMoney",
+      "publication_date": "2017-10-04T18:56:57.000Z",
+      "final_url": "https://abc7chicago.com/post/monopoly-man-photobombs-senate-hearing-on-equifax/2489066/",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/b94f22432655eeb9.txt",
+      "body_words": 446,
+      "method": "generic_prose_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted."
+      ],
+      "copyright": [
+        "Copyright 2017 Cable News Network. Turner Broadcasting System, Inc. All Rights Reserved.",
+        "Copyright © 2026 ABC, Inc., WLS-TV Chicago. All Rights Reserved."
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "fc4692290e1b02f3371abeec6ddda9b7da54d41e96cb8d7bed25aef3d6a072bb",
+      "status": "saved"
+    },
+    {
+      "excel_row": 21,
+      "headline_id": "0729e6beb3318438",
+      "headline": "WATCH LIVE NOW: Facebook CEO Mark Zuckerberg Testifies Before Congress On Data Privacy Scandal",
+      "url": "https://abc7news.com/post/facebooks-zuckerberg-fends-off-senators-on-privacy/3323029/",
+      "title": "Facebook CEO Mark Zuckerberg testifies before Congress on data sharing",
+      "author": "MARY CLARE JALONICK, BARBARA ORTUTAY and DAVID HAMILTON",
+      "publication_date": "2018-04-11T02:24:53.000Z",
+      "final_url": "https://abc7news.com/post/facebooks-zuckerberg-fends-off-senators-on-privacy/3323029/",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/0729e6beb3318438.txt",
+      "body_words": 1269,
+      "method": "generic_prose_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted."
+      ],
+      "copyright": [
+        "Copyright © 2026 by The Associated Press. All Rights Reserved.",
+        "Copyright © 2026 ABC, Inc., KGO-TV San Francisco. All Rights Reserved."
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "d3558af50bf4aa2e7f42a70d86205762fbd0bd8fcf002a8867d824ad3f0aa021",
+      "status": "saved"
+    },
+    {
+      "excel_row": 28,
+      "headline_id": "07eae747c69b937b",
+      "headline": "Zuckerberg asked to testify; data firm's CEO suspended",
+      "url": "https://abc7news.com/post/zuckerberg-asked-to-testify;-data-firms-ceo-suspended/3241933/",
+      "title": "Facebook CEO Mark Zuckerberg asked to testify; data firm's CEO suspended",
+      "author": "",
+      "publication_date": "2018-03-21T12:36:10.000Z",
+      "final_url": "https://abc7news.com/post/zuckerberg-asked-to-testify;-data-firms-ceo-suspended/3241933/",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/07eae747c69b937b.txt",
+      "body_words": 1178,
+      "method": "generic_prose_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted.",
+        "Source author was not found; no value was invented."
+      ],
+      "copyright": [
+        "Copyright © 2026 by The Associated Press. All Rights Reserved.",
+        "Copyright © 2026 ABC, Inc., KGO-TV San Francisco. All Rights Reserved."
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "a65c44bad9efdd1d807524376d36f59fa4994ba5a717938c811d8bac2e06b6f6",
+      "status": "saved"
+    },
+    {
+      "excel_row": 29,
+      "headline_id": "9256142f794ebc38",
+      "headline": "Facebook CEO Mark Zuckerberg to testify before House panel",
+      "url": "https://abc7ny.com/post/facebooks-mark-zuckerberg-to-testify-before-house-panel-amid-privacy-scandal/3302208/",
+      "title": "Facebook CEO Mark Zuckerberg to testify before House panel amid privacy scandal",
+      "author": "",
+      "publication_date": "2018-04-04T23:30:35.000Z",
+      "final_url": "https://abc7ny.com/post/facebooks-mark-zuckerberg-to-testify-before-house-panel-amid-privacy-scandal/3302208/",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/9256142f794ebc38.txt",
+      "body_words": 1305,
+      "method": "generic_prose_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted.",
+        "Source author was not found; no value was invented."
+      ],
+      "copyright": [
+        "Copyright © 2026 by The Associated Press. All Rights Reserved.",
+        "Copyright © 2026 ABC, Inc., WABC-TV New York. All Rights Reserved."
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "30961167283e6a9f13b235a4cc2901f0f6fb474539448bc4165803fcf832ace0",
+      "status": "saved"
+    },
+    {
+      "excel_row": 33,
+      "headline_id": "f28a58ae0caa5c82",
+      "headline": "Senate panel sets April 10 for Facebook CEO Mark Zuckerberg to testify",
+      "url": "https://abcnews.com/Politics/senate-panel-sets-april-10-facebook-ceo-testify/story?id=54025985",
+      "title": "Senate panel sets April 10 for Facebook CEO to testify",
+      "author": "Trish Turner",
+      "publication_date": "2018-03-26T21:39:00.000Z",
+      "final_url": "https://abcnews.com/Politics/senate-panel-sets-april-10-facebook-ceo-testify/story?id=54025985",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/f28a58ae0caa5c82.txt",
+      "body_words": 1110,
+      "method": "generic_prose_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted."
+      ],
+      "copyright": [
+        "© 2026 ABC News"
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "7c673b5feb89952a516dc906ecd0a7b406990328376f5943fee75e6af3652d77",
+      "status": "saved"
+    },
+    {
+      "excel_row": 36,
+      "headline_id": "be30ccd83d9e0639",
+      "headline": "Zuckerberg faces congressional grilling over Facebook user privacy, 2016 election",
+      "url": "https://abcnews.com/Politics/zuckerberg-faces-congressional-grilling-facebook-user-privacy-2016/story?id=54366595",
+      "title": "Zuckerberg faces congressional grilling over Facebook user privacy, 2016 election",
+      "author": "Lucien Bruggeman",
+      "publication_date": "2018-04-11T08:15:00.000Z",
+      "final_url": "https://abcnews.com/Politics/zuckerberg-faces-congressional-grilling-facebook-user-privacy-2016/story?id=54366595",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/be30ccd83d9e0639.txt",
+      "body_words": 1276,
+      "method": "generic_prose_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted."
+      ],
+      "copyright": [
+        "© 2026 ABC News"
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "b50bbe708988ad29c062255704182b1cf8482e359cc2ae134feffac66cf9603c",
+      "status": "saved"
+    },
+    {
+      "excel_row": 37,
+      "headline_id": "db78fbd2bad9abb7",
+      "headline": "Maxine Waters, AOC slam Zuckerberg during Libra testimony for ads that give 'licence to lie' ABC News",
+      "url": "https://abcnews.com/US/facebook-politicians-license-lie-maxine-waters-slams-zuckerberg/story?id=66471109",
+      "title": "Maxine Waters, AOC slam Zuckerberg during Libra testimony for ads that give 'licence to lie'",
+      "author": "Erin Calabrese, Hope Howard, Samara Lynn",
+      "publication_date": "2019-10-24T16:49:32.000Z",
+      "final_url": "https://abcnews.com/US/facebook-politicians-license-lie-maxine-waters-slams-zuckerberg/story?id=66471109",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/db78fbd2bad9abb7.txt",
+      "body_words": 794,
+      "method": "generic_prose_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted."
+      ],
+      "copyright": [
+        "© 2026 ABC News"
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "1f5708b3816a77ee3893cacb8b38bfa93bb20aa87827ca231d4ecafa950eb706",
+      "status": "saved"
+    },
+    {
+      "excel_row": 49,
+      "headline_id": "2ba349441437fb06",
+      "headline": "LIVE: Boeing's CEO testifies before the Senate over the 737 Max crashes (BA)",
+      "url": "https://africa.businessinsider.com/live-boeings-ceo-testifies-before-the-senate-over-the-737-max-crashes-ba/m08hs0c.amp",
+      "title": "LIVE: Boeing's CEO testifies before the Senate over the 737 Max crashes (BA)",
+      "author": "",
+      "publication_date": "2019-10-29T14:05:40.000+00:00",
+      "final_url": "https://africa.businessinsider.com/live-boeings-ceo-testifies-before-the-senate-over-the-737-max-crashes-ba/m08hs0c",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/2ba349441437fb06.txt",
+      "body_words": 102,
+      "method": "generic_article_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted.",
+        "Source author was not found; no value was invented."
+      ],
+      "copyright": [
+        "© 2026 africa.businessinsider.com"
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "6cf066bce1a78664134158e3d3180a1c694037a839016278430bd547ebcce807",
+      "status": "saved"
+    },
+    {
+      "excel_row": 52,
+      "headline_id": "b601995120367ad9",
+      "headline": "News publishers will testify in front of Congress on Tuesday to argue for increased regulation of tech giants like Google and Facebook",
+      "url": "https://africa.businessinsider.com/news-publishers-will-testify-in-front-of-congress-on-tuesday-to-argue-for-increased/s54n9l3",
+      "title": "News publishers will testify in front of Congress on Tuesday to argue for increased regulation of tech giants like Google and Facebook",
+      "author": "",
+      "publication_date": "2019-06-10T22:08:38.000+01:00",
+      "final_url": "https://africa.businessinsider.com/news-publishers-will-testify-in-front-of-congress-on-tuesday-to-argue-for-increased/s54n9l3",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/b601995120367ad9.txt",
+      "body_words": 599,
+      "method": "generic_article_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted.",
+        "Source author was not found; no value was invented."
+      ],
+      "copyright": [
+        "© 2026 africa.businessinsider.com"
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "00864f45b95cbfdee771c87a3413e25b13f3525d83379f0d03ff7f250ac39c57",
+      "status": "saved"
+    },
+    {
+      "excel_row": 53,
+      "headline_id": "00e45a63e89a40f3",
+      "headline": "Here's how to watch the CEOs of Google, Facebook, and Twitter testify in Thursday's Congressional misinformation hearing (FB, GOOGL, TWTR)",
+      "url": "https://africa.businessinsider.com/politics/heres-how-to-watch-the-ceos-of-google-facebook-and-twitter-testify-in-thursdays/t63yqyn",
+      "title": "Here's how to watch the CEOs of Google, Facebook, and Twitter testify in Thursday's Congressional misinformation hearing",
+      "author": "",
+      "publication_date": "2021-03-24T16:05:25.000+00:00",
+      "final_url": "https://africa.businessinsider.com/politics/heres-how-to-watch-the-ceos-of-google-facebook-and-twitter-testify-in-thursdays/t63yqyn",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/00e45a63e89a40f3.txt",
+      "body_words": 375,
+      "method": "generic_article_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted.",
+        "Source author was not found; no value was invented."
+      ],
+      "copyright": [
+        "© 2026 africa.businessinsider.com"
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "ec8cfdea0b715a0b46d4e0c06c5ab5c35535d2965dff20b1e038b5012695eaa7",
+      "status": "saved"
+    },
+    {
+      "excel_row": 55,
+      "headline_id": "9da9579b98b7b214",
+      "headline": "Boeing crash victims' lawyer to seek testimony from 737 MAX...",
+      "url": "https://www.africanews.com/2019/10/05/boeing-crash-victims-lawyer-to-seek-testimony-from-737-max-whistleblower/",
+      "title": "Boeing crash victims' lawyer to seek testimony from 737 MAX whistleblower",
+      "author": "AfricaNews",
+      "publication_date": "2019-10-05T11:55:29+02:00",
+      "final_url": "https://www.africanews.com/2019/10/05/boeing-crash-victims-lawyer-to-seek-testimony-from-737-max-whistleblower/",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/9da9579b98b7b214.txt",
+      "body_words": 535,
+      "method": "generic_article_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted.",
+        "Source copyright was not found; no value was invented."
+      ],
+      "copyright": [],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "fae2801fe366b1a74d8900bef9a8c81b63bb3619e325368608299be2eddef1b9",
+      "status": "saved"
+    },
+    {
+      "excel_row": 57,
+      "headline_id": "d8c3ba9f98a6118f",
+      "headline": "Mark Zuckerberg's Congress testimony: What he said",
+      "url": "https://www.aljazeera.com/economy/2018/4/11/mark-zuckerbergs-congress-testimony-what-he-said",
+      "title": "Mark Zuckerberg’s Congress testimony: What he said",
+      "author": "News Agencies",
+      "publication_date": "2018-04-11T01:35:05Z",
+      "final_url": "https://www.aljazeera.com/economy/2018/4/11/mark-zuckerbergs-congress-testimony-what-he-said",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/d8c3ba9f98a6118f.txt",
+      "body_words": 865,
+      "method": "generic_prose_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted."
+      ],
+      "copyright": [
+        "© 2026 Al Jazeera Media Network"
+      ],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "2bff69dfaa0f908b14361456f895230027d470635b8e1036f60f8c08caba3ef6",
+      "status": "saved"
+    },
+    {
+      "excel_row": 101,
+      "headline_id": "45f8c6341e3ea53d",
+      "headline": "Congressional hearings signal growing antitrust problems for big tech",
+      "url": "https://arstechnica.com/tech-policy/2019/06/congressional-hearings-signal-growing-antitrust-problems-for-big-tech/",
+      "title": "Congressional hearings signal growing antitrust problems for big tech",
+      "author": "Timothy B. Lee",
+      "publication_date": "2019-06-04T17:19:15+00:00",
+      "final_url": "https://arstechnica.com/tech-policy/2019/06/congressional-hearings-signal-growing-antitrust-problems-for-big-tech/",
+      "path": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/New Output/45f8c6341e3ea53d.txt",
+      "body_words": 267,
+      "method": "generic_article_container",
+      "warnings": [
+        "Generic static-DOM extraction was used; article completeness must be checked against the source.",
+        "External CSS, JavaScript and embedded media were not evaluated; only statically visible HTML prose was extracted.",
+        "Source copyright was not found; no value was invented."
+      ],
+      "copyright": [],
+      "terms_url": "",
+      "source_mode": "generic",
+      "sha256": "3c063a86cba4138f32e643c0d846fd1bd40f1280d42b008baf282656b1b6aed2",
+      "status": "saved"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-10-30T23:01:51.825033+08:00",
+  "workbook": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/news_urls(1).xlsx",
+  "sheet": "headline_urls",
+  "requested": 100,
+  "saved_count": 0,
+  "request_count": 0,
+  "stop_reason": "end_of_rows",
+  "journal": "/Users/fanfandemacpro/Desktop/朱珠新闻信息处理/Cursor新闻抓取工具/runs/download_20261030_230151_821694.jsonl",
+  "articles": []
+}

@@ -1,0 +1,24 @@
+Google Disputes Claims of Declining Search Traffic Despite Apple Exec’s Testimony
+
+By Lucas Nolan
+Published: 2025-05-09T15:21:45Z
+
+In response to testimony from Apple SVP Eddie Cue suggesting Google’s search traffic is falling, the internet giant has come out guns blazing to dispute any decline in its search business.
+
+Ars Technica reports that the ongoing antitrust trial targeting Google’s search empire has taken an unexpected turn as Apple SVP of Services Eddie Cue suggested that Google’s search traffic might be on the decline. During his testimony on Wednesday, Cue expressed concern about losing the lucrative Google search deal, which grants Google default search placement on Apple devices in exchange for substantial compensation. The Department of Justice argues that this arrangement is anticompetitive and seeks to ban Google from engaging in such deals as part of its proposed remedies.
+
+In a surprising revelation from the stand, Cue noted that search volume in Safari fell for the first time ever in April, implying a potential drop in Google searches given its status as the default search provider on Apple devices. This news sent shockwaves through the market, with Google’s stock price plummeting eight percent late on Wednesday.
+
+Responding to these developments, Google issued a defensive statement late in the day, asserting, “We continue to see overall query growth in Search. That includes an increase in total queries coming from Apple’s devices and platforms.” The company further emphasized its ongoing efforts to enhance its search capabilities, stating, “More generally, as we enhance Search with new features, people are seeing that Google Search is more useful for more of their queries—and they’re accessing it for new things and in new ways, whether from browsers or the Google app, using their voice or Google Lens.”
+
+The implications of declining search traffic on Apple devices could be significant for Google, as it may indicate a shift towards AI-based methods of information retrieval. Competitors such as ChatGPT and Perplexity have gained popularity in recent times, potentially eroding Google’s dominance in the search market. Despite Google’s pioneering work in creating the transformer architecture in 2017, the company’s hesitance to fully embrace AI has allowed competitors like OpenAI to capture the public’s imagination.
+
+While Google has seen increased usage of its own AI offering, Gemini, the company’s future in the search market remains uncertain. Gemini itself suffered from an infamously woke disaster of a launch. If the court decides to impose the proposed antitrust remedies, Google may find itself struggling to maintain its position at the top, especially if AI-driven search becomes the new norm.
+
+Read more at Ars Technica here.
+
+Lucas Nolan is a reporter for Breitbart News covering issues of free speech and online censorship.
+
+Source: https://www.breitbart.com/tech/2025/05/09/google-disputes-claims-of-declining-search-traffic-despite-apple-execs-testimony/
+Copyright © 2026 Breitbart
+License: https://www.breitbart.com/terms-of-use/ (personal, non-commercial copy)

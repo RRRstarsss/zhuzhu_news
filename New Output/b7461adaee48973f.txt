@@ -1,0 +1,285 @@
+Facebook CEO Mark Zuckerberg's congressional testimony
+
+Published: 2018-04-10T20:03:23Z
+
+The Latest on Facebook's privacy scandal and Mark Zuckerberg's congressional testimony (all times local):
+
+8:20 p.m.
+
+Discussion forum company Reddit issued its transparency report for 2017 during Facebook CEO Mark Zuckerberg's Senate appearance, saying it had found and banned 944 suspicious accounts associated with Russia's Internet Research Agency.
+
+Reddit CEO Steve Huffman says in a post that the company is cooperating with Congress and informed lawmakers of its findings Tuesday.
+
+Sen. Mark Warner welcomed the announcement in a statement, saying all technology platforms have a responsibility to prevent foreign adversaries from interfering in U.S. elections.
+
+The update went out during Zuckerberg's five-hour appearance before a joint U.S. Senate committee hearing. Senators grilled him about privacy in the wake of pro-Trump data mining firm Cambridge Analytica's collection of Facebook data on millions of Americans without their knowledge.
+
+__
+
+6:55 p.m.
+
+CEO Mark Zuckerberg says Facebook has not seen a falloff in usage in light of the Cambridge Analytica scandal.
+
+Zuckerberg had already said last week that the company has not seen any "meaningful impact" from an online campaign to "delete Facebook" or from some high-profile departures, such as Elon Musk's companies pulling their pages from the site.
+
+Tuesday's congressional hearing is the first of two Zuckerberg faces this week to answer questions about Facebook's privacy protections and other issues.
+
+__
+
+6:25 p.m.
+
+If his notes are any indication, Facebook CEO Mark Zuckerberg expected senators to ask whether he'd resign. His notes acknowledge he's made mistakes and say the company is facing a "big challenge" but will solve this one too.
+
+Zuckerberg's notes were briefly visible to an Associated Press photographer during a hearing Tuesday in which he answered questions about privacy, election interference and other issues.
+
+The bullet-pointed pages include sections on "diversity," ''competition," and GDPR, the European data-privacy rules that go into effect next month. Zuckerberg's notes warn him, "don't say we already do what GDPR requires."
+
+The notes even refer to Tim Cook, the Apple CEO who recently criticized Facebook. One note says there are "lots of stories about apps misusing Apple data, never seen Apple notify people."
+
+__
+
+6:20 p.m.
+
+Sen. Richard Blumenthal had a piece of evidence during Tuesday's grilling of Facebook CEO Mark Zuckerberg.
+
+The former Connecticut attorney general displayed what his staff called a previously undisclosed 2014 agreement in which Facebook granted the researcher at the center of the Cambridge Analytica scandal permission to sell data collected from Facebook users through a survey.
+
+Facebook has claimed it was deceived by the researcher, whose survey was used to collect data on up to 87 million users.
+
+Blumenthal asked if the document violated a 2011 consent decree on improving user privacy that Facebook reached with the Federal Trade Commission.
+
+Zuckerberg said no, but also said the document was "in conflict" with Facebook rules.
+
+Blumenthal decried Facebook's "willfull blindness" and insisted it will only change its ways with strict regulation.
+
+___
+
+5:40 p.m.
+
+Facebook CEO Mark Zuckerberg is assuring lawmakers he has learned a lot since starting the social network in his Harvard dorm room 14 years ago.
+
+The roughly 2.2 billion people now using Facebook can only hope Zuckerberg's views on personal privacy have changed.
+
+Not long after Zuckerberg started Facebook while he was still 19 years old, he mocked the people entrusting him with their emails, pictures and other sensitive information while instant messaging with a friend. The exchange was obtained and published in 2010 by Business Insider.
+
+After his friends asked him how he obtained so much information about 4,000 people, Zuckerberg said they "trust me" and then described people as "dumb" for doing it, punctuated with a profanity.
+
+Zuckerberg later apologized for the remarks in a 2010 interview with "The New Yorker" and said he had "learned and grown a lot."
+
+___
+
+5:10 p.m.
+
+Investors are rallying around Facebook as CEO Mark Zuckerberg appears before Congress to answer questions about the social media giant's recent privacy scandal.
+
+Facebook shares rose 4.5 percent to $165.04, their biggest percentage gain in almost two years.
+
+About half the gain came early in the day as the broader market surged on signs of an easing in trade tensions between the U.S. and China. Facebook shares gained further as Zuckerberg took questions from senators seeking an explanation for how Facebook failed to prevent a data-mining company from gathering personal information on 87 million users and whether the company does enough to protect users' data.
+
+Facebook shares are still down about 11 percent since the scandal broke last month due to concerns about stricter regulation of social media companies.
+
+___
+
+5 p.m.
+
+Facebook CEO Mark Zuckerberg says the company wouldn't necessarily know if someone set up a shell corporation to run political ads in the U.S. to skirt the company's verification process.
+
+The company announced recently that it would require political advertisers - and those running so-called political "issue ads" - to verify who they are and that they have a physical address. Facebook would verify this by asking for a government-issued ID and by mailing a special code to the advertiser's physical address to verify it.
+
+Zuckerberg was responding to questions by Sen. Sheldon Whitehouse, a Democrat from Rhode Island, who asked how the company is able to verify the "true beneficiary" of a site that is putting out political material.
+
+Tuesday's congressional hearing is the first of two Zuckerberg faces this week to answer questions about Facebook's privacy protections and other issues.
+
+___
+
+4:50 p.m.
+
+Crisis-management experts say the Facebook CEO looks a bit shaky at points but is overall doing a fairly good job on appearing cooperative and forthright.
+
+Mike Chapple, a University of Notre Dame professor, said Zuckerberg was doing a good job overall.
+
+Chapple said: "As far as I can tell the answers he's providing are accurate, he's being upfront about mistakes they've made in past and committed to correcting issues in the future."
+
+But Dartmouth Business Professor Paul Argenti said he sounded "staged and careful."
+
+Argenti said: "He's probably said 15 times, 'I'll have my people get in touch with you.' There's a formality about the way he's presenting himself."
+
+__
+
+4:35 p.m.
+
+Facebook CEO Mark Zuckerberg says the company is "responsible for the content" on its platform.
+
+That's a departure from how internet companies have traditionally viewed themselves - as neutral platforms generally not responsible for what people post and share on their services.
+
+But Zuckerberg, who is testifying before a rare joint congressional committee on Tuesday, says Facebook needs to take a "broader view" of its responsibility in the world.
+
+He also says that advances in artificial intelligence mean companies like Facebook will have to think about proactively removing objectionable content, for example, not just reactively after someone flags it. This, he says, raises "moral and legal" obligation questions.
+
+Facebook already removes some content, such as suspected terrorist propaganda before anyone sees it. But as its systems improve, it'll likely be able to remove other content too.
+
+___
+
+4:30 p.m.
+
+Texas Sen. Ted Cruz says many Americans are concerned that Facebook is biased against conservatives.
+
+Questioning Facebook CEO Mark Zuckerberg at a Senate hearing Tuesday, the Republican senator and former GOP presidential candidate said that to many people there "appears to be a pervasive pattern of political bias" after some conservative pages were taken down from the platform. In a series of pointed questions, Cruz asked Zuckerberg if he had tracked the political affiliations of his employees.
+
+Zuckerberg said he had not. But he noted that the company is based in left-leaning Silicon Valley, and said "it is a fair concern."
+
+Cambridge Analytica, the data-mining firm alleged to have collected private Facebook data on users, has boasted of helping Cruz win the Iowa caucus in 2016.
+
+___
+
+3:55 p.m.
+
+Facebook CEO Mark Zuckerberg says his company is "working with" special counsel Robert Mueller in his probe into Russian interference.
+
+Earlier this year Mueller charged 13 Russian individuals and three Russian companies in a plot to interfere in the 2016 presidential election through a social media propaganda effort that included online ad purchases using U.S. aliases and politicking on U.S. soil. Some of the Russian ads were on Facebook.
+
+Zuckerberg says he has not been personally interviewed and said he is not aware if the company has been subpoenaed.
+
+___
+
+3:50 p.m.
+
+Asked by Senator Lindsey Graham if Facebook has a monopoly, CEO Mark Zuckerberg said it "certainly doesn't feel that way to me."
+
+Zuckerberg is facing 44 senators in a rare joint committee hearing to talk about how his company protects user data and deals with elections meddling, among other issues. He says Facebook has many competitors and demurred at naming just one.
+
+He says Facebook provides a "number of different services" and that the average person uses eight different apps to communicate with friends.
+
+Some critics who say Facebook is too big say it should be forced to spin off apps like WhatsApp and Instagram.
+
+Generally, though, Facebook is considered a "duopoly" with Google when it comes to the digital advertising market. It does have several competitors on other fronts, including by Twitter, Snapchat and various messaging apps around the world
+
+___
+
+3:45 p.m.
+
+Facebook CEO Mark Zuckerberg is trying to assure U.S. lawmakers who are worried that Russia and other foreign powers will use the social media network to meddle in the upcoming midterm elections.
+
+Testifying for the first time publicly on Capitol Hill, the 33-year-old told lawmakers that 2018 was an "incredibly important year" for elections around the world, including the U.S. , India and Brazil.
+
+He says Facebook has deployed new artificial intelligence tools that do a better job identifying fake accounts. This is intended to help prevent elections interference by foreign actors - something Zuckerberg says is an "arms race."
+
+He's said in the past that the company is in better shape this year than it was in the 2016 U.S. presidential election when Facebook said to be used by Moscow to sow discord among Americans.
+
+___
+
+3:40 p.m.
+
+Facebook could have artificial intelligence tools within a five to 10 year period that accurately flag hate speech.
+
+CEO Mark Zuckerberg said in a Senate hearing that he is optimistic that in that time period the company will have the tools that can get into "linguistic nuances" of content to be more accurate in flagging posts that use hate speech.
+
+Today, he said, "we're just not there on that."
+
+Zuckerberg is facing 44 senators as part of a rare joint committee hearing to address how his company handles user privacy and other issues.
+
+___
+
+3:30 p.m.
+
+Facebook CEO Mark Zuckerberg says "it was clearly a mistake" to believe the data-mining company Cambridge Analytica deleted Facebook data it had gathered in an attempt to sway elections.
+
+A former employee of Cambridge Analytica, a London-based data-mining firm with ties to U.S. President Donald Trump, said the company collected the Facebook information of tens of millions of users without their permission. The firm got Facebook information through an app in order to build psychological profiles on a large portion of the U.S. electorate.
+
+Zuckerberg said the company considered the data collection "a closed case" because they thought the data had been deleted. He said they would handle it differently today.
+
+He said the company did not alert the Federal Trade Commission about the data collection.
+
+___
+
+3:05 p.m.
+
+Facebook CEO Mark Zuckerberg is facing 44 senators as part of a rare joint committee hearing to address how his company handles user privacy and other issues.
+
+Zuckerberg said in his opening statement Tuesday that Facebook didn't do enough to prevent its tools from being used for harm. This, he says, goes for fake news, foreign elections interference, hate speech and data privacy.
+
+Zuckerberg is apologizing, as he has in the past, and says he is "responsible" for what happens on Facebook. Zuckerberg is also reiterating that the company is in the process of investigating apps that had access to user data. He says the company is investigating "many apps," in the tens of thousands.
+
+__
+
+2:40 p.m.
+
+A person wearing a blue and green pointy wig, aiming to look like a Russian troll, watched from the back of the room as the Senate kicked off its hearing with Facebook CEO Mark Zuckerberg. The person wore a red and blue Russian flag around his neck.
+
+Other protesters held up signs that said "Stop Corporate Spying."
+
+Judiciary Committee Chairman Chuck Grassley noted that the crowd was not big by the standards of the gargantuan social network platform. But the hearing room was filled, with a line of hundreds of people waited down the hall and into the next office building.
+
+Zuckerberg is testifying in the Senate on Tuesday and the House on Wednesday.
+
+__
+
+2:15 p.m.
+
+The first of two congressional hearings with Facebook CEO Mark Zuckerberg has begun.
+
+Zuckerberg is testifying in the Senate on Tuesday and the House on Wednesday. He agreed to testify after revelations that Cambridge Analytica, a data-mining firm affiliated with Donald Trump's presidential campaign, gathered personal information from 87 million users to try to influence elections.
+
+Senators are expected to also ask him about Russian interference on his company's platform in the 2016 election.
+
+In testimony released Monday, Zuckerberg apologizes for the privacy scandal and for not recognizing Russian interference sooner.
+
+___
+
+2 p.m.
+
+Twitter says it is endorsing the Honest Ads Act, a bipartisan bill designed to make online political advertisements more transparent by revealing who paid for them, among other information.
+
+Facebook recently came out in support of the bill. The company's CEO, Mark Zuckerberg, is testifying before Congress on Tuesday and Wednesday on users' data privacy and other issues, including foreign elections interference.
+
+Google, Facebook and Twitter were questioned last fall about Russian elections meddling through their platforms and all three were asked whether they'd support the bill. Google did not immediately respond to a request for comment on Tuesday afternoon.
+
+___
+
+12:30 p.m.
+
+Facebook faces two new federal lawsuits for allegedly violating the trust of the millions of users whose personal data was shared with the data-mining firm Cambridge Analytica.
+
+A California suit filed Monday seeks a court order to halt what it calls Facebook's unfair and deceptive business practices.
+
+A Delaware case filed Tuesday contends Facebook violated a 2011 consent decree with the Federal Trade Commission. It also names Cambridge Analytica and its business partners as defendants, alleging they committed fraud by using the social network to obtain personal data on at least 80 million Facebook users without their knowledge and consent.
+
+Both are seeking class-action status. Lawyers in the Delaware case say they are aware of about a dozen similar suits. Facebook had no comment, but referred to previous statements that called Cambridge Analytica's actions a breach of trust.
+
+___
+
+10 a.m.
+
+Facebook has begun alerting some users that their data was swept up in the Cambridge Analytica privacy scandal.
+
+A notification that appeared on Facebook for some users Tuesday told them that "one of your friends" used Facebook to log into a now-banned personality quiz app called "This Is Your Digital Life." The notice says the app misused the information, including public profile, page likes, birthday and current city, by sharing it with the data-mining firm Cambridge Analytica.
+
+As many as 87 million users who might have had their data shared were supposed to get a detailed message on their news feeds starting Monday. Facebook says more than 70 million of the affected users are in the U.S., though there are over a million each in the Philippines, Indonesia and the U.K.
+
+___
+
+1:45 a.m.
+
+Experts are questioning whether Facebook is fundamentally changing its relationship with users or just tinkering around the edges of its deep need for user data to sell ads.
+
+CEO Mark Zuckerberg is testifying before Congress on Tuesday and Wednesday in the wake of revelations that pro-Donald Trump data-mining firm Cambridge Analytica scooped millions of Facebook users' data without their knowledge.
+
+Researchers say it's unlikely that Facebook will upset its business model, which allows advertisers to precisely target users, even as the company clamps down on the information it passes to app developers.
+
+And Wall Street analysts are counting on Facebook to survive a user revolt, with shares up some 4 percent after a nine-month low hit late last month.
+
+___
+
+12:10 a.m.
+
+After privately assuring senators that his company will do better, Facebook CEO Mark Zuckerberg is undergoing a two-day congressional inquisition that will be very public - and could be pivotal for his massive company.
+
+Zuckerberg visited with senators in closed-door meetings Monday, previewing the public apology he plans to give Congress on Tuesday after revelations that the data-mining firm Cambridge Analytica gathered personal information from 87 million users to try to influence elections.
+
+Zuckerberg will testify before a joint session of two Senate committees on Tuesday and before a House panel on Wednesday.
+
+In prepared testimony released Monday by the House Energy and Commerce Committee, Zuckerberg apologizes for fake news, hate speech, a lack of data privacy and Russian social media interference in the 2016 elections.
+
+Source: https://www.kalb.com/content/news/Facebook-CEO-Mark-Zuckerbergs-congressional-testimony--479311293.html
+A Gray Local Media Station © 2002-2026
+License: https://graymedia.com/about/copyright-complaint-procedures/ (personal, non-commercial copy)

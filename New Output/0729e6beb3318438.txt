@@ -1,0 +1,127 @@
+Facebook CEO Mark Zuckerberg testifies before Congress on data sharing
+
+Headline ID: 0729e6beb3318438
+Source URL: https://abc7news.com/post/facebooks-zuckerberg-fends-off-senators-on-privacy/3323029/
+Author: MARY CLARE JALONICK, BARBARA ORTUTAY and DAVID HAMILTON
+Published: 2018-04-11T02:24:53.000Z
+
+• facebook
+
+ByMARY CLARE JALONICK, BARBARA ORTUTAY and DAVID HAMILTON
+
+Wednesday, April 11, 2018
+
+Facebook CEO Mark Zuckerberg testifies on Capitol Hill: sharrie Williams reports on Action News at 4 p.m., April 10, 2018
+
+AP Photo/Andrew Harnik
+
+WASHINGTON -- Under fire for the worst privacy debacle in his company's history, Facebook CEO Mark Zuckerberg batted away often-aggressive questioning Tuesday from lawmakers who accused him of failing to protect the personal information of millions of Americans from Russians intent on upsetting the U.S. election.
+
+LIST: Members of Congress questioning Mark Zuckerberg
+
+During some five hours of Senate questioning, Zuckerberg apologized several times for Facebook failures, disclosed that his company was "working with" special counsel Robert Mueller in the federal probe of Russian election interference and said it was working hard to change its own operations after the harvesting of users' private data by a data-mining company affiliated with Donald Trump's campaign.
+
+Seemingly unimpressed, Republican Sen. John Thune of South Dakota said Zuckerberg's company had a 14-year history of apologizing for "ill-advised decisions" related to user privacy. "How is today's apology different?" Thune asked.
+
+"We have made a lot of mistakes in running the company," Zuckerberg conceded, and Facebook must work harder at ensuring the tools it creates are used in "good and healthy" ways.
+
+RELATED: Facebook Cambridge Analytica scandal: Here's how to tell if your data was 'improperly shared'
+
+The controversy has brought a flood of bad publicity and sent the company's stock value plunging, but Zuckerberg seemed to achieve a measure of success in countering that: Facebook shares surged 4.5 percent for the day, the biggest gain in two years.
+
+In all, he skated largely unharmed through his first day of congressional testimony. He'll face House questioners Wednesday.
+
+The 33-year-old founder of the world's best-known social media giant appeared in a suit and tie, a departure from the T-shirt he's famous for wearing in public as well as in private. Even so, his youth cast a sharp contrast with his often-elderly, gray-haired Senate inquisitors. And the enormous complexity of the social network he created at times defeated the attempts of legislators to hammer him on Facebook's specific failures and how to fix them.
+
+PHOTOS: Mark Zuckerberg testifies before Congress amid Facebook privacy concerns
+
+1 of 13
+
+Facebook CEO Mark Zuckerberg testifies before a joint hearing of the Commerce and Judiciary Committees on Capitol Hill in Washington.
+
+Andrew Harnik/AP Photo
+
+The stakes are high for both Zuckerberg and his company. Facebook has been reeling from its worst-ever privacy failure following revelations last month that the political data-mining firm Cambridge Analytica, which was affiliated with Trump's 2016 campaign, improperly scooped up data on some 87 million users. Zuckerberg has been on an apology tour for most of the past two weeks, culminating in his congressional appearance Tuesday.
+
+Although shaky at times, Zuckerberg seemed to gain confidence as the day progressed. An iconic figure as a billionaire entrepreneur who changed the way people around the world relate to each other, he made a point of repeatedly referring back to the Harvard dorm room where he said Facebook was brought to life.
+
+At times, he showed plenty of steel. After aggressive questioning about Facebook's alleged political bias from Sen. Ted Cruz, for instance, Zuckerberg was asked if he was ready to take a break.
+
+RELATED: Apple co-founder Steve Wozniak explains why he's saying bye to Facebook account
+
+No need. "That was pretty good," he said of the exchange with Cruz.
+
+For the most part, his careful but generally straightforward answers, steeped in the sometimes arcane details of Facebook's underlying functions, often deflected aggressive questioning. When the going got tough, Zuckerberg was able to fall back on: "Our team should follow up with you on that, Senator."
+
+As a result, he found it relatively easy to return to familiar talking points: Facebook made mistakes, he and his executives are very sorry, and they're working very hard to correct the problems and safeguard the users' data.
+
+Bay Area high tide flooding: Parts of Northern California deal with road closures, warnings as Coastal Flood Advisory extends
+
+2 romantically involved San Jose police officers charged in alleged drug theft cover-up
+
+Experts map potential Bay Area flood risks from El Niño: 'Things could be really, really bad'
+
+As for the federal Russia probe that has occupied much of Washington's attention for months, he said he had not been interviewed by special counsel Mueller's team, but "I know we're working with them." He offered no details, citing a concern about confidentiality rules of the investigation.
+
+Earlier this year Mueller charged 13 Russian individuals and three Russian companies in a plot to interfere in the 2016 presidential election through a social media propaganda effort that included online ad purchases using U.S. aliases and politicking on U.S. soil. A number of the Russian ads were on Facebook.
+
+RELATED: Facebook CEO Mark Zuckerberg's testimony for Congress released
+
+Much of the effort was aimed at denigrating Democrat Hillary Clinton and thereby helping Republican Trump, or simply encouraging divisiveness and undercutting faith in the U.S. system.
+
+Zuckerberg said Facebook had been led to believe Cambridge Analytica had deleted the user data it had harvested and that had been "clearly a mistake." He said Facebook had considered the data collection "a closed case" and had not alerted the Federal Trade Commission. He assured senators the company would handle the situation differently today.
+
+Separately, the company began alerting some of its users that their data was gathered by Cambridge Analytica. A notification that appeared on Facebook for some users Tuesday told them that "one of your friends" used Facebook to log into a now-banned personality quiz app called "This Is Your Digital Life." The notice says the app misused the information, including public profiles, page likes, birthdays and current cities, by sharing it with Cambridge Analytica.
+
+In the hearings, Zuckerberg is trying to both restore public trust in his company and stave off federal regulations that some lawmakers have floated.
+
+Democrat Bill Nelson of Florida said he believes Zuckerberg was taking the congressional hearings seriously "because he knows there is going to be a hard look at regulation."
+
+Republicans have yet to get behind any legislation, but that could change.
+
+Sen. Lindsey Graham, R-S.C., asked Zuckerberg if he would be willing to work with lawmakers to examine what "regulations you think are necessary in your industry."
+
+Absolutely, Zuckerberg responded, saying later in an exchange with Sen. Dan Sullivan, R-Alaska, that "I'm not the type of person who thinks that all regulation is bad."
+
+Ahead of the hearing, John Cornyn of Texas, the No. 2 Republican in the Senate, said, "This is a serious matter, and I think people expect us to take action."
+
+At the hearing, Zuckerberg said: "We didn't take a broad enough view of our responsibility, and that was a big mistake. It was my mistake, and I'm sorry. I started Facebook, I run it, and I'm responsible for what happens here."
+
+He outlined steps the company has taken to restrict outsiders' access to people's personal information. He also said the company is investigating every app that had access to a large amount of information before the company moved to prevent such access in 2014 - actions that came too late in the Cambridge Analytica case.
+
+Click here for more stories and videos related to Facebook.
+
+Report a correction or typo
+
+Copyright © 2026 by The Associated Press. All Rights Reserved.
+
+Related Topics
+
+• TECHNOLOGY
+
+• WASHINGTON DC
+
+• MENLO PARK
+
+• FACEBOOK
+
+• SOCIAL MEDIA
+
+• MARK ZUCKERBERG
+
+• CONGRESS
+
+• COURT CASE
+
+• LAWSUIT
+
+• SENATE
+
+• DATA BREACH
+
+• SECURITY BREACH
+
+Copyright © 2026 by The Associated Press. All Rights Reserved.
+Copyright © 2026 ABC, Inc., KGO-TV San Francisco. All Rights Reserved.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

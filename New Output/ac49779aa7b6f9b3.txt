@@ -1,0 +1,58 @@
+Microsoft and Google spar ahead of antitrust hearing on tech and the future of news
+
+Headline ID: ac49779aa7b6f9b3
+Source URL: https://www.cnbc.com/2021/03/12/microsoft-google-spar-ahead-of-antitrust-hearing-on-tech-and-future-of-news.html
+Author: Lauren Feiner
+Published: 2021-03-12T16:11:57+0000
+
+In this article
+
+• MSFT
+
+Microsoft President Brad Smith speaks (L) and Sundar Pichai of Google.
+
+Getty Images
+
+Microsoft and Google sparred Friday over their practices and treatment of news outlets in a battle between antitrust targets of past and present.
+
+In his written testimony for a hearing before the House Judiciary subcommittee on antitrust Friday, Microsoft President Brad Smith said Google has made journalism outlets dependent upon its vast array of services, including analytics and advertising tools, while profiting from access to their content. Smith said Google relies on content from these outlets to keep its users engaged, citing his own experience with Microsoft's Bing search engine.
+
+Smith said referral traffic from Google has real value to news outlets, but "monetizing that traffic has become increasingly difficult for news organizations because most of the profit has been squeezed out by Google." He pointed to a steep decline in newspaper advertising revenue from $49.4 billion in 2005 to $14.3 billion in 2018, according to Pew Research. Over the same period, he said, Google's ad revenue grew from $6.1 billion to $116 billion.
+
+"This is not a coincidence," he said.
+
+Google swung back at Smith in a statement released ahead of the hearing, calling back to Microsoft's period of antitrust scrutiny two decades ago.
+
+"We respect Microsoft's success and we compete hard with them in cloud computing, search, productivity apps, video conferencing, email and many other areas," Google's senior vice president of Global Affairs Kent Walker said in a blog post. "Unfortunately, as competition in these areas intensifies, they are reverting to their familiar playbook of attacking rivals and lobbying for regulations that benefit their own interests."
+
+"They are now making self-serving claims and are even willing to break the way the open web works in an effort to undercut a rival," Walker wrote. "And their claims about our business and how we work with news publishers are just plain wrong."
+
+While Google has more recently been in the hot seat when it comes to antitrust enforcement, facing several lawsuits from the federal government and state attorneys general, Microsoft was the focus of a landmark antitrust suit around the turn of the century. That lawsuit, which claimed Microsoft illegally maintained a monopoly and edged out the competition by tying its Internet Explorer browser to PCs using its operating system, has deeply informed the current allegations against Google, which also involve alleged anti-competitive contracts.
+
+Walker claimed Microsoft's testimony hearkens back to that same period.
+
+"This latest attack marks a return to Microsoft's longtime practices," he wrote. "And it's no coincidence that Microsoft's newfound interest in attacking us comes on the heels of the SolarWinds attack and at a moment when they've allowed tens of thousands of their customers — including government agencies in the U.S., NATO allies, banks, nonprofits, telecommunications providers, public utilities, police, fire and rescue units, hospitals and, presumably, news organizations — to be actively hacked via major Microsoft vulnerabilities."
+
+Microsoft infamously ran a campaign against Google around 2012, mocking its services with a parody called "Scroogled." The campaign was meant to point out to consumers allegedly unfair practices by Google and direct them to Microsoft's search competitor instead. Walker said the latest attack was reminiscent of the "old diversionary Scroogled playbook."
+
+The two giants most recently went head-to-head over a similar issue in Australia, which had been working on new laws that would require Facebook and Google to pay news publishers for linking to their content. While the legislation was ultimately watered down after Facebook made good on its promise to stop displaying news content in the country, it's served as a warning to the tech companies that further changes could be on the way in other parts of the world.
+
+Though Google never pulled its news service from Australia and ultimately struck deals with publishers, Microsoft had signaled it was ready to step in if Google removed its news service. The company said it would be willing to play by Australia's rules if it were designated subject to them and would not threaten to pull its service.
+
+Walker said in the statement Friday that Google remains committed to working with news organizations and policymakers "to enable a strong future for journalism."
+
+Subscribe to CNBC on YouTube.
+
+WATCH: How US antitrust law works, and what it means for Big Tech
+
+watch now
+
+VIDEO11:40
+
+The evolution of US antitrust law
+
+Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.
+
+© 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

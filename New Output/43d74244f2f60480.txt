@@ -1,0 +1,37 @@
+Facebook's Zuckerberg Faces Grilling on Capitol Hill
+
+CAPITOL HILL —
+
+Facebook chief executive Mark Zuckerberg is testifying before Congress Tuesday after apologizing for inadequately protecting the data of millions of social media platform users and highlighting steps the tech firm is taking to prevent a repeat.
+
+In multiple interviews with news media outlets and in prepared remarks delivered on Capitol Hill, Zuckerberg on Monday acknowledged that the tools Facebook provides to promote human interconnectedness were exploited for ill or nefarious purposes.
+
+“It was my mistake, and I’m sorry,” Zuckerberg said in testimony released ahead of Tuesday’s appearance before the Senate Judiciary and Commerce committees and Wednesday’s appearance before the House Committee on Energy and Commerce.
+
+“I started Facebook, I run it, and I’m responsible for what happens here,” Zuckerberg added.
+
+Zuckerberg was called to testify after news broke last month that personal data of millions of Facebook users had been harvested without their knowledge by Cambridge Analytica, a British voter profiling company that U.S. President Donald Trump’s campaign hired to target likely supporters in 2016.
+
+Prior to 2016, Facebook allowed a British researcher to create an app on Facebook on which about 200,000 users divulged personal information that was subsequently shared with Cambridge Analytica. The number of affected Facebook users multiplied exponentially because the app also collected data about friends, relatives and acquaintances of everyone who installed it.
+
+Cambridge Analytica said it had data for 30 million of Facebook’s 2.2 billion users.
+
+On Capitol Hill, U.S. lawmakers signaled they want action, not just contrition, from social media executives.
+
+“If we don’t rein in the misuse of social media, none of us are going to have any privacy anymore,” the top Democrat on the Senate Commerce Committee, Bill Nelson of Florida, told reporters after meeting privately with Zuckerberg Monday.
+
+Meanwhile, Facebook announced it is starting to notify tens of millions of users, most of them in the United States, whose personal data may have been harvested by Cambridge Analytica.
+
+The social media giant is also empowering all its users to shut off third-party access to their apps and is setting up cyber “firewalls” to ensure that users’ data is not unwittingly transmitted by others in their social network.
+
+For years, Congress took a largely “hands-off” approach to regulating the internet. Some analysts believe that is about to change after the Facebook data breach, as well as a cascade of revelations about Russian cyber-meddling.
+
+“At this point in time, it's really up to Congress and the federal agencies to step up and take some responsibility for protecting privacy, for regulating Facebook as a commercial service which it clearly is,” Marc Rotenberg, president of the Washington-based Electronic Privacy Information Center, told VOA. “We’ve gone for many years in the United States believing that self-regulation could work — that Facebook and the other tech giants could police themselves, but I think very few people still believe that.”
+
+This story was written by Michael Bowman, Ken Bredemeier contributed.
+
+---
+Source: Voice of America (VOA), Michael Bowman; contribution by Ken Bredemeier.
+Original URL: https://www.voanews.com/a/facebook-zuckerberg-faces-grilling-on-capitol-hill/4339285.html
+VOA-original text is in the public domain. Credit: voanews.com.
+Copyright statement: https://www.voanews.com/p/5338.html

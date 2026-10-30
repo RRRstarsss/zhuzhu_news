@@ -1,0 +1,42 @@
+SolarWinds hearing announced by House committees
+
+Headline ID: 6606eb1b10bf2e5e
+Source URL: https://www.cnet.com/news/privacy/solarwinds-hearing-announced-by-house-committees/
+Author: Corinne Reichert
+Published: 2021-02-22T20:44:00-05:00
+
+The US House committees on homeland security and on oversight and reform will host a hearing on the SolarWinds hack this week, they announced Monday. The hearing on Feb. 26 will see SolarWinds CEO Sudhakar Ramakrishna, former SolarWinds CEO Kevin Thompson, Microsoft president Brad Smith and FireEye CEO Kevin Mandia testify.
+
+The hearing will look into the role of private companies in preventing, investigating and remediating cyberattacks that affect the government and cause damage to our national security.
+
+Read more: SolarWinds software used in multiple hacking attacks: What you need to know
+
+More from CNET
+
+The hearings follow last year’s SolarWinds hack, which US intelligence agencies in early January attributed to Russia.
+
+“This work indicates that an Advanced Persistent Threat (APT) actor, likely Russian in origin, is responsible for most or all of the recently discovered, ongoing cyber compromises of both government and non-governmental networks,” said a joint statement from the FBI, NSA, Cybersecurity and Infrastructure Security Agency, and Office of the Director of National Intelligence. “At this time, we believe this was, and continues to be, an intelligence gathering effort.”
+
+The hack started around March 2020, when hackers compromised IT management software from Texas-based SolarWinds. The hackers placed malicious code in a SolarWinds software update, and around 18,000 of the company’s customers, in both the private and the public sectors, installed the tainted update.
+
+The breach reportedly included an email system used by senior leadership at the Treasury Department. Government officials have confirmed breaches at the Treasury Department as well as the departments of Energy and Commerce. The hack also reportedly hit the Department of Homeland Security, the Pentagon and the State Department, as well as the National Institutes of Health and the National Nuclear Security Administration.
+
+The hearing — called “Weathering the Storm: The Role of Private Tech in the SolarWinds Breach and Ongoing Campaign” — starts at 9 a.m. ET on Feb. 26, and you can watch it on YouTube or the Committee on Oversight and Reform website.
+
+Corinne Reichert
+
+Senior Editor
+
+Corinne Reichert (she/her) grew up in Sydney, Australia and moved to California in 2019. She holds degrees in law and communications, and currently writes news, analysis and features for CNET across the topics of electric vehicles, broadband networks, mobile devices, big tech, artificial intelligence, home technology and entertainment. In her spare time, she watches soccer games and F1 races, and goes to Disneyland as often as possible. See full bio
+
+The Latest from Corinne
+
+• Apple’s ‘Pro and Tell’ Event: Everything Announced This Week
+
+• Apple Limits iPhone Duo Purchases to 2 Foldable Phones Per Person
+
+• Walt Disney World Brings AI Into Its Booking Site
+
+© 2026 CNET, a Ziff Davis company. All rights reserved.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

@@ -1,0 +1,90 @@
+Boeing Chief To Face Grilling From Lawmakers On 737 Crashes
+
+NPR
+
+October 29, 2019 5:06 AM ET
+
+Boeing's CEO will testify before lawmakers Tuesday and Wednesday mornings, amid a long-running investigation into the safety of the Boeing 737 Max and Boeing's role and responsibility.
+
+Transcript
+
+RACHEL MARTIN, HOST:
+
+Today and tomorrow, the chief executive of Boeing, Dennis Muilenburg, will appear before two congressional committees and face questions about a passenger jet - the Boeing 737 MAX. One year ago today, a 737 MAX operated by Indonesia's Lion Air fell out of the sky. Five months later, last March, another crash.
+
+(SOUNDBITE OF NEWS MONTAGE)
+
+UNIDENTIFIED REPORTER #1: Ethiopian Airlines says one of its passenger planes has crashed.
+
+UNIDENTIFIED REPORTER #2: The new 737 MAX 8 jetliner crashed today.
+
+UNIDENTIFIED REPORTER #3: Ethiopian Airlines says the new Boeing 737 was delivered in November.
+
+UNIDENTIFIED REPORTER #4: It's the same one that was involved in the Indonesian Lion Air jet disaster back in October.
+
+MARTIN: Three hundred and forty-six people died in those two crashes.
+
+DAVID GREENE, HOST:
+
+Last March, after the second crash - the Ethiopian Airlines crash - I spoke with Jim Hall. He's a former chairman of the National Transportation Safety Board. And Hall had lots of questions for Boeing about its manufacturing, design, safety practices. With the Boeing CEO going before Congress today, we reached back to Jim Hall yesterday and asked, have your questions been addressed?
+
+JIM HALL: No, the questions that I think the public deserves to be answered are still outstanding. And that, of course, is why there was a single point of failure on this aircraft.
+
+MARTIN: So let's dig into that - first, a single point of failure. As early as 2015, Boeing and Federal Aviation Administration officials had pushed FAA safety engineers to allow the company to have a big hand in the new plane's safety assessments. Boeing won that fight, which led to what Hall sees as a major breakdown of longstanding aviation industry wisdom. Do not certify any new plane that can crash because a single component fails. Hall says that is just what happened with the two 737s that crashed.
+
+HALL: The aircraft - the two aircrafts in question that had the tragedies - neither one had the second sensor feeding information to the MCAS system.
+
+GREENE: The MCAS system - that's the automated flight control system. And studying the crashes revealed something disturbing. Not all Boeing 737 MAX jets came off the assembly line with the same safety mechanisms. Some had just one sensor feeding that system; others had two.
+
+MARTIN: So why? Hall says because the second sensor was sold as an extra costlier add-on. U.S.-based airlines all bought it because they could afford to; some less well-funded international airlines didn't.
+
+HALL: It disturbs me greatly that safety is being sold at Boeing aircraft and that there are two levels of safety - one for those airlines that can afford it and another level of safety for the airlines that cannot afford it. And therefore the passengers are not as safe on some aircrafts as they are others.
+
+GREENE: Hall wonders what Boeing and the FAA did or didn't do after the first crash that might have prevented the second one.
+
+MARTIN: We're going to turn now to someone who will have the opportunity to question Boeing CEO Dennis Muilenburg on Capitol Hill this week. Congressman Peter DeFazio is a Democrat from Oregon and the chair of the House Transportation Committee, and he is with us in our studios. Thanks so much for coming in.
+
+PETER DEFAZIO: Thanks, Rachel.
+
+MARTIN: So we already know quite a lot about what caused the Boeing 737 MAX planes to crash and Boeing's role in it. What more do you and your committee want to know?
+
+DEFAZIO: Well, there were obviously substantial production pressures at Boeing. They were trying to compete with Airbus. They promised to deliver a plane that would have the same fuel economy - and this is what drove this whole disaster - they promised that the pilots would not need additional training. That's expensive. And, in fact, their contract with Southwest said, if your pilots have to be retrained, you get a million bucks per plane rebate. So even before they designed this MCAS system, and even before they turned it into a radical system that would take over the plane - that was a second iteration of MCAS - they had said no one will need to be retrained. And that drove everything from that point forward, including...
+
+MARTIN: And we found out that that was part of the problem in at least one of the crashes, right?
+
+DEFAZIO: It was the problem.
+
+MARTIN: It was the problem.
+
+DEFAZIO: It was the problem. It was an automated system that was radically designed and it took over the plane. It would be 2 1/2 degrees of, you know, every - of the stabilizer every 10 seconds. And it couldn't be overridden with the stick. And you had to figure it out. And what Jim was talking about - and he was a great chair, by the way - was there was something called a disagree light which would light up in your face and it would say, the two angle of attack sensors don't agree. So you say, oh, well that's the problem. I better shut that system down. Except it wasn't easy to shut down the MCAS system, particularly in certain flight attitudes, and to correct the problem manually.
+
+MARTIN: So how did these planes, with what are clearly flaws that you've just outlined - how did they get to the point where they're flying in the sky? I mean, does it have something to do with the fact that Boeing was essentially allowed to police its own safety mechanisms?
+
+DEFAZIO: Boeing did not disclose the radical nature of this system in any coherent way to the FAA. But the FAA still should have caught it. The FAA should have been totally focused. Anything that's new or novel is supposed to have an extraordinary level of scrutiny by the FAA, and it's supposed to be disclosed by the manufacturer. They did not categorize this as a system that was catastrophic if it failed. They - so they didn't give - Boeing did not give the FAA the information it needed to exert further scrutiny. But still, the oversight - I mean, the whole process failed.
+
+MARTIN: So what needs to change? I mean, does the FAA need to change this protocol that allows individual manufacturers to draft their own safety standards?
+
+DEFAZIO: Nothing that's on a plane that can take it down, that's safety critical, should be solely the purview of Boeing. And in this case, the law didn't say that it was solely the purview of Boeing. There was a Boeing engineer that was an engineer designated as an oversight person by the FAA. And then there's supposed to be an FAA person overseeing that person - except there were only 45 people in the FAA overseeing all of Boeing's operations, which is another 1,200 of these ODAs, these designees.
+
+MARTIN: So the FAA is to blame, in part.
+
+DEFAZIO: They certainly share part of the blame, and the system shares part of the blame. We put a provision in the last bill saying we have to have an adequate number of people - this was from the Professional Airline Safety Specialists. They said, hey, we need something in the bill. We need to know that there will be enough airline safety specialists to oversee this system. There weren't - there wasn't enough scrutiny. But Boeing has a lot to answer for in terms of the way they designed it. A single point of failure - that is never, ever, ever done - and pushed it through.
+
+MARTIN: Just briefly, in seconds remaining, what's the one way you hold Boeing accountable?
+
+DEFAZIO: Well, the Justice Department is going to do the biggest accountability. They're looking at criminal violations - concealing - deliberately concealing from the government, that's a criminal violation. But beyond that, we're going to change the law and see that this can't ever happen again at Boeing or any other manufacturer of any critical airplane part.
+
+MARTIN: Congressman Peter DeFazio, chair of the House Transportation Committee. Thank you so much for your time. We appreciate it.
+
+DEFAZIO: Thanks, Rachel.
+
+(SOUNDBITE OF FOLLOWED BY GHOSTS' "BEARDS OF THE PATRIARCHS")
+
+Copyright © 2019 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+Accuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record. Please note that NPR platforms and products also include some programming produced by third parties; NPR cannot guarantee transcripts for that content and some transcripts may be produced using automated or other tools.
+
+---
+Source: https://www.npr.org/2019/10/29/774306299/boeing-chief-to-face-grilling-from-lawmakers-on-737-crashes
+Terms of use: https://www.npr.org/about-npr/179876898/terms-of-use
+Single local copy for personal learning and nonprofit research; no republication. Original article wording preserved; webpage navigation, advertising, media controls and related-content cards omitted.

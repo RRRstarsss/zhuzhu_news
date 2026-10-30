@@ -1,0 +1,66 @@
+Facebook’s Libra, Corporate Political Spending Disclosure and Executive Compensation Among Likely Topics When All Five SEC Commissioners Testify This Week
+
+The Most Popular Rulemaking in Agency’s History Likely to Get Spotlight at Tuesday Hearing
+
+NOTE TO REPORTERS
+
+On Tuesday, all five commissioners of the U.S. Securities and Exchange Commission (SEC) will appear before the U.S. House Financial Services Committee.
+
+Oversight of the SEC is critical because the agency’s mission is to protect American investors. Based on the topics the committee has explored this Congress, lawmakers are likely to ask the commissioners about hot-button topics including environmental, social and governance (ESG) risk disclosure (including the most popular proposed rule in the agency’s history on political spending transparency), executive compensation and Facebook’s Libra cryptocurrency proposal.
+
+Requiring Companies to Disclose ESG Risk Such As Corporate Political Spending
+
+In July, the U.S. House Subcommittee on Investor Protection, Entrepreneurship and Capital Markets held a hearing on ESG risk disclosure. The SEC does not require corporations to disclose their long-term risk factors such as how they’re planning for climate change, whether they are carrying overseas tax liability or whether they are spending shareholder money to influence politics through opaque, dark money channels.
+
+In her opening remarks at the July ESG hearing, U.S. Rep. Carolyn Maloney (D-N.Y.), subcommittee chair, said that corporate political spending disclosure has been a longtime priority of Democrats on the committee. Since the U.S. Supreme Court issued its calamitous 2010 decision in Citizens United v. FEC, corporations have been allowed to spend unlimited amounts to influence American elections and policy outcomes without disclosing the amount and recipients to shareholders or the public.
+
+In 2011, a bipartisan committee of leading law professors, including Robert Jackson, who now is an SEC commissioner and who will testify on Tuesday, filed the first petition requesting an SEC rule requiring all public companies to disclose their political expenditures. This rulemaking was placed on the agency’s agenda in 2013 by then-SEC Chair Mary Schapiro but was removed by the subsequent chair, Mary Jo White, in 2014.
+
+The rulemaking petition has received more than 1.2 million comments – over 10 times more than any other rulemaking in the agency’s history. Following its removal from the SEC agenda, conservatives in Congress built another roadblock to this critical transparency rule by inserting a policy rider into the FY 2016 Financial Services and General Government (FSGG) appropriations bill. The rider prohibited finalization of the disclosure rule, although the agency can still work on it.
+
+The rider remained in the past three appropriations bills but finally was struck from the U.S. House version of the FY2020 FSGG bill this past summer. Whether it will stay out of the final FY2020 budget package remains to be seen.
+
+It’s critical that investors know all the details about a corporation’s attempts to influence politics. We’ve seen clear examples where companies have drawn bad publicity when their political activity comes to light. For example, AT&T was upended by reports that it paid President Donald Trump’s personal attorney and fixer Michael Cohen for insider information on Trump’s administration and the company’s pending merger with Time Warner.
+
+More recently, brands like SoulCycle and Equinox faced celebrity boycotts after it was revealed that the owner of their parent company, Stephen Ross, was holding a fundraiser for Trump.
+
+Moreover, shareholders have demonstrated that they want this information. Election spending and lobbying disclosure consistently are among the most frequently filed shareholder proposals every year. At the beginning of the 2019 proxy season, shareholders filed 93 proposals demanding companies be more upfront with shareholders and the public about whether they exploit loopholes in the political system to gain secret and special access to politicians.
+
+In the Citizens United decision, it was assumed that prompt disclosure would be the new norm. “With the advent of the Internet, prompt disclosure of expenditures can provide shareholders and citizens with the information needed to hold corporations and elected officials accountable for their positions and supporters,” Justice Anthony Kennedy wrote in the decision. Later, he admitted that prompt disclosure is not working out the way he envisioned.
+
+Some companies already are making this type of disclosure. In fact, more than 150 large companies – including more than half of companies in the influential S&P 100 – have struck agreements with their shareholders to disclose their previously opaque political activity. This shows that it is not a burden for companies to share this information that they already have with their shareholders and the public.
+
+However, we need a comprehensive rule from the SEC to require all companies to disclose and standardize the disclosures across the stock market.
+
+Executive Compensation
+
+Wall Street crashed the world economy in 2008 due to incentive-laden and hyperinflated executive pay scales, which allowed many CEOs to be reckless with their companies and the U.S. economy. In response, Congress approved pay reforms as part of the 2010 Dodd-Frank Wall Street Reform and Consumer Protection Act. The SEC, however, has failed to finalize most of these rules, including the essential Sec. 956, which was mandated to be completed by 2011 and which prohibits pay that promotes “inappropriate” risk taking.
+
+While the rule languishes, U.S. Rep. Tulsi Gabbard (D-Hawaii) has introduced a bill (H.R. 3885) that requires a significant portion of annual pay for senior bankers to be sequestered for 10 years. If the bank is found guilty of misconduct, this pool of money is used to pay the penalty. This makes executives collectively responsible for bank conduct and can create incentives for better corporate conduct.
+
+Following the colossal fraud connected to the 2008 financial crash, banks have paid more than $133 billion in fines, but shareholders – not executives – footed that bill. Before major financial firms went private, their partners paid the fines out of money that might have been part of their annual bonuses, so this legislation simply returns to previous practice.
+
+We also fully expect the members on the Financial Services Committee to ask about out-of- control CEO pay.
+
+Facebook’s cryptocurrency, Libra
+
+In July, the Financial Services Committee held a hearing on Facebook’s proposed cryptocurrency, Libra.
+
+The Libra proposal raises a series of concerns with few precedents. Among them:
+
+- The Libra proposal is overwhelmingly likely to extend and deepen Facebook’s dominance in social media, improperly extend its social media dominance into the global payments market and potentially into the market for real goods as well, exclude and punish competitors, rip off consumers and deny them the benefit of newly innovative products.
+- At scale, Libra will become systemically important, but without the controls on financial institutions – such as deposit insurance – designed to protect against systemic risk.
+- As a private, borderless currency, Libra will make it very difficult to ensure consumers are afforded appropriate disclosures, civil remedies, protection against usury, fair access to credit, defense against unfair and deceptive practices, and more. There is good reason to worry that the Libra world will be a welcoming home for hucksters and scam artists.
+- No matter what Facebook now promises, Libra threatens to make Facebook a corporate surveillance leviathan with no precedent outside the realm of science fiction, giving the company dramatically enhanced power over information flows and our economy, while also potentially worsening the already serious problem of algorithmic racial discrimination.
+- The Libra proposal poses a fundamental threat to nations’ ability to maintain their own monetary policy and to take measures to address currency crises.
+- Tax cheats, organized criminal enterprises, money launderers and others will rush to take advantage of Libra, and it is not at all apparent how these abuses can be prevented.
+
+Libra also raises a series of questions about whether and how the SEC would and should exercise jurisdiction. These include:
+
+- Are the Libra Investment Tokens securities?
+- Are the Libra coins – the Libra that consumers will hold – securities?
+- Should Libra be regulated as an exchange traded fund (ETF) and Libra coins treated like shares within an ETF?
+
+Conclusion
+
+American investors and consumers are at risk from corporate managers focusing on short-term gains and playing in politics as well as from soaring executive compensation and unregulated cryptocurrency in our rapidly changing economy. The agency tasked with protecting investors and ensuring fair markets has a great responsibility to tackle these challenges in a way that serves its mission and not corporate profits.

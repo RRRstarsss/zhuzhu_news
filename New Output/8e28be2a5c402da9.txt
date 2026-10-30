@@ -1,0 +1,53 @@
+What to expect from Mark Zuckerberg’s congressional hearings
+
+Headline ID: 8e28be2a5c402da9
+Source URL: https://www.engadget.com/2018-04-09-mark-zuckerberg-facebook-congress-hearings-preview.html
+Published: 2018-04-09T17:40:00+00:00
+
+Lawmakers are likely to propose stricter regulations for Facebook and other internet companies.
+
+Add Engadget on Google:
+
+Google Discover
+
+The next stop on Mark Zuckerberg's apology tour is the United States Congress. On Tuesday and Wednesday, the Facebook co-founder and CEO will testify before the Senate Judiciary Committee, the Senate Committee on Commerce, Science and Transportation, and the House Energy and Commerce Committee. This comes after weeks of uncertainty over whether Zuckerberg would agree to meet with lawmakers following the Cambridge Analytica (CA) scandal, which may have exposed the private information of up to 87 million users.
+
+12345
+
+In preparation for his visit to Congress, Zuckerberg has been speaking to the media about how Facebook should've done a better job of protecting user data from being harvested by Cambridge Analytica. As we now know, CA is a UK-based political research firm with links to Donald Trump's 2016 presidential campaign, which took advantage of Facebook's APIs and secretly extracted people's data from the site. "That was a huge mistake, and it was my mistake," Zuckerberg told reporters last week in a call.
+
+Zuckerberg has also taken responsibility for waiting more than two years to disclose that "breach of trust" from CA, which may have violated Facebook's 2011 settlement agreement with the Federal Trade Commission. Back then, the agency accused Facebook of deceiving consumers by "telling them they could keep their information private and then repeatedly allowing it to be shared and made public."
+
+Facebook has spent the better part of the past couple of weeks announcing changes to its platform, such as an updated privacy policy that's easier for users to understand and a new way for people to delete their data. The company also altered its developer framework to reduce the amount of personal data third-party apps can access, limiting that to a user's name, profile photo and email address. In addition, Facebook has has been banning data firms that are extracting your data and using it for research or marketing purposes, like Cambridge Analytica did. Facebook says this is only the start and we should expect more changes over the coming months.
+
+But, despite these efforts and Zuckerberg's mea culpa, he will still have plenty of questions to answer from lawmakers in Washington, DC. One of the biggest will be why it took Facebook so long to reveal the Cambridge Analytica situation, not just to its users but to the US government. Zuckerberg also needs to address what Facebook is doing to ensure that something like this doesn't happen again and earn users' trust back. The company's handling of the CA situation exposed Facebook's lack of care in protecting user data from third-party applications and advertisers alike, the latter of which are its main source of revenue.
+
+"[Zuckerberg] will need to account for Facebook's failure to protect user data and its subsequent failure to take meaningful action in the years following the data breach."
+
+According to aides inside the Senate Judiciary Committee, the Committee on Commerce and the House Energy and Commerce Committee, who spoke to Engadget, Zuckerberg "will need to account for Facebook's failure to protect user data and its subsequent failure to take meaningful action in the years following the data breach." One of the main concerns lawmakers have, according to sources familiar with the preparations, is whether Facebook would have disclosed what happened with Cambridge Analytica had it not been for the reports from The New York Times and The Guardian. After all, the company was aware of the issue two and a half years ago.
+
+Senate Democrats are particularly interested to hear what Zuckerberg and Facebook plan to do to protect consumer data going forward. And expect them to float the potential of tougher federal regulations. There's going to be a conversation with Zuckerberg about what those could look like, not only for Facebook but for other tech companies as well. Lawmakers from both the Republican and Democratic parties feel strongly about instituting new regulations, and sources say they'll likely want to talk to Zuckerberg about putting proposals on the table. Senators from both parties agree that the current system isn't working and it doesn't encourage companies to do the right thing until there's an outpouring of public outrage. In Facebook's Cambridge Analytica case, that was years after the fact, which makes matters much worse.
+
+Facebook co-founder and CEO Mark Zuckerberg arrives on Capitol Hill on April 9th.
+
+The main issue right now, according to multiple sources, is that the FTC is the primary body of oversight for Facebook, but the agency doesn't have a strong enforcement power. For instance, if it turns out that Facebook did violate its 2011 settlement, the company could face fines for only its second violation and not the original one. Lawmakers don't believe that this was enough to coerce Facebook into being a better steward of consumer data and privacy, and those on the Democratic side think it's time to empower the FTC to be a stronger regulator and protector of people's digital information.
+
+While much of the hearings will be focused around data and privacy, the sessions will also feature questions for Zuckerberg about Russia's meddling in the 2016 US presidential election. Facebook's role in that is no secret. The company revealed last year that more than 126 million of its users were exposed to Russian-backed accounts, and sources say Zuckerberg will need to address the efforts being made to ensure that Facebook isn't being used as a malicious tool to influence upcoming elections in the US. He's also expected to answer accusations of political bias within the company and detail efforts to thwart propaganda campaigns by extremists and terrorists.
+
+Sources say that the hearings this week aren't just about grilling Zuckerberg about everything Facebook has done wrong up to this point. They will also be an opportunity for him to rebuild some trust, give reassurances and voice his vision for how Facebook is going to proactively protect user data.
+
+A privacy-focused protest outside Facebook headquarters in 2010.
+
+Getty Images
+
+Earlier today, Congress released Zuckerberg's prepared testimony for Wednesday's hearing. In it, he echoed statements he made to the media last week, saying that he takes full responsibility for everything that's happened in the past couple of years. "It's clear now that we didn't do enough to prevent these tools from being used for harm as well. That goes for fake news, foreign interference in elections and hate speech, as well as developers and data privacy," he said. "We didn't take a broad enough view of our responsibility, and that was a big mistake. It was my mistake, and I'm sorry. I started Facebook, I run it, and I'm responsible for what happens here."
+
+Zuckerberg added that Facebook is working on new technologies, powered by artificial intelligence, designed to prevent abuse and remove fake accounts — one of the main ways used to exploit the platform leading up to the 2016 US presidential election. He also said he fully supports the Honest Ads Act, a Senate bill that proposes that online advertising be regulated the same way print, radio and TV ads are. "This will help raise the bar for all political advertising online," he said.
+
+The joint hearing between the Senate Judiciary Committee and the Committee on Commerce, Science and Transportation will take place on April 10th at 2:15PM ET, while the one before the House Energy and Commerce Committee will be April 11th at 10AM ET.
+
+Images: Getty Images (All)
+
+© 2026 Static Media. All Rights Reserved
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

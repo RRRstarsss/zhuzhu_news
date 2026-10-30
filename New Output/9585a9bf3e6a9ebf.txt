@@ -1,0 +1,48 @@
+Facebook’s Libra hearings in Congress are the best free entertainment you’ll get all week
+
+Author: Elizabeth Lopatto
+Publisher: The Verge
+Published: Jul 15, 2019, 1:30 PM UTC
+Published (source metadata): 2019-07-15T13:30:00+00:00
+Source URL: https://www.theverge.com/2019/7/15/20692263/facebook-libra-cryptocurrency-hearings-congress-trump-bitcoin
+Headline ID: 9585a9bf3e6a9ebf
+
+In an unusually coherent series of tweets, President Donald Trump came out against cryptocurrency, generally, and bitcoin and Facebook’s nascent Libra cryptocurrency project, specifically. These tweets suggest that the congressional hearings scheduled for July 16th and 17th will be especially hilarious.
+
+It is predictable that the president of the United States of America, structurally, must always be a bitter no-coiner — but that hasn’t stopped libertarians and the far right from losing their shit about the tweets. The structural thing is maybe not obvious but: the president of the United States is, ultimately, the person in charge of the dollar; the power of the dollar is an extension of the power of the state. Over the course of American history, the powers of the presidency have in fact expanded; the president of the state is unlikely to support eroding his own power. And bitcoin explicitly set out to do that.
+
+Bitcoin emerged in part as a response to the financial crisis; its early adopters were a group of anarchists, libertarians, and others who had been longing for a currency-based way to express their hatred for government institutions. After all, the point was to create an alternative to fiat currency, and to mimic goldbugs’ notions of how currency should work. Cryptocurrency now has a serious following among Silicon Valley VCs.
+
+Maybe that made Mark Zuckerberg jealous? Reportedly, it was Zuckerberg who pushed for Libra, the company’s entrée into the cryptocurrency space. I’m not sure, exactly, what response the people who worked on Libra were expecting, but the reception has mostly been brutal.
+
+No one trusts Facebook, a company that repeatedly disregards privacy concerns, issues meaningless apologies for doing so, then violates them again. Significantly, though, much of the cryptocurrency community hated Libra. They argued it was not a cryptocurrency (plausible); that Libra was not based on a blockchain (likely); and that it violated the decentralized vision of cryptocurrency (absolutely). In a defensive follow-up blog post, Facebook’s David Marcus opens with the question “Is this really a blockchain?” and then proceeds to… not answer the yes-or-no question he himself posed.
+
+“Why isn’t there already a charter in place for the Libra Association?” is the next question, and Marcus says, essentially, that Facebook wants the other members to co-design the charter. Unfortunately for Marcus, I am old enough to remember the “other partners” that backed out of Facebook’s Free Basics. Much like Free Basics, we are told that the mission is to help the poor; also like Free Basics, the entity most likely to actually benefit is Facebook.
+
+While Facebook has provided some answers about how they are thinking about regulation, there has been nothing so far on how the Libra Association will be regulated, says Jerry Brito, the executive director of Coin Center, an organization devoted to bitcoin policy. In a Twitter thread, he walks through some possible regulatory structures. The absence of the charter, however, makes it impossible to say with any certainty how the Libra Association will be regulated.
+
+There are other questions in Marcus’s post, but the answers to the first two are representative.
+
+And then the Twitter account of the president of the United States waded hilariously in. “I am not a fan of Bitcoin and other Cryptocurrencies, which are not money, and whose value is highly volatile and based on thin air. Unregulated Crypto Assets can facilitate unlawful behavior, including drug trade and other illegal activity...” the first tweet read. It continued in a second: “Similarly, Facebook Libra’s ‘virtual currency’ will have little standing or dependability. If Facebook and other companies want to become a bank, they must seek a new Banking Charter and become subject to all Banking Regulations, just like other Banks, both National.”
+
+First of all: I am not convinced the tweet came from President Trump himself. It is too articulate, despite the amusing capitalization. I do not believe for an instant that the president could define a cryptocurrency, explain what bitcoin is, or even know what Libra (much less its Association) is supposed to be. If you are a political reporter and you are reading this: I have a hundred US American dollars that I will pay you to ask President Trump to define any of those things. I am not too proud to beg; please ask Donald Trump about cryptocurrency.
+
+According to US tax law, that tweet is correct: cryptocurrency is taxed as a commodity, like gold. It is also true that bitcoin is highly volatile, as are many other cryptocurrencies; if you like speculating, this is a feature and not a bug. (If, however, you are attempting to make payments, it means you’re going to have to pay capital gains taxes on every transaction.) It is also true that cryptocurrency can facilitate illegal activities. (So can the US dollar.) With respect to “thin air:” all money, cryptocurrency or otherwise, is based on trust, which is thin air indeed.
+
+The second tweet is where the actual action is, policy-wise, if the Twitter account of the president of the United States of America can be taken seriously. (Again, open question.) It seems to indicate something very different than what the SEC suggested for potential regulation last year: “Some platforms offer digital wallet services (to hold or store digital assets) or transact in digital assets that are securities. These and other services offered by platforms may trigger other registration requirements under the federal securities laws, including broker-dealer, transfer agent, or clearing agency registration, among other things.”
+
+Shortly after Libra was introduced, Matt Stoller wrote a helpful piece about the legal hurdles for the cryptocurrency, highlighting one that this tweet is referencing: the barrier between banking and commerce. “Banking and payments is a special business, where a bank gets access to intimate business secrets of its customers,” Stoller writes. “As one travel agent told Congress in 1970 when opposing the right of banks to enter his business, ‘Any time I deposited checks from my customers,’ he said, ‘I was providing the banks with the names of my best clients.’”
+
+That policy commitment, if it is serious, should make cryptocurrency enthusiasts nervous. Bitcoin specifically was meant to provide an alternative to the banking industry, but the infrastructure of wallets in many ways resembles banks. And Facebook, by presenting Libra as a potential alternative to banking, made this very obvious. (Facebook, for what it’s worth, has denied that Libra will operate as a bank.) If every provider of a cryptocurrency wallet or trading platform is suddenly regulated as a bank, friends, we are looking at chaos. I have been intermittently doing the Joker clap for hours.
+
+Not to be outdone, the SEC has waded in. Remember the plan to peg Libra to a basket of relatively stable assets — “low-volatility assets, including bank deposits and government securities” in several currencies? The SEC is wondering if that makes Libra an exchange-traded fund, The Wall Street Journal reports. If so, Libra doesn’t launch without their say-so. And if the US doesn’t allow Libra, will it launch anywhere else? Facebook won’t say.
+
+All this regulatory talk is especially hilarious if you remember cryptocurrency’s original culture and political commitments. The ideology of bitcoin (and pretty much all cryptocurrency, even the maybe-not-actually-cryptocurrency Libra) is that it is money for people who hate the government, especially government regulation. Trump’s followers from 2016 weren’t just rank-and-file Republicans. Trump excited the far right, the people who hate the government the most. These same people are the ones who tend to gravitate toward bitcoin, a notoriously bad payment system that has finally grown toward being essentially the purest uncut financial speculation money can buy.
+
+There will be two hearings on Libra, and given the slapstick nature of Libra’s introduction to date, I expect farce. I am not confident any person in Congress — with the possible exception of Elizabeth Warren — understands Libra, bitcoin, or cryptocurrency on either a theoretical or a technical level. The questions are likely to be risible and the answers will be worse.
+
+But now that we have presidential tweets, I think the possibility for comedy is even higher. Here’s the thing: if you are beholden to the far right, as some Republicans in Congress clearly are (hi, Ted Cruz and Josh Hawley!), there is now the outside possibility of weird grandstanding in favor of cryptocurrency. Tune in; judging by all the squeaking shoes so far, this is going to be a clown convention.
+
+© 2026 VM Publishing, LLC. All rights reserved.
+
+Personal, non-commercial study copy. Publisher terms: https://www.pmc.com/terms-of-use

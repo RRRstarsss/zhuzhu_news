@@ -1,0 +1,113 @@
+Facebook CEO Mark Zuckerberg Testifies Before Congress
+
+Headline ID: 24baf607b6313384
+Source URL: https://www.cbsnews.com/newyork/news/facebook-ceo-mark-zuckerberg-congress-hearing/
+Published: 2018-04-10T23:05:24-0400
+
+Local News
+
+Add CBS News on Google
+
+WASHINGTON, DC (CBSNewYork/AP) -- Facebook CEO Mark Zuckerberg faced 44 senators Tuesday to address how his company handled user privacy and other issues.
+
+"I started Facebook, I run it, and I'm responsible for what happens here," Zuckerberg said.
+
+Zuckerberg spoke before a joint hearing of the Senate Judiciary and Commerce Committees and will return Wednesday to again testify before a House panel.
+
+A major theme the senators pressed with Zuckerberg involved the collection of private information in light of the Cambridge Analytica scandal and the 2016 presidential race.
+
+BACKGROUND: How Did Facebook Get Into Trouble?
+
+"When we learned in 2015 that Cambridge Analytica had bought data from an app developer on Facebook that people had shared it with, we did take action," said Zuckerberg. "We took down the app and we demanded that both the app developer and Cambridge Analytica delete and stop using any data that they had. They told us that they did this in retrospect it was clearly a mistake to believe them.
+
+"We didn't take a broad enough view of our responsibility and that was a big mistake," he said. "It was my mistake and I'm sorry."
+
+In terms of foreign powers using Facebook to exploit voters, such as in the case revealed last February in which 13 Russians and three Russian entities were charged with interfering in the 2016 U.S. presidential election, Zuckerberg promised new systems to prevent such tactics in the future.
+
+"We've deployed new AI tools that do a better job of identifying fake accounts that may be trying to interfere in elections or spread misinformation," he said.
+
+When asked by Sen. Tammy Baldwin of Wisconsin if app developer Aleksandr Kogan, who worked with Cambridge Analytic, gave user data to other firms, Zuckerberg confirmed that was likely the case.
+
+"There was one called 'Eunoia' and a couple of others as well," he said.
+
+Sen. Richard Blumenthal of Connecticut, a former state attorney general, displayed what his staff called a previously undisclosed 2014 agreement in which Facebook granted the researcher at the center of the Cambridge Analytica scandal permission to sell data collected from Facebook users through a survey.
+
+Facebook has claimed it was deceived by the researcher, whose survey was used to collect data on up to 87 million users.
+
+Blumenthal asked if the document violated a 2011 consent decree on improving user privacy that Facebook reached with the Federal Trade Commission.
+
+Zuckerberg said no, but also said the document was "in conflict" with Facebook rules - a stance the senator called "willfull blindness" and insisted Facebook would only change its ways with strict regulation.
+
+"In many ways you and the company you've created represent the American Dream," Sen. John Thune said in the congressional leaders' opening remarks. "At the same time, you have an obligation to ensure that dream doesn't become a nightmare for the scores of people who use Facebook."
+
+"The fact that those 87 million people may have technically consented to making their data available doesn't make most people feel any better," he said.
+
+Sen. Chuck Grassley of Iowa cited hearing political managers call Facebook's data collecting abilities as "the most groundbreaking piece of technology for this campaign."
+
+Sen. Bill Nelson noted congressional leaders planned to bring in Cambridge Analytica to explain what they did with data collected from Facebook users and other social media sources.
+
+"If you and other social media companies do not get your act in order, none of us are going to have any privacy anymore. That is what we are facing," said Nelson.
+
+Zuckerberg noted Cambridge Analytica acquired users' personal data from a third-party developer, but Facebook itself will work to notify users and prevent future breaches of privacy.
+
+"It will take some time to work through all the changes we need to make across the company, but I'm committed to getting this right," said Zuckerberg "This includes the basic responsibility of protecting people's information, which we failed to do with Cambridge Analytica. We are going to be investigating many apps, tens of thousands of apps. And if we find any suspicious activity, we are going to conduct a full audit of those apps to understand how they are using their data and if they are doing anything improper."
+
+Part 1 Of Tuesday's Testimony
+
+Part 2 Of Tuesday's Testimony
+
+Part 3 Of Tuesday's Testimony
+
+When Sen. Nelson raised the issue of ad tracking users and the proposal by some suggesting Facebook charge users who do not want to be targeted through their service, Zuckerberg was cool to the idea.
+
+"Even though some people don't like ads, people really don't like ads that aren't relevant," said Zuckerberg. "The overwhelming feedback that we get from our community is that people would rather have us show relevant content there than not.
+
+"There will always be a version of Facebook that will be free," said Zuckerberg when Sen. Orrin Hatch of Utah questioned Facebook's business model to users.
+
+Sen. Maria Cantwell of Washington asked Zuckerberg if any Facebook employees were involved in helping Donald Trump's political campaign during the race for the White House in 2016, citing venture capitalist Peter Thiel's Palantir company which reportedly worked with Cambridge Analytica on gathering data for possible political use.
+
+Zuckerberg said some Facebook sales staff may have worked with Trump's campaign as they had with other political camps, but he said he did not know about any direct help given to specific candidate's campaigns.
+
+"As of the time we learned about [Cambridge Analytica's] activity in 2015, they weren't an advertiser and they weren't running pages," said Zuckerberg when first questioned about the data firm. "So we actually had nothing to ban."
+
+Sen. Lindsey Graham of South Carolina pushed for clarification on exactly what business Facebook was in, and who their competitors were if people wanted to switch to a similar social media rival platform.
+
+"Do you feel you have a monopoly?" asked Graham.
+
+"It certainly doesn't feel that way to me," said Zuckerberg.
+
+Sen. Ted Cruz of Texas pushed Zuckerberg to acknowledge a political bias in how decisions are made by the company regarding removing users and content.
+
+"Does Facebook consider itself to be a neutral public forum?" asked Cruz.
+
+"We consider ourselves to be a platform for all ideas," said Zuckerberg, noting they do seek to block and remove content which causes "real world harm" such as terrorism, threats of violence. "In order to create a service where everyone has a voice, we also need to make sure that people are not bullied or basically intimidated or the environment feels unsafe for them."
+
+Another common theme from senators was the length and transparency of Facebook's terms of service.
+
+"Here's what everybody has been trying to tell you today and I say this gently: Your user agreement sucks," said Sen. John Kennedy of Louisiana. "The purpose of that user agreement is to cover Facebook's rear end. It's not to inform your users about their rights."
+
+It was also revealed that several Facebook executives were interviewed by special counsel Robert Mueller, who's investigating Russian election meddling on the site and elsewhere.
+
+(© Copyright 2018 CBS Broadcasting Inc. All Rights Reserved. The Associated Press contributed to this report.)
+
+In:
+
+• Mark Zuckerberg
+
+• Cambridge Analytica
+
+CBS News New York
+
+• Construction halted at Upper West Side water tower that was home to nest of barn owls
+
+• Mamdani backing New York DSA candidates in midterm elections
+
+• Experts provide keys to victory in Lawler-Conley N.Y.-17 race
+
+• Cornell Faculty Senate rejects effort to delay vote of no confidence
+
+© 2018 CBS Broadcasting Inc. All Rights Reserved.
+(© Copyright 2018 CBS Broadcasting Inc. All Rights Reserved. The Associated Press contributed to this report.)
+©2026 CBS Broadcasting Inc. All Rights Reserved.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

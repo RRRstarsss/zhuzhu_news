@@ -1,0 +1,48 @@
+Mark Zuckerberg grilled by Congress over Libra and political ads policy
+
+By CNN Wire
+Published: 2019-10-23T22:33:26-0400
+
+Mark Zuckerberg conceded on Wednesday that there is a scenario in which Facebook might have to rethink its involvement in its controversial cryptocurrency project, Libra, if the currency does not receive appropriate US regulatory approval.
+
+In response to multiple questions on the matter during an hours-long grilling session on Capitol Hill, Zuckerberg said Facebook would be “forced to leave” the governance organization overseeing Libra if the group moves ahead with launching the digital currency without US policymaker approval.
+
+“If at the end of the day we don’t receive the clearances,” Zuckerberg said, “we will not be a part of the association.”
+
+The acknowledgment could have major implications for Zuckerberg and Facebook. The company is betting that introducing Libra can help Facebook users transact with businesses directly, which in turn could “lead to higher prices for ads” on the platform, Zuckerberg said Wednesday. “We may see a positive business impact,” he said.
+
+Zuckerberg returned to Capitol Hill to testify before the House Financial Services Committee over Facebook’s plans for Libra. Within minutes, however, it became clear lawmakers would expand the focus of the hearing to include a wide range of concerns about Facebook.
+
+Maxine Waters, the chair of the committee, kicked off the hearing by listing off the company’s history of running discriminatory housing ads, failing to protect consumer data and having its platform used for election interference. She also questioned Zuckerberg over his company’s policy of not subjecting ads by political candidates to third-party fact-checking.
+
+“You’re willing to step on anyone — your competitors, women and people of color, even our democracy,” Waters said in her opening remarks.
+
+Zuckerberg attempted to defend Libra as necessary innovation for the financial services industry while acknowledging the concerns about Facebook in particular launching the effort.
+
+“I believe that this is something that needs to get built, but I get that I’m not the ideal messenger for this right now,” Zuckerberg said. “We’ve faced a lot of issues over the past few years. I’m sure there are a lot of people who wish it was anyone but Facebook who proposed this.”
+
+The stakes are high for Zuckerberg’s performance on Wednesday. Many lawmakers have not ruled out the possibility that they could try to block Libra altogether if they are not satisfied by Zuckerberg’s responses. David Marcus, the Facebook exec who headed up the Libra effort and now runs the company’s subsidiary developing services for users to save and spend Libra, testified before Congress in July, but many lawmakers weren’t entirely satisfied with what they heard.
+
+It also comes as Facebook is under more scrutiny than ever. Facebook’s antitrust headache is only getting worse, as dozens more attorneys general join an investigation into the company. It has been embroiled in a feud with Democratic presidential candidate Elizabeth Warren over truthfulness in political ads.
+
+On Wednesday, lawmakers pressed Zuckerberg on encryption, censorship, child sex abuse content and Facebook’s plan to integrate the data from its messaging apps. Rep. Gregory Meeks, a Democrat on the committee, slammed Facebook for not doing more to support the existing infrastructure to help the unbanked rather than embarking on a massively ambitious project that the CEO conceded was “risky.”
+
+At other points, however, legislators echoed Zuckerberg’s arguments about the importance of fostering innovation in the US, applauded the Facebook CEO for declaring himself a “capitalist” and even compared him to President Donald Trump. “You’re both very successful businessmen, you’re both capitalists,” Rep. Barry Loudermilk, a Republican on the committee, said in the hearing. “You’ve done very well, but I think really what you share in common is you both challenge the status quo. He calls it ‘draining the swamp;’ you see it as innovation.”
+
+The hearing represents yet another hurdle for the effort to bring Libra to life, which Facebook and its partners had hoped to do by mid-2020. That timeline now appears uncertain. Zuckerberg’s testimony comes days after several of the project’s early partners jumped ship, which some analysts warned could potentially make it harder for Libra to gain regulatory approval.
+
+Still, the group has forged ahead with setting up the early governance structure and articles of association for the Libra Association, which will manage the digital currency. They say Libra could revolutionize the global payments system, making it easier to send money around the world and potentially benefiting the underbanked.
+
+“People pay far too high a cost — and have to wait far too long — to send money home to their families abroad. The current system is failing them,” Zuckerberg said in his prepared remarks.
+
+The digital currency will be managed by an organization comprised of 21 companies, including Facebook. The social networking firm has one seat of five on the board. But Facebook’s involvement — and Libra’s potential access to its more than 2 billion users — nonetheless helped make Libra a bigger concern for regulators.
+
+In his prepared remarks, Zuckerberg also attempted to defuse fears about Libra’s potential impact on existing currencies. Zuckerberg said Libra “is not an attempt to create a sovereign currency.” He also noted that Libra will be backed “mostly by dollars,” referencing the Libra Reserve that will back the coin 1:1.
+
+The anticipated makeup of the reserve, beyond Facebook’s statements that it will be comprised of government-backed currencies and debt instruments, has been unclear, leading lawmakers to fear Libra could undermine central banks’ ability to carry out monetary policy.
+
+Zuckerberg’s lengthy testimony may still not have been enough to address the many questions lawmakers have about Libra. Near the end of the hearing, which lasted more than six hours, the committee’s ranking member Rep. Patrick McHenry said he is not sure the committee members had “learned anything new here.”
+
+Source: https://www.wtvr.com/2019/10/23/mark-zuckerberg-grilled-by-congress-over-libra-and-political-ads-policy
+© 2026 Scripps Media, Inc
+License: https://scripps.com/user-agreement/ (personal, non-commercial copy)

@@ -1,0 +1,51 @@
+Highlights from Facebook’s Libra Senate hearing
+
+By Josh Constine
+8:25 AM PDT · July 16, 2019
+
+Facebook will only build its own Calibra cryptocurrency wallet into Messenger and WhatsApp, and will refuse to embed competing wallets, the head of Calibra David Marcus told the Senate Banking Committee today. While some, like Senator Brown, blustered that “Facebook is dangerous!,” others surfaced poignant questions about Libra’s risks.
+
+Calibra will be interoperable, so users can send money back and forth with other wallets, and Marcus committed to data portability so users can switch entirely to a competitor. But solely embedding Facebook’s own wallet into its leading messaging apps could give the company a sizable advantage over banks, PayPal, Coinbase or any other potential wallet developer.
+
+Other highlights from the “Examining Facebook’s Proposed Digital Currency and Data Privacy Considerations” hearing included Marcus saying:
+
+• The U.S. should “absolutely” lead the world in rule-making for cryptocurrencies
+
+• The Libra Association chose to be headquartered in Switzerland “not to evade any responsibilities of oversight” but since it’s where international financial groups like the Bank for International Settlements, though Calibra will be regulated by the U.S. Department of the Treasury’s Financial Crimes Enforcement Network
+
+• “Yes,” Libra will comply with all U.S. regulations and not launch until the U.S. lawmakers’ concerns have been answered
+
+• “You will not have to trust Facebook” because it’s only one of 28 current and potentially 100 or more Libra Association members and it won’t have special privileges
+
+• “Yes I would” accept compensation from Facebook in the form of Libra as a show of trust in the currency
+
+• It is “not the intention at all” for Calibra to sell or directly monetize user data directly, though if it offered additional financial services in partnership with other financial organizations it would ask consent to use their data specifically for those purposes
+
+• Facebook’s core revenue model around Libra is that more online commerce will lead businesses to spend more on Facebook ads
+
+• When repeatedly asked why Facebook is pushing Libra to happen, Marcus noted that blockchain technology is inevitable and if the U.S. doesn’t lead in building and regulating it, the tech will come from places “out of reach of our national security apparatus,” raising the spectre of China
+
+But Marcus also didn’t clearly answer some critical questions about Libra and Calibra, and may be asked again when he testifies before the House Financial Services Committee tomorrow.
+
+Unanswered Questions
+
+Chairman Crapo asked if Facebook would collect data about transactions made with Calibra that are made on Facebook, such as when users buy products from businesses they discover through Facebook. Marcus instead merely noted that Facebook would still let users pay with credit cards and other mediums as well as Calibra. That means that even though Facebook might not know how much money is in someone’s Calibra wallet or their other transactions, it might know how much they paid and for what if that transaction happens over their social networks.
+
+Senator Tillis asked how much Facebook has invested in the formation of Libra. TechCrunch has also asked specifically how much Facebook has invested in the Libra Investment Token that will earn it a share of interest earned from the fiat currencies in the Libra Reserve. Marcus said Facebook and Calibra hadn’t determined exactly how much it would invest in the project. Marcus also didn’t clearly answer Senator Toomey’s question of why the Libra Association is considered a not-for-profit organization if it will pay out interest to members.
+
+Senator Menendez asked if the Libra Association would freeze the assets if terrorist organizations were identified. Marcus said that Calibra and other custodial wallets that actually hold users’ Libra could do that, and that regulated off-ramps could block them from converting Libra into fiat. But this answer underscores that there may be no way for the Libra Association to stop transfers between terrorists’ non-custodial wallets, especially if local governments where those terrorists operate don’t step in.
+
+Perhaps the most worrying moment of the hearing was when Senator Sinema brought up TechCrunch’s article citing that “The real risk of Libra is crooked developers.” There I wrote that Facebook’s VP of product Kevin Weil told me that “There are no plans for the Libra Association to take a role in actively vetting [developers],” which I believe leaves the door open to a crypto Cambridge Analytica situation where shady developers steal users money, not just their data.
+
+Senator Sinema asked if an Arizonan was scammed out of their Libra by a Pakistani developer via a Thai exchange and a Spanish wallet, would that U.S. citizen be entitled to protection to recuperate their lost funds. Marcus responded that U.S. citizens would likely use American Libra wallets that are subject to protections and that the Libra Association will work to educate users on how to avoid scams. But Sinema stressed that if Libra is designed to assist the poor who are often less educated, they could be especially vulnerable to scammers.
+
+Crypto openness versus a dangerous Wild West
+
+Overall, the hearing was surprisingly coherent. Many Senators showed strong base knowledge of how Libra worked and asked the right questions. Marcus was generally forthcoming, beyond the topics of how much Facebook has invested in the Libra project and what data it will glean from transactions atop its social network.
+
+Some of the top concerns, such as terrorist money laundering, encompass the entire cryptocurrency ecosystem and can’t be solved even by strong rules around Libra. Little regard was given to how Libra could improve remittance or cut transaction fees that see corporations profit off families and small businesses.
+
+Still, if Libra actually becomes popular and evolves as an open ecosystem full of unvetted developers, the currency could be used to facilitate scams. Precisely because of the lack of trust in Facebook that many Senators harped on, consumers could go seeking Libra wallet alternatives to the company that might push them into the hands of evildoers. The Libra Association may need to shift the balance further toward safety and away from cryptocurrency’s prevailing philosophies from openness. Otherwise, the frontiers of this Wild West could prove dangerous, even if its civilized regions are well-regulated.
+
+Source: https://techcrunch.com/2019/07/16/libra-in-messenger-whatsapp/
+© 2026 TechCrunch Media LLC.

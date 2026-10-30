@@ -1,0 +1,46 @@
+Facebook’s Mark Zuckerberg testifies before Congress. What comes next?
+
+Headline ID: 2a14580771ffbfe5
+Source URL: https://www.brookings.edu/articles/after-facebooks-mark-zuckerberg-testifies-to-congress-what-comes-next/
+Author: Jack Karsten
+Published: 2018-04-10T14:12:32Z
+
+Facebook CEO Mark Zuckerberg released his prepared statement that will be delivered before Congress this week. He plans to detail the company’s recent dealings with Cambridge Analytica, the political firm hired by the 2016 Trump campaign, which harvested the personal data of more than 87 million Facebook users for political targeting. He will also address Russian interference in the same election, resulting in large-scale discord among the American public.
+
+Zuckerberg’s testimony will share the company’s social mission–“connecting people, building community, and bringing the world together,” and he will be apologetic about the company’s role in election interference, hate speech, and fake news. But it’s difficult to predict how receptive or forgiving Members of Congress will be considering Facebook’s past and recent actions. Instead, Congress may be compelled to establish legislation that protects “democracy,” specifically our elections system and consumer online data privacy.
+
+Without question, achieving broad privacy may be a hard task for legislators, given the rapid pace of innovation. On the one hand, big data technologies have outpaced the development of public policies to regulate their growth. Applications and platforms have become more dependent on big data to automate decisions through algorithms and other forms of artificial intelligence. Therefore, the data flows that exist between applications will be harder to legislate. As we learn more about the use of Facebook’s platform to manipulate the profiles and personalities of their users to affect the 2016 presidential election, legislation alone will probably not be sufficient. However, nor will the company’s promises to make their platform more secure.
+
+Congress will most likely revisit individual control of privacy
+
+So, what will happen after Zuckerberg’s testimony?
+
+To date, the U.S. privacy regulations have stalled under the Trump administration, whose leadership has rescinded many of the Obama-era privacy regulations. The Federal Trade Commission (FTC), which is the only agency that has authority over tech companies, shared its own intention to investigate whether the Cambridge Analytica scandal violated its consent decree with Facebook, and other public representations made by the company, such as 2011 settlement with the State of California regarding third parties’ use of their data.
+
+It is also no secret that the U.S. is trailing the European Union (EU) when it comes to comprehensive, national privacy and data security law, particularly in light of the EU’s General Data Protection Regulations (GDPR). Consequently, we may begin to see some discussion about what parts of the GDPR may be applicable within the context of a national privacy regime. The GDPR, which strictly governs the export of personal data and constitutes the digital rights of EU citizens, may now seem palatable to lawmakers who feel the need to speed up data breach notifications (it did take Facebook close to three years after they first learned of the situation in 2015 to acknowledge that peoples’ data may have been compromised), and firmly sanction privacy infractions. Like the EU, the U.S. may also choose to conduct more data protection audits and strengthen individuals’ right to access their personal data and make decisions about how it is used. Based on Facebook’s public comments about their intention to extend GDPR protections to U.S. subscribers, this conversation could be well underway.
+
+However, adapting elements of the GDPR will not be easy. Privacy has been held to a different standard in the U.S. when it comes to the digital economy. Starting with the commercialization of the internet under the Clinton administration, the reciprocal exchange of data for online services has long subsidized the medium for users. In recent days, Facebook COO Sheryl Sandberg has suggested that the company charge users for opting out of being targeted by advertisers, who are the major sponsors for their service. Although, it is surprising that a company whose mission is to connect the world would propose this path, given the possible impact of fees on digitally marginalized populations.
+
+In addition to considering a lean adaptation of the GDPR framework, Congress might also revisit the BROWSER Act (Balancing the Rights of Web Surfers Equally and Responsibly), recently proposed by Congresswoman Marsha Blackburn (R-Tenn.). Initially written to replace the previous FCC’s privacy rules, the legislation reinstated an “opt-in” requirement for all companies, not just ISPs, supporting the concept of “platform neutrality” where all companies would be treated equally online. While the privacy laws that she was addressing no longer exist, this legislative framework could at least ensure that online users have express consent when visiting any online location or agreeing to the use of their data by any party.
+
+While Zuckerberg will also share in his testimony Facebook’s pending product fixes, the unfortunate fact is that privacy infractions are becoming more normalized among retail stores, banks, and among a host of other online companies. Congress may find themselves revisiting the universal application of the previous nomenclature of “privacy by design” to enhance hardware, software, and cloud computing securities.
+
+While these are all potential starters for a legislative dialogue, the bigger dilemma that Facebook’s problems poses are related to the regulation of big data that is now fueling every aspect of the emerging digital economy, and where users’ information makes up its prime resource.
+
+Big data analytics will make privacy legislation more difficult
+
+In 2017, Equifax announced one of the most massive data breaches of consumers’ social security numbers, prompting tighter controls on sensitive information. When Facebook appeared to engage in discriminatory practices by allowing advertisers to exclude certain demographic groups, federal housing laws served as a stopgap solution for protection and enforcement.
+
+But how do legislators bring fixes to big data analytics that are now driving the algorithms that make causal predictions about user preferences and infer attributes and activities, from our lifestyles to our voting behaviors? In many respects, this is at the core of Facebook’s dealings with Cambridge Analytica. It is what makes this entire scenario very scary.
+
+While it’s unclear how much of the inquiry of Zuckerberg will dissect the role of data science in the hearings, members of Congress will have to learn quickly if they are going to establish privacy frameworks resilient against foreign operatives and myopic information developers.
+
+Facebook is a donor to the Brookings Institution. The findings, interpretations, and conclusions posted in this piece are solely those of the authors and not influenced by any donation.
+
+Author
+
+The Brookings Institution is committed to quality, independence, and impact. We are supported by a diverse array of funders. In line with our values and policies, each Brookings publication represents the sole views of its author(s).
+
+
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

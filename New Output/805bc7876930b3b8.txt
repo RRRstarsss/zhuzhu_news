@@ -1,0 +1,49 @@
+Zuckerberg’s boring testimony is a big win for Facebook
+
+By Josh Constine
+5:04 PM PDT · April 10, 2018
+
+Mark Zuckerberg ran his apology scripts, trotted out his lists of policy fixes and generally dulled the Senate into submission. And that constitutes success for Facebook.
+
+Zuckerberg testified before the joint Senate judiciary and commerce committee today, capitalizing on the lack of knowledge of the politicians and their surface-level questions. Half the time, Zuckerberg got to simply paraphrase blog posts and statements he’d already released. Much of the other half, he merely explained how basic Facebook functionality works.
+
+The senators hadn’t done their homework, but he had. All that training with D.C. image consultants paid off.
+
+Sidestepping any gotcha questions or meme-worthy sound bites, Zuckerberg’s repetitive answers gave the impression that there’s little left to uncover, whether or not that’s true. He made a convincing argument that Facebook is atoning for its sins, is cognizant of its responsibility and has a concrete plan in place to improve data privacy.
+
+With just five minutes per senator, and them each with a queue of questions to get through, few focused on the tougher queries, and even fewer had time for follow-ups to dig for real answers.
+
+Did Facebook cover up the Cambridge Analytica scandal or decide against adding privacy protections earlier to protect its developer platform? Is it a breach of trust for Zuckerberg and other executives to have deleted their Facebook messages out of recipients’ inboxes? How has Facebook used a lack of data portability to inhibit the rise of competitors? Why doesn’t Instagram let users export their data the way they can from Facebook?
+
+The public didn’t get answers to any of those questions today. Just Mark’s steady voice regurgitating Facebook’s talking points. Investors rewarded Facebook for its monotony with a 4.5 percent share price boost.
+
+That’s not to say today’s hearing wasn’t effective. It’s just that the impact was felt before Zuckerberg waded through a hundred photographers to take his seat in the Senate office.
+
+Facebook knew this day was coming, and worked to build Zuckerberg a fortress of facts he could point to no matter what he got asked:
+
+• Was Facebook asleep at the wheel during the 2016 election? Yesterday it revealed it had deleted the accounts of Russian GRU intelligence operatives in June 2016.
+
+• How will Facebook prevent this from happening again? Last week it announced plans to require identity and location verification for any political advertiser or popular Facebook Page, and significantly restricted its developer platform.
+
+• Is Facebook taking this seriously? Zuckerberg wrote in his prepared testimony for today that Facebook is doubling its security and content moderation team from 10,000 to 20,000, and that “protecting our community is more important than maximizing our profits.”
+
+• Is Facebook sorry? “We didn’t take a broad enough view of what our responsibility is and that was a huge mistake. That was my mistake,” Zuckerberg has said, over and over.
+
+Facebook may never have made such sweeping changes and apologies had it not had today and tomorrow’s testimony on the horizon. But this defensive strategy also led to few meaningful disclosures, to the detriment of the understanding of the public and the Senate — and to the benefit of Facebook.
+
+We did learn that Facebook is working with Special Counsel Robert Mueller on his investigation into election interference. We learned that Zuckerberg thinks it was a mistake not to suspend the advertising account of Cambridge Analytica when Facebook learned it had bought user data from Dr. Aleksandr Kogan. And we learned that the senate will “haul in” Cambridge Analytica for a future hearing about data privacy.
+
+None of those are earth-shaking.
+
+Perhaps the only fireworks during the testimony came when Senator Ted Cruz laid into Zuckerberg over the Gizmodo report citing that Facebook’s trending topics curators suppressed conservative news trends. Cruz badgered Zuckerberg about whether he believes Facebook is politically neutral, whether Facebook has ever taken down Pages from liberal groups like Planned Parenthood or MoveOn.org, if he knows the political leanings of Facebook’s content moderators and whether Facebook fired Oculus co-founder Palmer Luckey over his [radical conservative] political views.
+
+Zuckerberg maintained that he and Facebook are neutral, but that last question was the only one of the day that seemed to visibly perturb him. “That is a specific personnel matter than seems like it would be inappropriate…” Zuckerberg said before Cruz interrupted, pushing the CEO to exasperatedly respond, “Well then I can confirm that it was not because of a political view.” It should be noted that Cruz has received numerous campaign donations from Luckey.
+
+This was the only time Zuckerberg seemed flapped, because he knows the stakes of the public perception of Facebook’s political leanings. Zuckerberg, many Facebook employees and Facebook’s home state of California are all known to lean left. But if the company itself is seen that way, conservative users could flee, shattering Facebook’s network effect. Yet again, Zuckerberg nimbly avoided getting cornered here, and was aided by the bell signaling the end of Cruz’s time. He never noticeably raised his voice, lashed back at the senators or got off message.
+
+By the conclusion of the five hours of questioning, the senators themselves were admitting they hadn’t watched the day’s full testimony. Viewers at home had likely returned to their lives. Even the press corps’ eyes were glazing over. But Zuckerberg was prepared for the marathon. He maintained pace through the finish line. And he made it clear why marathons aren’t TV spectator sports.
+
+The question is no longer what revelations would come from Mr. Zuckerberg going to Washington. Tomorrow’s testimony is likely to go similarly. It’s whether Facebook can coherently execute on the data privacy promises it made leading up to today. This will be a “never-ending battle” as Zuckerberg said, dragging out over many years. And again, that’s in Facebook’s interest. Because in the meantime, everyone’s going back to scrolling their feeds.
+
+Source: https://techcrunch.com/2018/04/10/zzzuckerberg/
+© 2026 TechCrunch Media LLC.

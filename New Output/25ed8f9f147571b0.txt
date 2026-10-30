@@ -1,0 +1,62 @@
+Facebook's Libra cryptocurrency attacked at Senate hearing
+
+Headline ID: 25ed8f9f147571b0
+Source URL: https://www.bbc.com/news/business-49008298
+Author: BBC News
+Published: 2019-07-16T17:29:57.000Z
+
+Facebook's plan for a cryptocurrency has come under further attack at a US hearing, with politicians calling the company "delusional" and not trusted.
+
+The Senate Banking Committee is quizzing Facebook executive David Marcus over the tech giant's intention to launch its Libra digital currency.
+
+The company had showed "through scandal after scandal that it doesn't deserve our trust", said senator Sherrod Brown.
+
+Facebook was told to clean up its house before launching a new business model.
+
+The company announced last month plans to launch a digital currency, possibly next year, but first needs to get Washington lawmakers on its side.
+
+But since it unveiled the plan, critics have lined up to voice scepticism, including US president Donald Trump.
+
+Mr Brown, a Democrat, told the hearing: "We'd be crazy to give them a chance to let them experiment with people's bank accounts." He thought it was "delusional" to think individuals would trust the social media company with their "hard-earned" money.
+
+Other senators shared his concerns. "I don't trust you guys," said Republican senator Martha McSally. "Instead of cleaning up your house you are launching into a new business model."
+
+• US treasury head warning over Facebook Libra
+
+• Carney gives Facebook currency cautious welcome
+
+Mr Marcus, who was president of PayPal from 2012 to 2014, tried to assuage concerns in his opening remarks by promising that Facebook will not begin offering Libra until regulatory issues are addressed.
+
+"We know we need to take the time to get this right," said Mr Marcus, who is also due to testify before the House Financial Services Committee on Wednesday.
+
+On Monday, US Treasury Secretary Steven Mnuchin said he was "uncomfortable" with Libra, while last week the head of the US Federal Reserve, Jerome Powell, also voiced concerns.
+
+The senators at Tuesday's hearing raised issues such as how Facebook planned to prevent money laundering through the new payment system and how consumers' data and funds will be protected.
+
+"I know we have to earn people's trust for a very long period of time," Mr Marcus said.
+
+The social media company has pledged that the Libra Association - the supposedly independent body tasked with managing the currency - will only share customer data with Facebook and external third parties if it has consent, or in "limited cases", where it is necessary.
+
+Mr Marcus told the hearing: "The way we've built this is to separate social and financial data because we've heard loud and clear that they don't want those two types of data streams connected, so this is the way the system is designed.
+
+"Facebook will only have one vote and will not be in a position to control the association, nor will Facebook or the Libra Association position themselves to compete with sovereign currencies or interfere with monetary policy," he said.
+
+One of the complex issues at hand here is the difference between Libra - the cryptocurrency platform, which is open source - and Calibra, Facebook's specific service, known as a wallet, that it is building onto the Libra infrastructure. David Marcus can honestly tell Senators that Libra is a democratic, open system over which Facebook does not have control.
+
+But that's not the full picture: Calibra very much is Facebook's product, and by virtue of the fact it will be backed by the world's biggest and most powerful social network, it will become the dominant force in global cryptocurrency. As one Senator put it, "you're not doing this for fun". Expect more scrutiny on how Facebook will leverage its power to push Calibra to come soon.
+
+All of the hearings this week are broadly focusing on whether the tech giants have too much power over competitors, freedom of speech and, maybe in future, the global banking system.
+
+One warning put forth by Facebook's Mr Marcus, and one we will likely hear repeated often in the other hearings, is that if these Silicon Valley giants aren't allowed to innovate, others will. By that, he of course means China, where tech companies are said to be eyeing their own cryptocurrency projects.
+
+It may prove to be a good one - Facebook and its Silicon Valley peers may not be held in particularly high esteem by Washington right now, but it could be the lesser of two evils.
+
+US treasury head warning over Facebook Libra
+
+Will Facebook's digital money be good for Africa?
+
+Carney gives Facebook currency cautious welcome
+
+Copyright 2026 BBC. All rights reserved. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

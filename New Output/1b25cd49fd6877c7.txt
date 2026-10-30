@@ -1,0 +1,60 @@
+Democratic Sen. Tammy Baldwin Weighs In As Facebook CEO Testifies Before Congress
+
+NPR
+
+April 10, 2018 5:21 PM ET
+
+For more on Mark Zuckerberg's day on Capitol Hill, NPR's Mary Louise Kelly speaks with Democratic Sen. Tammy Baldwin of Wisconsin.
+
+Transcript
+
+AUDIE CORNISH, HOST:
+
+Today is the first of two days of hearings. Tomorrow, Zuckerberg will stand before the House Energy and Commerce Committee.
+
+MARY LOUISE KELLY, HOST:
+
+All right. Well, let's hear directly from one of the senators questioning Zuckerberg today, Democrat Tammy Baldwin of Wisconsin. She sits on the Senate commerce committee. She's still waiting on her turn with Zuckerberg, but she's been kind enough to step out of that hearing room for a minute to tell us how it's going. Senator, welcome.
+
+TAMMY BALDWIN: Thank you. I appreciate the opportunity to be on.
+
+KELLY: We appreciate you taking the time. And I want to get in a second to what you plan to ask, but what has been the most revelatory moment of what you have heard so far this afternoon?
+
+BALDWIN: You know, I think there's a number of things, and some of it is what I haven't heard. You'll note that there's only one witness at the table, but we have a lot of interest in the relationship between Facebook and Cambridge Analytica. And much of the interest of questioners are what has Cambridge Analytica done with Facebook members' data.
+
+KELLY: What specifically do you want to ask about what Facebook has done with data?
+
+BALDWIN: What Cambridge Analytica has done, I'm very curious to know whether it was - Facebook users' data was used to influence the 2016 election, whether it was used in addition to that shared with foreign adversaries to just stir up trouble, to allow divisive and disruptive communication on the Facebook platform.
+
+KELLY: Did you get that message this moment, by the way, the one that went out this morning to some of those 87 million people whose data was improperly shared with Cambridge Analytica?
+
+BALDWIN: Not personally.
+
+KELLY: Not personally. Are you on Facebook?
+
+BALDWIN: I have been inactive since 2012, I believe. But my campaign and my Senate office both maintain a Facebook presence.
+
+KELLY: Well, let me ask you this - have you heard an answer yet to one of the key questions, which is how many Cambridge Analyticas might there have been? How big a problem is this in terms of user data being shared improperly or otherwise, legally or otherwise, with third parties?
+
+BALDWIN: So I'm not sure if we have a clear answer yet, but what was described by Mr. Zuckerberg is - you know, that this was an app developer who was sort of the middleman, if you will. And he designed a quiz. It was voluntary for Facebook members to take that quiz. But having done so in sharing information with the designer of that app, a lot of data was collected, not just from the people who took the quiz but also from their associates on Facebook. And then he, the app developer, sold that information to Cambridge Analytica allegedly for $800,000 and then the trail kind of dropped since we don't have Cambridge Analytica in front of the panel in terms of what they did, if they destroyed the data, when they destroyed the data.
+
+But let's just posit that some of the other apps that are available for the Facebook platform have similar designs on the Facebook data. We know that there are tens of thousands of apps. Certainly, Mark Zuckerberg testified to that, but we don't know how many might have had nefarious goals in mind. And they, you know, state that they're trying very hard to make sure that the data is not shared or seized by these app developers. But they don't think they're there yet.
+
+KELLY: So I hear you - your interest in getting deep into the details with Mark Zuckerberg in terms of how exactly this transaction took place. Let me ask you this question - how much appetite is there on Capitol Hill? We see a lot of appetite for questioning Zuckerberg. How much appetite is there for forcing Facebook to change its ways? Do you think the will is there for serious legislation?
+
+BALDWIN: Well, I'd say a couple of things. One is we've heard several announcements since these disclosures about Cambridge Analytica from Facebook, Mark Zuckerberg in particular, about changes in policy and changes in behavior that they will take the lead on. We're going to have to understand whether that will be enough or not. When you deal with the issue of the security of our democracy and the security of our elections and, you know, in this backdrop with Russian interference, I think it's quite possible that we'll need to go further. For example...
+
+KELLY: Not just allow Facebook to police itself and take them at their word.
+
+BALDWIN: That's correct. I mean, I believe he testified earlier today that it would be difficult in his promise to make sure that foreign entities were not doing political advertising. It would be difficult to guarantee that if a foreign entity incorporated or headquartered themselves here in the U.S.
+
+KELLY: One of several questions I know you're going to want to put to him. I'm going to leave it there so that you can step back inside and get your turn questioning Mark Zuckerberg. Senator Tammy Baldwin, Democrat of Wisconsin, thanks very much.
+
+Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+Accuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record. Please note that NPR platforms and products also include some programming produced by third parties; NPR cannot guarantee transcripts for that content and some transcripts may be produced using automated or other tools.
+
+---
+Source: https://www.npr.org/2018/04/10/601268173/democratic-sen-tammy-baldwin-weighs-in-as-facebook-ceo-testifies-before-congress
+Terms of use: https://www.npr.org/about-npr/179876898/terms-of-use
+Single local copy for personal learning and nonprofit research; no republication. Original article wording preserved; webpage navigation, advertising, media controls and related-content cards omitted.

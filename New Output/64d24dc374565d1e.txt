@@ -1,0 +1,22 @@
+Damage Control: Twitter Says Overzealous Shadowbanning Was a Mistake, 3 Days Before Congress Grills CEO Jack Dorsey
+
+By Allum Bokhari
+Published: 2018-09-03T19:12:05Z
+
+Twitter has said that its overzealous downranking of accounts was the result of errors in their system, just three days before CEO Jack Dorsey is set to testify before the House Energy and Commerce Committee on the subject of social media censorship.
+
+The company said that in its previous system, accounts determined to have a “higher likelihood of being viewed as abusive” were downranked in public conversations — up until now.
+
+Notably, the platform’s previous system didn’t merely seek to downrank accounts that were actually abusive, but accounts that could be viewed as abusive. And not even that — accounts that were likely to be viewed as abusive.
+
+Twitter did not explain whose determinations of “abusiveness” were being treated as authoritative.
+
+Twitter said that they turned off the feature, explaining that a “higher level of precision” is needed. The acknowledgment that its system of downranking was flawed comes just a few days before Jack Dorsey is set to answer lawmakers’ questions on the subject of social media censorship. The evidence session is the result of recent controversy over Twitter’s blocking and “shadowbanning” practices, which has affected top Republican politicians but not Democrats.
+
+The company said that it would continue to factor “behavioral signals” into how the platform ranks tweets, in order to serve “conversational health.” What these signals include remains a mystery.
+
+Twitter has thus far refused to acknowledge that its downranking algorithms implicitly favor the left. Because Twitter factors in the number of times an account has been blocked or muted when deciding whether to downrank its content, it has set up a system that favors the easily-offended: people who like to shut themselves off from contrary opinions. It isn’t merely a stereotype that these people tend to be found more frequently on the left — research has found that Democrats are three times more likely than Republicans block or unfriend people over their political opinions on social media.
+
+Source: https://www.breitbart.com/tech/2018/09/03/damage-control-twitter-says-overzealous-shadowbanning-was-a-mistake-3-days-before-congress-grills-ceo-jack-dorsey/
+Copyright © 2026 Breitbart
+License: https://www.breitbart.com/terms-of-use/ (personal, non-commercial copy)

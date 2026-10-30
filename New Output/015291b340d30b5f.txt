@@ -1,0 +1,116 @@
+Facebook CEO Mark Zuckerberg Readies To Testify On Capitol Hill
+
+By Alina Selyukh
+
+NPR
+
+April 8, 2018 7:15 AM ET
+
+Zuckerberg will testify in Congress about the shockingly vast access that political operatives had to data of its users. The news broke during another crisis, Facebook's role in the 2016 election.
+
+Transcript
+
+LULU GARCIA-NAVARRO, HOST:
+
+Facebook CEO Mark Zuckerberg is set to testify on Capitol Hill this week. And it's a big deal for a company considered a tech darling not so long ago. It's been only three weeks since reports emerged about a political data firm getting access to information on tens of millions of Facebook users. But a lot has happened in those three weeks. NPR's Alina Selyukh walks us through it.
+
+ALINA SELYUKH, BYLINE: The news stories exploded on March 17 in the New York Times, working with British media.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED REPORTER #1: U.K. data firm Cambridge Analytica issued a statement...
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED REPORTER #2: Cambridge Analytica...
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED REPORTER #3: Cambridge Analytica drilled deep.
+
+(SOUNDBITE OF ARCHIVED BROADCAST)
+
+DAVID GREENE, BYLINE: Questions are mounting about Facebook's role.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED REPORTER #4: It may have mishandled data from more than 50 million...
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED REPORTER #5: Fifty million...
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED REPORTER #6: Fifty million Facebook users.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED REPORTER #7: Fifty million-plus.
+
+SELYUKH: The British political consulting firm got its hands on Facebook data of millions of people a few years back. Some of the people had participated in a personality quiz. But most of them just happened to be friends of the quiz-takers. This news broke in the middle of another long-running Facebook crisis, the company's role in the 2016 election. Facebook had said more than 140 million people may have been exposed to Russia-linked propaganda during the campaign season. After years of presenting itself as this open and neutral platform for all ideas, Facebook faced accusations of profiting from divisive ads and the spread of bogus stories.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+RON WYDEN: Fake users posting stories on Facebook, videos on YouTube, links on Twitter can be used by foreign and domestic enemies to undermine our society.
+
+SELYUKH: That's Democratic Senator Ron Wyden at a November hearing laying into Facebook's top lawyer.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+WYDEN: You need to stop paying lip service to shutting down bad actors using these accounts.
+
+SELYUKH: The Cambridge Analytica story landed with a thud. It was personal. Reports said some 50 million users had their data scooped up - much of it without their permission. Plus, it was political. In secret videos, a Cambridge Analytica executive boasted that his firm helped Donald Trump win the election - though the company officially denies using the data in the 2016 election. Facebook responded that they banned Cambridge Analytica and had already put in place restrictions on those kinds of data scoops years ago. But Mark Zuckerberg for days remained silent.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED REPORTER #8: How has Mark Zuckerberg avoided the spotlight?
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+UNIDENTIFIED REPORTER #9: Zuckerberg released a powerful denial saying...
+
+(SOUNDBITE OF WIND)
+
+SELYUKH: In response, people began a boycott movement - #deleteFacebook - and painted dystopian pictures of the future where all of our lives are controlled by tech giants - you know, like Tom Hanks in that movie "The Circle."
+
+(SOUNDBITE OF FILM, "THE CIRCLE")
+
+TOM HANKS: We will see it all because knowing is good. But knowing everything is better.
+
+(APPLAUSE)
+
+SELYUKH: Four days after the story broke, Zuckerberg emerged with a Facebook post and a rare round of interviews, including CNN.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+MARK ZUCKERBERG: This was a major breach of trust. And I'm really sorry that this happened. You know, we have a basic responsibility to protect people's data. And if we can't do that, then we don't deserve to have the opportunity to serve people.
+
+SELYUKH: Meanwhile, Facebook's share price was spiraling downward. The Federal Trade Commission said it was investigating Facebook's privacy practices. Lawmakers were summoning Zuckerberg to Washington. Here's Democratic Senator Ed Markey on NPR's Morning Edition.
+
+(SOUNDBITE OF ARCHIVED BROADCAST)
+
+ED MARKEY: The CEO of Facebook has to come in so that we can ask him the questions which the American people want to have the answer to. How did Facebook allow this to happen?
+
+SELYUKH: Ten days after the scandal broke, a news report suggested Zuckerberg agreed to testify. And Facebook came out with a new list of changes to the website - for example, making it easier for users to see what information they share with apps. But last Wednesday came a new twist to the story. Facebook said the number of users affected by the Cambridge Analytica data grab was 87 million not 50 million. Facebook dispatched executive Sheryl Sandberg for a new round of interviews, including with NPR, once again apologizing and pledging to do better.
+
+(SOUNDBITE OF ARCHIVED BROADCAST)
+
+SHERYL SANDBERG: Starting Monday, we're going to start rolling out to everyone in the world, right on the top of their news feed, a place where you can see all the apps you've shared your data with and a really easy way to delete them.
+
+SELYUKH: These simplified controls are among the numerous privacy changes Facebook has delivered over the years - often in response to scandals or complaints. Some critics would say Facebook's strategy is an effort to stave off regulations. But in that first CNN interview, Zuckerberg said something unprecedented about this.
+
+(SOUNDBITE OF ARCHIVED RECORDING)
+
+ZUCKERBERG: I actually am not sure we shouldn't be regulated. I actually think the question is more what is the right regulation rather than - yes or no - should it be regulated?
+
+SELYUKH: And that's the question many lawmakers will ask when Zuckerberg comes to Washington this week. Alina Selyukh, NPR News.
+
+Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+Accuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record. Please note that NPR platforms and products also include some programming produced by third parties; NPR cannot guarantee transcripts for that content and some transcripts may be produced using automated or other tools.
+
+---
+Source: https://www.npr.org/2018/04/08/600616534/facebook-ceo-mark-zuckerberg-readies-to-testify-on-capitol-hill
+Terms of use: https://www.npr.org/about-npr/179876898/terms-of-use
+Single local copy for personal learning and nonprofit research; no republication. Original article wording preserved; webpage navigation, advertising, media controls and related-content cards omitted.

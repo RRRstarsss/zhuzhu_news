@@ -1,0 +1,10 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {"label": "预览待处理新闻（不联网）", "type": "process", "command": "${workspaceFolder}/.venv/bin/python", "args": ["${workspaceFolder}/crawl_news.py", "--dry-run", "--limit", "20"], "options": {"cwd": "${workspaceFolder}"}, "problemMatcher": []},
+    {"label": "下载最多20篇新新闻", "type": "process", "command": "${workspaceFolder}/.venv/bin/python", "args": ["${workspaceFolder}/crawl_news.py", "--download", "--limit", "20", "--max-requests", "40"], "options": {"cwd": "${workspaceFolder}"}, "problemMatcher": []},
+    {"label": "通用模式预览第2–501行", "type": "process", "command": "${workspaceFolder}/.venv/bin/python", "args": ["${workspaceFolder}/crawl_news.py", "--all-sources", "--dry-run", "--start-row", "2", "--end-row", "501"], "options": {"cwd": "${workspaceFolder}"}, "problemMatcher": []},
+    {"label": "通用模式抓取第2–501行", "type": "process", "command": "${workspaceFolder}/.venv/bin/python", "args": ["${workspaceFolder}/crawl_news.py", "--all-sources", "--download", "--start-row", "2", "--end-row", "501", "--limit", "500", "--max-requests", "500"], "options": {"cwd": "${workspaceFolder}"}, "problemMatcher": []},
+    {"label": "检查第2–501行URL（只检查访问状态）", "type": "process", "command": "${workspaceFolder}/.venv/bin/python", "args": ["${workspaceFolder}/crawl_news.py", "--probe-all", "--start-row", "2", "--end-row", "501", "--max-requests", "500", "--workers", "4"], "options": {"cwd": "${workspaceFolder}"}, "problemMatcher": []}
+  ]
+}

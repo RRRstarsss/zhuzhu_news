@@ -1,0 +1,129 @@
+Lowlights from Zuckerberg’s Libra testimony in Congress
+
+By Josh Constine
+8:03 AM PDT · October 23, 2019
+
+“I don’t control Libra” was the central theme of Facebook CEO Mark Zuckerberg’s testimony today in Congress. The House of Representatives unleashed critiques of his approach to cryptocurrency, privacy, encryption and running a giant corporation during six hours of hearings. Zuckerberg tried to assuage their fears while stoking concerns that if Facebook doesn’t build Libra, the world will end up using China’s version. Yet Facebook won’t stop shaking up society, with Zuckerberg saying its News tab feature will be announced this week.
+
+During the hearing before the House Financial Services Committee that you can watch here, Zuckerberg recommitted to only releasing Libra with full U.S. regulatory approval. But given the tone of the questioning and Zuckerberg’s lack of fresh answers since Facebook’s David Marcus testified about Libra in July, Libra now looks even less likely to launch in 2020.
+
+The hearing started tensely, with Rep. Maxine Waters (D-CA) declaring that “Perhaps you believe that you’re above the law, and it appears that you are aggressively increasing the size of your company, and are willing to step over anyone, including your competitors, women, people of color, you own users, and even our democracy to get what you want . . . In fact, you have opened up a serious discussion about whether Facebook should be broken up.“
+
+However, some members of Congress used their time to advocate for American dominance instead of heavy regulation. Rep. Patrick McHenry (R-NC) said “the question is, are we going to spend our time trying to devise ways for government planners to centralize and control as to who, when and how innovators can innovate.” Many Republicans complimented Zuckerberg on his business acumen, though none showed outright support for Libra.
+
+With few highlights or positive moments coming from the hearing, here are the major takeaways followed by a chronicle of the top exchanges between Zuckerberg and Congress:
+
+• Zuckerberg claims China will soon have its own version, so regulators shouldn’t block Libra
+
+• He’s open to regulators requiring Libra to be majority-backed by the U.S. dollar
+
+• Zuckerberg would leave inheritance to his children in Libra since it’s backed one-to-one with real currency
+
+• He wouldn’t commit to blocking anonymous wallets but he’s open to baking more anti-money laundering into Libra’s network
+
+• Zuckerberg plans to expand verifying users via government ID to battle abuse of Facebook
+
+• He said Libra partners left because “it’s a risky project and there’s been a lot of scrutiny”
+
+• Zuckerberg confirmed the Libra Association has abandoned or modified its plan to deal themselves dividends on interest from the Libra reserve
+
+• Facebook will pull out of Libra if it does something Facebook can’t allow or that it’s prohibited from by regulators
+
+• Zuckerberg didn’t discuss Facebook’s policy allowing misinformation in political ads with President Trump during their meeting
+
+• He says Facebook is developing anti-deepfakes technology and a policy about takedowns
+
+• He repeated his call for more government regulation instead of Facebook making its own rules
+
+• Facebook will comply with subpoenas for info on discrimination in housing ads
+
+• Zuckerberg wouldn’t commit to trying out the role of Facebook content moderator
+
+• Facebook plans to announce its upcoming News tab this week
+
+• Congress’ questions were smarter than a year ago, but still pried little new information on Libra out of Zuckerberg
+
+• Zuckerberg repeatedly relied on the Libra Association’s independence from Facebook to avoid substantial answers
+
+On Libra versus China
+
+Zuckerberg tried to leverage nationalist sentiment to deflect scrutiny. “As soon as we put forward the white paper around the Libra project, China immediately announced a public private partnership, working with companies . . . to extend the work that they’ve already done with AliPay into a digital Renminbi as part of the Belt and Road Initiative that they have, and they’re planning on launching that in the next few months.” He later said that for Libra, “Chinese companies would be the primary competitors.”
+
+Facebook’s executives have repeatedly leaned on this “let us, or China will” argument we chronicle here.
+
+What if the Libra Association chooses to add the Chinese currency to the basket used to back Libra and reduces the U.S. dollar’s fraction of the basket? “I think it would be completely reasonable for our regulators to try to [implement] a restriction that says that it has to be primarily U.S. dollars,” Zuckerberg responded in one of his most substantial answers of the day. Zuckerberg was receptive to feedback that the Libra Association should keep its white paper updated.
+
+As for why Libra isn’t just backed 100% with the U.S. dollar, Zuckerberg explained that “I think from a U.S. regulatory perspective, it would probably be significantly simpler. But because we’re trying to build something that can also be a global payment system that works in other places, it may be less welcome in other places if it’s only 100% based on the dollar.” Still, Zuckerberg said he would leave his children their inheritance in Libra because it’s backed one-to-one by the Libra reserve.
+
+On Libra and regulation
+
+Zuckerberg wouldn’t commit to blocking anonymous Libra wallets that could facilitate money laundering, only saying Facebook’s own Calibra wallet would have strong identity checks. He did say Libra was exploring whether it could encode “know your customer” protections at the network level instead of relying on developers to build this into their wallets.
+
+On whether Facebook will increasingly seek to verify users’ identities through government ID, Zuckerberg was enthusiastic. “This is an area where I think we are going to do a lot more in the years to come. We started with political ads . . . over the coming years for anything that people are doing that is sensitive, we’re likely going to increasingly require verification either by government ID or other things so we can have a clear sense of people’s authentic identity.”
+
+Rep. Dean Phillips (D-MN) mentioned this could be a competitive advantage, implying Facebook’s size and resources might allow it to embark on a verification initiative other companies couldn’t.
+
+Facebook has assured regulators that Calibra’s data would be kept separate from the social network. But Facebook said the same when it acquired WhatsApp, then reneged and integrated its data. This time around, Congresswoman Nydia Velázquez declared that “we’re going to need to make sure that . . . you learned that you should not lie.”
+
+When pushed on why Libra Association members like Visa, Stripe and eBay left the organization, Zuckerberg admitted, “I think because it’s a risky project and there’s been a lot of scrutiny.” Zuckerberg struck back at finance incumbents, saying “I think that the U.S. financial industry . . . is just frankly behind where it needs to be to innovate and continue American financial leadership going forward.”
+
+In an awkward moment, Zuckerberg could not answer which Libra members were run by women, minorities or LGBTQ+ people. “Is it true that the overwhelming majority of persons associated with this endeavor are white men?,” Rep. Al Green (D-TX) asked. “Congressman, I don’t know off the top of my head,” Zuckerberg responded.
+
+Zuckerberg was criticized for trying to profit and potentially helping money laundering while claiming Libra is designed to help the unbanked. Zuckerberg said the Libra Association “hadn’t nailed down policies” about whether anonymous payments are allowed.
+
+Rep. Brad Sherman (D-CA) said “for the richest man in the world to come here and hide behind the poorest people in the world, and say that’s who you’re really trying to help. You’re trying to help those for whom the dollar is not a good currency — drug dealers, terrorists.” Some members of Congress like Sherman chose to use their entire time monologuing instead of actually asking questions.
+
+Zuckerberg got a chance to clear up a major snafu from Marcus’ testimony, where he said the Libra Association was in contact with the Swiss data regulator, which CNBC reported hadn’t heard from Libra. Zuckerberg explained today that the Libra Association had been in contact with the primary Swiss Financial Market Supervisory Authority instead. He says Facebook plans to earn money from Libra on ads from small businesses if cheap transactions lead to more e-commerce.
+
+In one revealing exchange, Rep. Lance Gooden (R-TX) asked if the Libra Association still planned to offer profit incentives by offering dividends based on interest earned on currency in the Libra reserve after expenses are paid. Zuckerberg said the idea had either been “modified or abandoned.”
+
+Claiming Facebook isn’t Libra
+
+Throughout the testimony, Zuckerberg tried to distance himself and Facebook from the Libra Association’s decision making process. “We might be required to pull out if the Association independently decides to move forward on something that we’re not comfortable with,” Zuckerberg said. That means if Facebook can’t launch Libra, it could still theoretically launch without the social network, though it does most of the engineering heavy-lifting.
+
+The strategy was crystallized by Zuckerberg’s response to whether he could commit to moving Libra’s headquarters from Switzerland to the U.S. “At this point, we do not control the independent Libra Association so I don’t think we can make that decision.” Rep. Ayanna Pressley (D-MA) refuted this position, stating, “Mr. Zuckerberg, Libra is Facebook, and Facebook is you.”
+
+The “we don’t control Libra” argument provides Facebook and Libra an escape hatch from criticism, because any member and even the newly appointed chairperson and board can’t unilaterally control or make promises about its actions.
+
+On misinformation and encryption
+
+Many Congress members remain fixated on Facebook’s recently solidified policy of refusing to submit political ads for fact-checking. Rep Sean Casten (D-IL) asked if in Zuckerberg’s recent meeting with President Trump, “Did anyone discuss the policy change along the exemption of political figures and parties from misinformation prohibition on Facebook?” Zuckerberg responded, “Congressman, that did not come up,” quieting theories that Trump pushed for the policy that would exempt false claims in his ads.
+
+Zuckerberg defended the policy to Rep. Alexandria Ocasio-Cortez (D-NY), saying “I think lying is bad, and I think if you were to run an ad that had a lie, that would be bad,” but that outside of calls for violence or voter suppression, Facebook thinks it’s best to leave lies in ads from politicians so they can be scrutinized by the press and public. Yet that too heavily leans on the media to scrutinize thousands of ad variants being run as part of multi-hundred-million-dollar political ad campaigns.
+
+Rep. Ann Wagner (R-MO) chided Zuckerberg, saying “you’re not working hard enough” to stop the spread of child exploitation imagery online despite Facebook submitting millions of reports. She brought up worries that Facebook moving entirely to encrypted messaging could hide child abusers, and Zuckerberg merely said “I think we work harder than any other company.” He failed to explain how Facebook would continue improving detection through encryption.
+
+Oddly, Zuckerberg was directly confronted about his views on vaccines since Facebook works to hide vaccine hoaxes and avoid recommending groups spreading unverified information about them. “I don’t think it would be possible for anyone to be 100% confident, but my understanding of the scientific consensus is that it is important that people get their vaccines,” Zuckerberg said, defending Facebook’s decision to hide some of this content.
+
+In another strange moment, Rep. Madeleine Dean (D-PA) demanded if Facebook had bought blocks of hotel rooms at Trump properties but never used them just to curry favor with the president. Zuckerberg said he’d never heard of that and would be surprised if it was true.
+
+On deepfakes, Zuckerberg confirmed that “I think deepfakes are clearly one of the emerging threats that we need to get in front of and develop policy around to address. We’re currently working on what the policy should be to differentiate between media that has manipulated and been manipulated by AI tools like deepfakes, with the intent to mislead people.” Zuckerberg later said the doctored Nancy Pelosi video should have been flagged sooner, and highlighted Facebook needs a separate deepfakes policy. Yet Facebook’s policy allows politicians’ ads to mislead people, weakening faith that it will properly address this new problem.
+
+Questions about Facebook’s fair practices led Zuckerberg to reiterate his call for regulation, saying “I think we need federal privacy legislation. I think we need data portability legislation. I think clear rules on elections-related content would be helpful too because it’s not clear to me that we want private companies making so many decisions on these important areas by themselves.”
+
+On diversity, discrimination and moderation
+
+Regarding housing discrimination via Facebook ads, Zuckerberg committed to working with regulators to provide information under subpoena, noted Facebook has banned discriminatory housing ads, and said “Nobody wants to redline and I’m sure that was accidental.”
+
+Zuckerberg received his heaviest criticism of the day from Rep. Joyce Beatty (D-OH), who grilled him about not knowing if diverse bankers manage Facebook’s cash or if diverse law firms handle its court cases. She chastised Facebook for a lack of diverse leadership, saying “this is appalling and disgusting to me.” Of COO Sheryl Sandberg, who leads Facebook’s civil rights task force, Beatty said “we know she’s not really civil rights.”
+
+Some of the day’s most astute questioning came from Congresswoman Katherine Porter (D-CA). She hammered Zuckerberg about Facebook lawyers fighting to avoid liability over data breaches. Then she trapped Zuckerberg on the issue of the mental health harms of being a Facebook content moderator that reviews horrific and graphic violence.
+
+“Would you be willing to commit to spending one hour a day for the next year, watching these videos and acting as a content monitor and only accessing the same benefits available to your workers?,” she asked. “I’m not sure that would serve our community for me to spend my time,” Zuckerberg said. “What you’re saying is you’re not willing to do it,” she replied.
+
+Facebook will announce news service
+
+There’ll be more major launches from Facebook that could raise questions about its impact on society, Zuckerberg revealed. “Later this week we actually have a big announcement coming up on launching a big initiative around news and journalism, where we’re partnering with a lot of folks to build a new product that’s supporting high-quality journalism.” Facebook plans to launch a News section featuring headlines from top outlets, though only some will be paid.
+
+“I think that there’s an opportunity within Facebook in our services to build a dedicated surface, a tab within the apps for example, where people who really want to see high quality curated news, not just social content . . . I’m looking forward to discussing that in more length in the coming days.” That service is sure to trigger debates about whether Facebook is trustworthy enough to be a formal conduit for news.
+
+Overall, the questioning today was much more intelligent than the vague and easily-Googleable queries launched at Zuckerberg by Congress in April 2018. We had no “Senator, we run ads” moments. Instead, it was Zuckerberg who repeatedly used the separation between Facebook and the Libra Association plus the fact that Libra’s policies are still being defined to avoid giving many substantial answers. Combined with the short five-minute Q&A period per member of Congress, Zuckerberg was often able to just repeat existing talking points.
+
+In one of the few lighthearted moments of the day, Rep. Juan Vargas recognized the tough position Zuckerberg has gotten himself into. “It’s good to have someone that’s sturdy and resilient. You’re probably the right person at the right time to take this beating.” Yet Rep. McHenry depressingly concluded that, after six hours, “I’m not sure we’ve learned anything new here.”
+
+The question is what array of Libra and Facebook executives would Congress need to have testify together to get real answers to critical questions about how to keep the two from harming the global economy.
+
+The hearing is ongoing and we’ll continue to update this article with major takeaways.
+
+Source: https://techcrunch.com/2019/10/23/zuckerberg-testimony/
+© 2026 TechCrunch Media LLC.

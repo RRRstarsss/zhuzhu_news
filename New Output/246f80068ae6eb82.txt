@@ -1,0 +1,54 @@
+We watched Zuckerberg’s testimony so you don’t have to. Here are 5 key takeaways
+
+Headline ID: 246f80068ae6eb82
+Source URL: https://www.digitaltrends.com/social-media/mark-zuckerberg-congress-libra-key-moments-you-missed/
+Author: Hillary K. Grigonis
+Published: 2019-10-23T12:35:21-07:00
+
+The first time Mark Zuckerberg stood before Congress, the Facebook founder addressed concerns over a lack of privacy after Cambridge Analytica. But the second time the tech titan fielded questions on Capitol Hill, members of the House Financial Services Committee grilled a nervous Zuckerberg over too much privacy.
+
+On Wednesday, the Facebook CEO testified before the committee in a session focused on the cryptocurrency Libra — and how too much encryption may make it the ideal platform for money laundering and terrorism.
+
+Recommended Videos
+
+During his testimony, Zuckerberg described Libra not as a new type of currency but a new type of payment system based on a reserve of existing currency. That said, major partners like Paypal, Mastercard, and Visa have pulled out of the project, and regulators around the world don’t like the idea of Facebook having its own currency.
+
+While focused on Libra, the congressional grilling spanned topics from diversity to free speech — and with the session being long enough for the billionaire to ask a bunch of Congress members for a bathroom break, most Facebook users didn’t tune in to watch. From the potential abuse of Libra for criminal activities to what encryption means for preventing crime on Facebook itself, here’s the key moments you missed from the hearing.
+
+Facebook won’t move forward with Libra without the support of U.S. regulators
+
+At several points during his testimony, Zuckerberg said that Facebook would not move forward with Libra — anywhere in the world — without the support of U.S. regulators. But, when pressed to extend that commitment to wait for Congress to build a legal framework, Zuckerberg would not make the same promises. The Facebook CEO said that, as Congress oversees those regulators, that regulator approval should be enough to move forward.
+
+Committee member Rep. Brad Sherman (D-CA) suggested that waiting for regulator approval wouldn’t be enough. The committee member from California said that the regulators are working with old statues and that it likely won’t be difficult of Facebook’s legal team to find loopholes forcing regulators to approve.
+
+The Libra Association is separate from Facebook — and that’s both good and bad.
+
+Libra is Facebook’s brainchild, but run by a new committee made up of 21 companies and non-profits, not Facebook itself. While Facebook is based in Silicon Valley and, through Calibra, is a member of the Libra Association, the new association itself is based in Geneva, Switzerland. Zuckerberg called the country “forward leaning” on similar financial systems. Zuckerberg added that the committee is also working with Swiss regulators. David Marcus, the former president of PayPal and the vice president of messaging products for Facebook, represents Facebook in the committee.
+
+The committee spreads the decisions behind the cryptocurrency over multiple people — each member of the association has one vote in selecting members of the board, which is currently up to five people. But while the structure means one person isn’t making all the decisions, it also means that Facebook can skirt the blame for the decisions of the Libra Association. Several times during his testimony, Zuckerberg noted that “Facebook does not control the independent association.” As Sherman described it, Facebook is “creating powerful burglary tools and letting [its] business partners commit the burglary.”
+
+Zuckerberg’s statements during his testimony apply to Facebook, but may not be the views of the association as a whole. When pressed, Zuckerberg said that if the Libra Association moved forward without the approval of U.S. regulators, that Facebook would pull out. While Libra would no longer be associated with Facebook if U.S. regulators do not approve, the association could potentially move forward without regulator approval and without Facebook.
+
+With Facebook’s lack of staff diversity among the laundry list of faults at the opening of the session, Zuckerberg failed to answer questions on the diversity of the founding companies that are part of the Libra Association. When questioned, CEO said he did not know how many leaders of those 21 initial companies and nonprofits were women, minorities, or LGBTQ+.
+
+Zuckerberg himself says Libra may not work.
+
+When several major early investors pulled out before the Libra Association formed, it raised more questions about whether or not Libra will actually work. But Zuckerberg himself shares in those doubts. “I don’t know if Libra is going to work, he said during his testimony, “…I believe it’s important to try new things as long as you are doing so responsibly.”
+
+A private payment platform could be lucrative for criminals.
+
+Libra is not a bank — and not applying for a bank charter. But the idea of a private, encrypted payment platform may lure in criminal activity. Zuckerberg says that the policies regarding private transactions haven’t yet been established. When pressed, however, Zuckerberg said that the Libra code, as it currently exists, makes it possible to allow for anonymous transactions.
+
+Several members of the committee expressed concern that anonymity would make the platform lucrative for things like money laundering and terrorism, among others. That’s a major area for regulators to consider, but the Libra Association isn’t far enough along to have policies in place to prevent anonymous transactions.
+
+Privacy and encryption could have unintended consequences on reporting tools.
+
+While the focus of the session was on Libra, several members of the committee used their time with Zuckerberg in the hot seat to address concerns from censoring posts on vaccination to deepfakes. One of those concerns is how the company’s focus on building a private, encrypted platform affects the reporting tools currently on the social network. Committee member Rep. Ann Wagner (R-MO) noted that Facebook was responsible for 16.8 million reports of online sex trafficking. What happens to those reporting tools when Facebook moves to a private encrypted platform?
+
+Zuckerberg arguably did not have a good answer for Wagner’s question, but acknowledged that the issue is also a concern of his as the company looks to move towards a more private platform. The CEO said that he believes Facebook is responsible for the largest percentage of sex trafficking reports because the platform currently does a better job of detecting those posts than any other platform.
+
+Be sure to follow Digital Trends for the latest tech news about Facebook, Amazon, Google, and Apple.
+
+Digital Trends Media Group may earn a commission when you buy through links on our sites. ©2026 Digital Trends Media Group, a Designtechnica Company. All rights reserved.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

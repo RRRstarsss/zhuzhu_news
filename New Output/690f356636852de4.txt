@@ -1,0 +1,30 @@
+Senators Call On Mark Zuckerberg To Testify Under Oath About Cambridge Analytica Data Leak
+
+Author: Dawn C. Chmielewski
+Publisher: Deadline
+Published: March 22, 2018 9:43am
+Published (source metadata): 2018-03-22T16:43:38+00:00
+Source URL: https://deadline.com/2018/03/senators-call-on-mark-zuckerberg-facebook-testify-cambridge-analytica-data-leak-1202351539/
+Headline ID: 690f356636852de4
+
+Senators Edward Markey and Richard Blumenthal today called on Facebook‘s co-founder and CEO to testify under oath about the social network’s role in — and response to — the collection of personal data from tens of millions of Americans by the political consulting firm Cambridge Analytica.
+
+Mark Zuckerberg spoke publicly for the first time yesterday about what he called a “breach of trust,” apologizing to users and laying out a detailed plan for preventing this from ever happening again.
+
+The apology didn’t go far enough for the Democratic Senators, who want Zuckerberg to provide answers about Facebook’s internal policies for approving and overseeing apps that collect users’ personal information. They note that potentially thousands of apps, including popular games like FarmVille and the dating app Tinder, were able to access information about Facebook users’ friends.
+
+“While we appreciate your recent engagement on this matter, a number of important questions remain unanswered,” Markey and Blumenthal wrote in a letter to Zuckerberg (you can read the full version of the letter below).
+
+The senators, who serve on the Senate’s commerce committee, raise pointed questions about how Facebook allowed apps to collect personal data of users over a seven-year period that ended in 2014 when it signed a consent degree in 2011 with the Federal Trade Commission that required Facebook to obtain explicit permission before sharing data about users.
+
+The letter cites an interview with Facebook’s former platform operations manager, Sand Parakilas, in which he claimed he had been discouraged from conducting internal audits of external applications that collected user data. That interview, in The Guardian newspaper in the U.K., raised the prospect that hundreds of millions of Facebook users may have had their personal data harvested by third parties.
+
+“My concerns were that all of the data that left Facebook servers to developers could not be monitored by Facebook, so we had no idea what developers were doing with the data,” Parakilas told The Guardian.
+
+The Senators asked that Zuckerberg provide details about Facebook’s policies and procedures for approving applications, an accounting of how many accessed “friend data” and whether this personal information was misused, and whether the social network conducted audits of external applications.
+
+They demanded a response by April 12. Heres’ the Zuckerberg Letter.
+
+Deadline is a part of PMX Global, LLC, a subsidiary of Penske Media Corporation. © 2026 Deadline Hollywood, LLC. All rights reserved.
+
+Personal, non-commercial study copy. Publisher terms: https://www.pmc.com/terms-of-use

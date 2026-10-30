@@ -1,0 +1,72 @@
+Congress Prepares To Grill Facebook CEO Mark Zuckerberg
+
+Headline ID: e36495b1666727ce
+Source URL: https://www.cbsnews.com/sanfrancisco/news/congress-prepares-to-grill-facebook-ceo-mark-zuckerberg/
+Published: 2018-04-08T17:30:04-0700
+
+Local News
+
+Add CBS News on Google
+
+(CNN) -- Facebook CEO Mark Zuckerberg is headed to Capitol Hill to answer questions from lawmakers, after the company admitted the personal information of millions of users was shared with Cambridge Analytica, a firm that the Trump campaign enlisted before the 2016 election.
+
+On Tuesday, Zuckerberg will be questioned by members of the Senate Judiciary and Commerce committees, and on Wednesday he will face the House Energy and Commerce Committee. These are important opportunities for members of Congress to extract promises from Zuckerberg to run his company more ethically and responsibly in the future. They are also chances for lawmakers to learn about how they can best structure new regulations to protect consumer privacy and the integrity of elections.
+
+Here are four questions Congress should ask him:
+
+1. Facebook admitted it has known since 2015 that Cambridge Analytica improperly accessed the data of its users. Why didn't Facebook make this information public at that point in time?
+
+As I've argued before, the people whose data was compromised had a right to know about the breach when it happened. In fact, Ann Ravel, former chair of the Federal Election Commission, said that laws in most states mandate that people be notified when their personal information is compromised. Facebook also had an ethical obligation to share what it knew about the underhanded tactics of people possibly working on the Trump campaign, because this could have influenced who Americans chose to vote for in the election.
+
+This question is an opportunity to extract a broader public pledge from Zuckerberg to follow the law, take the company's civic duties seriously and be more transparent and forthcoming in the future.
+
+2. What information should companies be required to disclose when collecting personal information about Americans on social platforms like Facebook?
+
+Last week, Facebook released more information about how it will protect the information users share about themselves. For example, now the company will not allow other apps to gather certain data about its users, such as their political and religious views. The company also needs to approve requests by other apps to gather data from their site. And it said it will verify the identities and locations of entities which purchase ads about politics and issues. The company will also label such ads and require advertisers to disclose who funded them.
+
+However, this still doesn't give Americans enough information upfront about who will be able to access what they choose to share on the site. It also doesn't prevent the company from changing its policies in the future, nor guarantee that other social platforms will take similar steps to protect user data. And the poor judgment Facebook has exercised in the past means that it's now time for lawmakers -- rather than the company -- to mandate privacy protections.
+
+Zuckerberg seems to appreciate the need for help. In an interview with CNN last month, he admitted that "I'm not sure we shouldn't be regulated." In fact, he said, "there are things like ad transparency regulation that I would love to see."
+
+I have been saying for some time, for example, that organizations gathering personally identifiable information about Facebook users in order to target them with ads should be required to tell users how they're funded and what they're going to do with the data.
+
+But members of Congress don't have a reputation for being particularly tech savvy. Questioning Zuckerberg in detail on the challenges of forcing third parties who are gathering user data on Facebook to disclose who they are, how they're using the information and how they're safeguarding it could help lawmakers understand what laws they can write to better protect the privacy of Americans.
+
+3. What will Facebook do in the future to ensure that Americans aren't deceived by information on the social network?
+
+Although the Cambridge Analytica imbroglio prompted this testimony, lots of questions remain about how Americans were misled by pieces of misinformation they read on Facebook during the 2016 presidential election -- many of which originated abroad.
+
+This will almost certainly happen again. In his interview with CNN, Zuckerberg admitted, "I'm sure someone's trying" to interfere in this year's midterm elections. Understanding the challenges of stemming the spread of intentionally made-up information designed to manipulate elections on the site could help members of Congress get a handle on what laws are necessary to address this problem, too.
+
+4. How can Facebook help reduce political polarization in America?
+
+We all know that we live in what Eli Pariser calls "filter bubbles" on social media -- which means that a lot of the content we see reinforces the views we already hold. Facebook's algorithms are designed to show users content they like, which means that Democrats and Republicans both end up seeing information in line with their opinions.
+
+It's therefore no surprise that political polarization has been growing in America. A Pew study, in fact, found that the average gap between Democrats and Republicans on questions about their political values is 36 points -- up from 15 points in 1994.
+
+Jocelyn Kiley, associate director for research at the Pew Research Center, recently described partisan divides as "wider than at any point in the past." If Americans are going to come to an agreement on how to solve our country's problems, we need to overcome this. Zuckerberg should be put on the spot to account for how his company is contributing to the problem -- and how he can help fix it.
+
+The-CNN-Wire ™ & © 2018 Cable News Network, Inc., a Time Warner Company. All rights reserved.
+
+CBS News Bay Area
+
+• New Hampshire Senate candidates making final pitches to voters
+
+• Mamdani backing New York DSA candidates in midterm elections
+
+• FTC demands pricing data from Delta, Walmart and others
+
+• How do Texans feel about the gerrymandered Texas congressional map?
+
+• Obama rallies for Ossoff and Bottoms, criticizes Trump in Georgia
+
+• How to watch live 2026 election results on CBS News
+
+• How to check if your mail-in or absentee ballot in Philadelphia has problems
+
+• Retiring U.S. Rep. Danny Davis looks back on 30 years in Congress
+
+© 2018 CBS Broadcasting Inc. All Rights Reserved.
+©2026 CBS Broadcasting Inc. All Rights Reserved.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

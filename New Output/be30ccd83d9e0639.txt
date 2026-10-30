@@ -1,0 +1,100 @@
+Zuckerberg faces congressional grilling over Facebook user privacy, 2016 election
+
+Headline ID: be30ccd83d9e0639
+Source URL: https://abcnews.com/Politics/zuckerberg-faces-congressional-grilling-facebook-user-privacy-2016/story?id=54366595
+Author: Lucien Bruggeman
+Published: 2018-04-11T08:15:00.000Z
+
+This is Mark Zuckerberg's first testimony before Congress.
+
+For almost five hours on Tuesday, Mark Zuckerberg faced senators eager to question the Facebook CEO over concerns that might lead to regulation of the giant social media platform he founded 14 years ago.
+
+Zuckerberg returns Wednesday for a second hearing before the House Energy and Commerce Committee.
+
+In the first highly-anticipated joint hearing Tuesday afternoon, senators on the Commerce and Judiciary committees have asked Zuckerberg about alleged user privacy breaches, fake news and the alleged manipulation of the platform by a foreign adversary to spread disinformation during the 2016 presidential campaign.
+
+"This is an extraordinary hearing," Sen. John Thune, a South Dakota Republican and Commerce chairman, said as the proceedings started. "We're here because of what you, Mr. Zuckerberg, have described as a breach of trust."
+
+“In the past, many of my colleagues on both sides of the aisle have been willing to defer to tech companies' efforts to regulate themselves. But this may be changing,” Thune said.
+
+Sen. Bill Nelson of Florida, the top Democrat on the Senate Commerce Committee, opened his remarks with a stark characterization of Facebook’s responsibilities: “If you and other social media companies do not get your act in order, none of us are going to have any privacy anymore."
+
+In his opening remarks inside a packed hearing room, Zuckerberg addressed Facebook’s vulnerabilities, apologizing for failing to adequately protect its billions of users.
+
+“It’s clear now that we didn’t do enough to prevent these tools from being used for harm as well,” Zuckerberg said.
+
+“That goes for fake news, foreign interference in elections, and hate speech, as well as developers and data privacy. We didn’t take a broad enough view of our responsibility, and that was a big mistake. It was my mistake, and I’m sorry. I started Facebook, I run it, and I’m responsible for what happens here.”
+
+Asked by Sen. Dianne Feinstein, D-Calif., about what steps Facebook is taking to prevent foreign actors from interfering in U.S. elections, Zuckerberg conceded that the social network was slow to recognize Russia’s meddling in the 2016 campaign.
+
+“One of my greatest regrets in running the company is that we were slow in identifying the Russian information operations in 2016,” Zuckerberg said, adding, “We expected them to do a number of more traditional cyber-attacks, which we did identify and notify the campaigns that they were trying to hack into them. But we were slow in identifying the type of new information operations.”
+
+Zuckerberg could not, however, guarantee that Facebook is capable of eradicating groups like the Internet Research Agency – a Russian organization accused of spreading disinformation online in the U.S. to stoke political and racial tensions – from its platforms.
+
+“It's an ongoing arms race. As long as there are people sitting in Russia whose job it is to try to interfere with elections around the world, this is going to be an ongoing conflict.”
+
+The Internet Research Agency’s activities during the 2016 election have garnered attention from U.S. investigators and regulators, including a sanction from the Treasury Department and an indictment by special counsel Robert Mueller.
+
+When Sen. Patrick Leahy, a Vermont Democrat, asked Zuckerberg whether Facebook had been served with subpoenas by Mueller's office, he responded that while others at Facebook had been interviewed, he had not. "I know we're working with them," Zuckerberg said, noting he had to be careful about what he could reveal.
+
+Zuckerberg said he would be willing to work with Congress on some kind of regulation.
+
+At one point, when warning about the dangers of too much regulation, Sen. Orrin Hatch, R-Utah, asked whether Facebook will always be free.
+
+"There will always be a version that's free," Zuckerberg responded.
+
+Later in the hearing, Zuckerberg told Sen. Lindsey Graham, R-S.C., that Facebook would “absolutely” be willing to work with Congress on regulations, “as long as it’s the right regulation,” Zuckerberg said.
+
+Graham took Zuckerberg to task over what he framed as the “monopoly” Facebook holds in the social media market. When Graham asked Zuckerberg who he sees as Facebook's biggest competitor – and didn’t get a firm response - Graham continued to push. “You don't think that you have a monopoly?” he asked.
+
+“It certainly doesn't feel like that to me,” Zuckerberg said, to laughter inside the hearing room.
+
+2 college students found dead after going missing while hiking, police say1 day ago
+
+'Inexplicable' order probed as cause of train crash that killed at least 69: Official19 hours ago
+
+Britt McHenry resigns from State Department after basketball game altercationOct 23
+
+"If I buy a Ford and it doesn't work well and I don't like it, I can buy a Chevy. If I'm upset with Facebook, what's the equivalent product that I can go sign up for?” Graham asked. “My point is that one way to regulate a company is through competition. Through government regulation,” Graham said. “Why should we let you self-regulate?”
+
+Zuckerberg responded that his position is not “no regulation,” but rather to find the “right regulation.”
+
+New legislation for data privacy will go into effect in the European Union this May – the first to apply to all companies processing personal data of individuals in the EU. Graham asked Zuckerberg if he would model his proposal after the European way.
+
+“Do you think the Europeans have it right?”
+
+“I think they get things right,” Zuckerberg said.
+
+At another point, Sen. Deb Fischer, a Nebraska Republican, asked Zuckerberg whether Facebook users were "safe."
+
+"Senator," Zuckerberg answered, "I think Facebook is safe. I use it and my family use it and all the people I love and care about use it all the time."
+
+Toward the end of Tuesday's hearing, Louisiana GOP Sen. John Kennedy told Zuckerberg: "Your user agreement sucks. It's not to inform your users of their rights. You know that."
+
+Kennedy said Zuckerberg should talk to his lawyers about a re-write. "Tell them you want it written in English..," Kennedy said.
+
+Zuckerberg’s contrition in his opening remarks largely mirrors Facebook’s public response in the weeks leading up to Tuesday’s hearing.
+
+On Monday, Zuckerberg visited one-on-one with senators, including the top Democrat on the Senate Commerce Committee, Florida’s Bill Nelson. Nelson told reporters that Zuckerberg accused data firm Cambridge Analytica of lying to Facebook about disposing of user data after Facebook banned the data harvesting methods it relied on.
+
+“When he said to me very forthrightly, ‘We were lied to and we should have caught that,’ I believe that, but I think in today's world that's naïve,” Nelson said.
+
+Cambridge Analytica did work for the Trump campaign during the 2016 presidential election, but a spokesperson for the Trump campaign told ABC News in a statement that the campaign used the RNC for its voter data and not Cambridge Analytica.
+
+Cambridge Analytica did not respond to ABC News’ attempts to get comment on Nelson’s remarks Monday, but the data firm did release a lengthy statement ahead of Zuckerberg’s testimony.
+
+“Cambridge Analytica did not ‘hack’ Facebook,” the statement, distributed on Monday afternoon, read. “Cambridge Analytica did not illegally or inappropriately collect or share data with anybody else. Cambridge Analytica has not broken FEC Regulations.
+
+Cambridge Analytica has said previously it was unaware the data was improperly obtained by a third party and that it was destroyed as soon as it was made aware. The company also said the data was never used as part of the firm’s work with the Trump campaign.
+
+Late Monday night, Facebook began notifying the up to 87 million users whose private data may have been improperly harvested by Cambridge Analytica.
+
+ABC News' Trish Turner contributed to this report.
+
+Related Topics
+
+• Meta
+
+© 2026 ABC News
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

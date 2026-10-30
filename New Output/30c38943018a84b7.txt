@@ -1,0 +1,47 @@
+Facebook’s testimony to Congress: Libra will be regulated by Swiss
+
+By Josh Constine
+9:12 AM PDT · July 15, 2019
+
+The head of Facebook’s blockchain subsidiary Calibra David Marcus has released his prepared testimony before Congress for tomorrow and Wednesday, explaining that the Libra Association will be regulated by the Swiss government because that’s where it’s headquartered. Meanwhile, he says the Libra Association and Facebook’s Calibra wallet intend to comply will all U.S. tax, anti-money laundering and anti-fraud laws.
+
+“The Libra Association expects that it will be licensed, regulated, and subject to supervisory oversight. Because the Association is headquartered in Geneva, it will be supervised by the Swiss Financial Markets Supervisory Authority (FINMA),” Marcus writes. “We have had preliminary discussions with FINMA and expect to engage with them on an appropriate regulatory framework for the Libra Association. The Association also intends to register with FinCEN [The U.S. Treasury Department’s Financial Crimes Enforcement Network] as a money services business.”
+
+Marcus will be defending Libra before the Senate Banking Committee on July 16th and the House Financial Services Committees on July 17th. The House subcomittee’s Rep. Maxine Waters has already issued a letter to Facebook and the Libra Association requesting that it halt development and plans to launch Libra in early 2020 “until regulators and Congress have an opportunity to examine these issues and take action.”
+
+The big question is whether Congress is savvy enough to understand Libra to the extent that it can coherently regulate it. Facebook CEO Mark Zuckerberg’s testimonies before Congress last year were rife with lawmakers dispensing clueless or off-topic questions.
+
+Sen. Orin Hatch infamously demanded to know “how do you sustain a business model in which users don’t pay for your service?,” to which Zuckerberg smirked, “Senator, we run ads.” If that concept trips up Congress, it’s hard to imagine it grasping a semi-decentralized stablecoin cryptocurrency that took us 4,000 words to properly explain, and a six-minute video just to summarize.
+
+Attempting to assuage a core concern that Libra is trying to replace the dollar or meddle in financial policy, Marcus writes that “The Libra Association, which will manage the Reserve, has no intention of competing with any sovereign currencies or entering the monetary policy arena. It will work with the Federal Reserve and other central banks to make sure Libra does not compete with sovereign currencies or interfere with monetary policy. Monetary policy is properly the province of central banks.”
+
+Marcus’ testimony comes days after President Donald Trump tweeted Friday to condemn Libra, claiming that “Unregulated Crypto Assets can facilitate unlawful behavior, including drug trade and other illegal activity. Similarly, Facebook Libra’s ‘virtual currency’ will have little standing or dependability. If Facebook and other companies want to become a bank, they must seek a new Banking Charter and become subject to all Banking Regulations, just like other Banks, both National and International.”
+
+TechCrunch asked Facebook for a response Friday, which it declined to provide. However, a Facebook spokesperson noted that the Libra Association won’t interact with consumers or operate as a bank, and that Libra is meant to be a complement to the existing financial system.
+
+Regarding how Libra will comply with U.S. anti-money laundering (AML) and know-your-customer (KYC) laws, Marcus explains that “The Libra Association is similarly committed to supporting efforts by regulators, central banks, and lawmakers to ensure that Libra contributes to the fight against money laundering, terrorism financing, and more,” Marcus explains. “The Libra Association will also maintain policies and procedures with respect to AML and the Bank Secrecy Act, combating the financing of terrorism, and other national security-related laws, with which its members will be required to comply if they choose to provide financial services on the Libra network.”
+
+He argues that “Libra should improve detection and enforcement, not set them back,” because cash transactions are frequently used by criminals to avoid law enforcement. “A network that helps move more paper cash transactions—where many illicit activities happen—to a digital network that features regulated on- and off-ramps with proper know-your-customer (KYC) practices, combined with the ability for law enforcement and regulators to conduct their own analysis of on-chain activity, will present an opportunity to increase the efficacy of financial crimes monitoring and enforcement.”
+
+As for Facebook itself, Marcus writes that “The Calibra wallet will comply with FinCEN’s rules for its AML/CFT program and the rules set by the Office of Foreign Assets Control (OFAC) . . . Similarly, Calibra will comply with the Bank Secrecy Act and will incorporate KYC and AML/CFT methodologies used around the world.”
+
+These answers might help to calm finance legal eagles, but I expect much of the questioning from Congress will deal with the far more subjective matter of whether Facebook can be trusted after a decade of broken privacy promises, data leaks and fake news scandals like Cambridge Analytica.
+
+That’s why I don’t expect the following statement from Marcus about how Facebook has transformed the state of communication will play well with lawmakers that are angry about how those changes impacted society. “We have done a lot to democratize free, unlimited communications for billions of people. We want to help do the same for digital currency and financial services, but with one key difference: We will relinquish control over the network and currency we have helped create.” Congress may interpret “democratize” as “screw up,” and not want to see the same happen to money.
+
+Facebook and Calibra may have positive intentions to assist the unbanked who are indeed swindled by banks and money transfer services that levy huge fees against poorer families. But Facebook isn’t acting out of pure altruism here, as it stands to earn money from Libra in three big ways that aren’t mentioned in Marcus’ testimony:
+
+1. It will earn a share of interest earned on the Libra Reserve of traditional currencies it holds as collateral for Libra that could mount into the billions if Libra becomes popular.
+
+2. It will see Facebook ad sales grow if merchants seek to do more commerce over the internet because they can easily and cheaply accept online payments through Libra and therefore put marketing spend into those efficiently converting channels like Facebook and Google.
+
+3. It will try to sell additional financial services through Calibra, potentially including loans and credit where it could ask users to let it integrate their Facebook data to get a better rate, potentially decreasing defaults and earning Facebook larger margins than other players.
+
+The real-world stakes are much higher here than in photo sharing, and warrant properly regulatory scrutiny. No matter how much Facebook tries to distance itself from ownership of Libra, it started, incubated and continues to lead the project. If Congress is already convinced “big is bad,” and Libra could make Facebook bigger, that may make it difficult to separate their perceptions of Facebook and Libra in order to assess the currency on its merits and risks.
+
+Below you can read Marcus’ full testimony:
+
+For full details on how Libra works, read our feature story on everything you need to know:
+
+Source: https://techcrunch.com/2019/07/15/libra-testimony/
+© 2026 TechCrunch Media LLC.

@@ -1,0 +1,42 @@
+Apple, FBI set to resume encryption fight at House hearing
+
+Headline ID: 5f8e75b5cafc8286
+Source URL: https://www.cnet.com/news/privacy/apple-fbi-set-to-resume-encryption-fight-at-house-hearing-terrorist-iphone-san-bernardino/
+Author: Steven Musil
+Published: 2016-04-14T19:34:27-04:00
+
+The encryption battle between Apple and the FBI is moving from the courtroom to Congress next week.
+
+Representatives from the tech titan and the federal law enforcement agency are scheduled to testify Tuesday before the House Energy and Commerce Committee about the debate over how the use of encryption in tech products and services hampers law enforcement activities.
+
+In February, Apple clashed with the FBI over whether the company would help investigators hack into the encrypted iPhone of San Bernardino shooter Syed Farook. That case ended when the FBI said it had found a way to unlock the phone without Apple’s help. The debate, however, is unresolved.
+
+More from CNET
+
+Technology companies and rights groups argue that strong encryption, which scrambles data so it can be read only by the right person, is needed to keep people safe and protect privacy. Law enforcement argues it can’t fight crimes unless it has access to information on mobile devices.
+
+The hearing, called “Deciphering the Debate Over Encryption: Industry and Law Enforcement Perspectives,” will include two panels. The first features Amy Hess, executive assistant director for science and technology at the FBI, who will speak about law enforcement concerns along with other law enforcement officials from around the country. Apple general counsel Bruce Sewell will speak during a second panel, which will feature computer science and security professionals.
+
+The FBI and Apple did not immediately respond to requests for comment on their testimony.
+
+The hearing’s agenda comes just a day after a US Senate encryption bill was released that would give law enforcement and government investigators access to encrypted devices and communications. Authored by US Sens. Dianne Feinstein and Richard Burr, the bill furthers a fight that pits national security against cybersecurity.
+
+Earlier this month, Facebook complicated things a bit further for the FBI when it announced that all communications sent on its popular WhatsApp messaging app are now encrypted.
+
+Steven Musil
+
+Night Editor / News
+
+Steven Musil is a senior news editor at CNET News. He's been hooked on tech since learning BASIC in the late '70s. When not cleaning up after his daughter and son, Steven can be found pedaling around the San Francisco Bay Area. Before joining CNET in 2000, Steven spent 10 years at various Bay Area newspapers and had a brief stint at MacWeek. See full bio
+
+The Latest from Steven
+
+• Apple’s New Smart Home Hub Is Reportedly Called HomeView and Will Ship in November
+
+• Meta Ordered to Pay $567M in New Mexico Child Exploitation Lawsuit
+
+• American Airlines Flights Resume After Being Grounded by System Outage
+
+© 2026 CNET, a Ziff Davis company. All rights reserved.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

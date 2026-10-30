@@ -1,0 +1,56 @@
+US lawmakers grill Facebook executive in charge of Libra
+
+By CNN News
+Published: 2019-07-16T06:38:28-0400
+
+Senate Banking Committee members don’t trust Facebook. That was a main takeaway from Tuesday’s Senate Banking Committee hearing on Facebook’s Libra cryptocurrency. Because of that, they have serious concerns about Facebook’s entrance into the largely unregulated cryptocurrency market.
+
+Many lawmakers questioned Facebook executive David Marcus about why people should trust the company to manage their money and why they should trust Facebook to lead the way on a major new fintech regulation that could fundamentally change global financial systems.
+
+“Facebook’s motto is move fast and break things,” Sherrod Brown, the Committee’s senior member, said. “They’ve moved fast and are helping to undermine our democracy. Now they’re expecting us to trust them with our paychecks.”
+
+Marcus’ answer, in large part, was that no one necessarily has to trust Facebook itself.
+
+Marcus, who heads up Libra, stressed the company will be only one of what it hopes will eventually be 100 members of the Libra Association, the governing body that will manage the currency. And he also said the vision is for consumers to have many options for tools to use Libra from trusted companies, not just Facebook’s Calibra wallet. From there, he said, Facebook “will have to work hard to earn people’s trust” in its own products.
+
+The often tense exchanges between lawmakers and Marcus illustrated the challenges Facebook will face as it attempts to launch the digital currency, which it has hoped to do by early 2020. Wednesday, Marcus will face more questioning from the House Financial Services committee. Lawmakers want to understand more about Libra and its implications both for consumers and global financial systems.
+
+Marcus wants to convince them of the digital currency’s potential benefits and Facebook’s willingness to work with regulators on its implementation.
+
+“I expect that this will be the broadest, most extensive and most careful pre-launch oversight by regulators and central banks in FinTech’s history,” Marcus said in his opening remarks.
+
+This set of lawmakers has been trying to understand Libra for some time. Weeks before the official Libra announcement, with rumors of the plans swirling, the Committee sent Facebook a letter requesting information on how Libra would work and how users’ data would be protected.
+
+Facebook said it met with lawmakers and regulators in the lead-up to the announcement, including with Federal Reserve Chairman Jerome Powell.
+
+Brown has repeatedly criticized Facebook’s plans for Libra. He said last week the currency could pose a “threat to our democracy” if it were to become such a widely used medium of exchange that it compromised the Fed’s ability to enact monetary policy.
+
+“They’re motivated by one thing: surely their own bottom line,” Brown said last week. “Allowing Big Tech companies to take over the payment system or position themselves to influence monetary policy would be a huge mistake.”
+
+But Facebook says Libra and the Libra Association will not aim to supplant the Federal Reserve or any other central bank.
+
+“The Libra Association … has no intention of competing with any sovereign currencies or entering the monetary policy arena,” Marcus said.
+
+Many senators opened their remarks by mentioning concerns about user privacy and data security.
+
+Facebook has said it established Calibra as an independent subsidiary within the company to develop its digital wallet and other products to use Libra. The company says Calibra will not share users’ financial data with Facebook, except under limited circumstances such as for fraud mitigation. The two will also share financial data if users agree to it, though it is unclear how it will ask users for their consent.
+
+Senator Pat Toomey, the Pennsylvania Republican, asked Marcus whether Facebook ever intends to seek users’ consent to monetize their financial data, the way the company does with other user data.
+
+“I can’t think of any reason right now for us to do this,” Marcus said.
+
+Lawmakers also had questions about the decision to base the Libra Association, the currency’s governance board, in Switzerland. Committee Chairman Mike Crapo asked what this would mean for the Libra Association and Calibra’s adherence to US financial regulations.
+
+“The decision to locate in Switzerland was not an attempt to evade regulation or responsibility in the US,” Marcus said. “We thought a global, digitally native currency used by people around the world would benefit from being headquartered in an international place that is the home to many international organizations.”
+
+Marcus added that Calibra plans to follow federal and state financial regulations.
+
+But Committee members did not take a uniformly harsh stance on Libra. Many mentioned the importance of the United States’ leadership on developing a framework for managing cryptocurrencies and future fintech innovations. This is a point Facebook has also stressed, as it faces some pressure from lawmakers to ban Libra altogether.
+
+“It strikes me as wildly premature for us to come to the conclusion that we have to act now to prevent what could be a very constructive innovation in financial services,” Toomey said. “I think there are tremendous potential benefits in blockchain technologies and cryptocurrencies … So I just think we should be exploring this, and considering the benefits as well as the risks.”
+
+One looming question is what effect the push for regulation Libra spurred will have on existing cryptocurrencies like Bitcoin. By the end of the hearing, Bitcoin had fallen more than 9%.
+
+Source: https://www.kpax.com/cnn-social-media-technology/2019/07/17/us-lawmakers-set-to-grill-facebook-executive-in-charge-of-libra/
+© 2026 Scripps Media, Inc
+License: https://scripps.com/user-agreement/ (personal, non-commercial copy)

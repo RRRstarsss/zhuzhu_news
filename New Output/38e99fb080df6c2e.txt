@@ -1,0 +1,31 @@
+Top tech CEOs will testify about social media’s role in the Capitol attack this week
+
+By Taylor Hatmaker
+12:14 PM PDT · March 23, 2021
+
+Social media executives will be answering to Congress directly for their role in January’s deadly attacks on the U.S. Capitol this week. Facebook’s Mark Zuckerberg, Twitter’s Jack Dorsey and Google’s Sundar Pichai will all appear virtually before a joint House committee Thursday at 12 p.m. Eastern Time.
+
+The hearing, held by the House’s Subcommittee on Communications and Technology and the Subcommittee on Consumer Protection and Commerce, will focus on social media’s role in spreading disinformation, extremism and misinformation. The Energy and Commerce Committee previously held a parallel hearing reckoning with traditional media’s role in promoting those same social ills.
+
+Earlier this month, Energy and Commerce Chairman Frank Pallone Jr., joined by more than 20 other Democrats, sent a letter to Zuckerberg pressing the Facebook CEO for answers about why tactical gear ads showed up next to posts promoting the Capitol riot. “Targeting ads in this way is dangerous and has the potential to encourage acts of violence,” the letter’s authors wrote. In late January, Facebook said that it would pause ads showing weapon accessories and related equipment.
+
+While the subcommittee has signaled its interest in Facebook’s ad practices, organic content on the site has historically presented a much bigger problem. In the uncertain period following the election last year, the pro-Trump “Stop the Steal” movement swelled to massive proportions on social media, particularly in Facebook groups. The company took incremental measures at the time, but that same movement, born of political misinformation, is what propelled the Capitol rioters to disrupt vote counting and enact deadly violence on January 6.
+
+The hearing is likely to go deep on extremists organizing through Facebook groups too. Chairs from both subcommittees that will question the tech CEOs this week previously questioned Facebook about reports that the company was well aware that its algorithmic group recommendations were funneling users toward extremism. In spite of warnings from experts, Facebook continued to allow armed anti-government militias to openly organize on the platform until late 2020. And in spite of bans, some continued to do so.
+
+The Justice Department is reportedly considering charging members of the Oath Keepers, one prominent armed U.S. militia group involved in the Capitol attack, with sedition.
+
+Facebook plays a huge role in distributing extremist content and ferrying it to the mainstream, but it isn’t alone. Misinformation that undermines the integrity of the U.S. election results is generally just as easy to find on YouTube and Twitter, though those social networks aren’t designed to connect and mobilize people in the same way that Facebook groups do.
+
+Facebook began to course-correct its own rules around extremism, slowly through 2020 and then quickly this January when the company removed former President Trump from the platform. Facebook’s external policy oversight board continues to review that decision and could reverse it in the coming weeks.
+
+Over the course of the last year, Twitter made an effort to demystify some of its own policy decisions, transparently communicating changes and introducing ideas it was considering. Under Dorsey’s guidance the company treated its platform rules like a living document — one it’s begun to tinker around with in an effort to shape user behavior for the better.
+
+If Twitter’s recent policy decision making is akin to thinking out loud, YouTube took the opposite approach. The company wasn’t as proactive in shoring up its defenses ahead of the 2020 elections and rarely responded in real-time to events. YouTube waited a full month after Biden’s victory to articulate rules that would rid the platform of disinformation declaring that the election was stolen from Trump.
+
+Hopefully the joint hearing can dig a bit more into why that was, but we’re not counting on it. The subcommittees’ decision to bring Google CEO Sundar Pichai to testify is a bit strange considering that YouTube’s CEO Susan Wojcicki — who has yet to be called to Congress for one of these high profile tech hearings — would make the better witness. Pichai is ultimately accountable for what YouTube does too, but in past hearings he’s proven a very polished witness who’s deft at neutralizing big picture criticism with technical detail.
+
+Ultimately Wojcicki would have more insight into YouTube’s misinformation and extremism policies and the reason the platform has dragged its feet on matters of hate and misinformation, enforcing its own policies unevenly when it chooses to do so at all.
+
+Source: https://techcrunch.com/2021/03/23/tech-hearing-capitol-attack-facebook-twitter-google/
+© 2026 TechCrunch Media LLC.

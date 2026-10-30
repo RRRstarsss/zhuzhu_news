@@ -1,0 +1,54 @@
+Congress set to grill Facebook, Google and Twitter CEOs on extremist content, misinformation
+
+Headline ID: b36065b7ce8063db
+Source URL: https://www.deseret.com/utah/2021/3/24/22348655/utah-social-media-misinformation-extremist-content-moderation-facebook-google-twitter-congress/
+Author: Art Raymond
+Published: 2021-03-24T23:12:08.124Z
+
+Less than 48 hours after Utah Gov. Spencer Cox vetoed a controversial bill aiming to impose new moderation regulations on social media platforms, a U.S. House joint committee will take up some of the same issues in a Thursday hearing that will include the CEOs of Facebook, Google and Twitter.
+
+While all three companies say they are continuing to ramp up efforts to fairly and appropriately apply content moderation/take down rules, the chairman of the U.S. House Energy and Commerce Committee, Rep. Frank Pallone Jr. D-N.J., described those efforts as merely reactions to social and political pressures and, furthermore, said they are failing to effectively staunch the flow of misinformation and extremist postings.
+
+The hearing, “Disinformation Nation: Social Media’s Role in Promoting Extremism and Misinformation,” will include testimony from Facebook CEO Mark Zuckerberg, Google CEO Sundar Pichai and Twitter CEO Jack Dorsey. The House Energy and Commerce Committee will be joined by members of two House subcommittees for questions and discussion.
+
+In a memo released earlier this week, Pallone wrote that these U.S. tech behemoths are motivated to allow the posting, sharing and distribution of controversial content because it gets the most attention from users and, by default, creates the most value for the online advertisers that generate profits for the platform operators.
+
+“Facebook, Google, and Twitter operate some of the largest and most influential online social media platforms reaching billions of users across the globe,” Pallone wrote. “As a result, they are among the largest platforms for the dissemination of misinformation and extremist content.
+
+“These platforms maximize their reach — and advertising dollars — by using algorithms or other technologies to promote content and make content recommendations that increase user engagement. Users of these platforms often engage more with questionable or provocative content, thus the algorithms often elevate or amplify disinformation and extremist content.”
+
+Pallone cited recent U.S. election cycles and the COVID-19 pandemic as topics around which all three platforms contributed to confusion and chaos by allowing circulation of false or misleading information. And he cited a series of actions taken by YouTube (owned by Google) leading up to and following the January riot at the U.S. Capitol as evidence of problematic moderation policies. The event was the culmination of a “Stop the Steal” campaign that falsely claimed former President Donald Trump was the actual winner of the 2020 presidential election and only lost through election tampering efforts. “Stop the Steal” and the activities that took place on Jan. 6 had, in large part, been organized and amplified on various social media platforms.
+
+“In December 2020, YouTube announced it would begin removing content that falsely alleged widespread election fraud, but that policy would not apply to videos uploaded prior to the announcement,” Pallone wrote. “After the U.S. Capitol riots, YouTube announced that it would suspend accounts that promoted videos of false allegations about the 2020 presidential election.”
+
+In pre-hearing written testimony, all three company leaders outlined their ongoing efforts to manage content on their sites, though each took somewhat different tones and approaches in making their cases.
+
+Zuckerberg may have done the most effective job at anticipating where the Democrat-led panel will go on Thursday, citing his support of potential changes to a key federal rule that has, since the mid-’90s, provided expansive liability protections for online companies against issues raised by user content.
+
+Section 230 of the Communications Decency Act of 1996, widely credited with helping online companies prosper since its adoption, provides protection for platform operators against legal issues raised by content published by users under the stipulation that “no provider or user of an interactive computer service shall be treated as the publisher or speaker of any information provided by another information content provider.”
+
+Zuckerberg recognized the critical role Section 230 has played in the evolution of the internet but also laid down his willingness to back an update to the rule.
+
+“Over the past quarter-century, Section 230 has created the conditions for the Internet to thrive, for platforms to empower billions of people to express themselves online, and for the United States to become a global leader in innovation,” Zuckerberg wrote. “The principles of Section 230 are as relevant today as they were in 1996, but the Internet has changed dramatically.
+
+“I believe that Section 230 would benefit from thoughtful changes to make it work better for people, but identifying a way forward is challenging given the chorus of people arguing — sometimes for contradictory reasons — that the law is doing more harm than good.”
+
+While Dorsey left out any mention of Section 230 in his pre-hearing submission, he has previously noted his potential support of changes. Google’s Pichai positioned himself on the opposite side of the argument in his pre-hearing testimony.
+
+Pichai said that without Section 230, online platforms would be obligated to over-filter content or not filter it all and that the clause “allows companies to take decisive action on harmful misinformation and keep up with bad actors who work hard to circumvent their policies.”
+
+“Regulation has an important role to play in ensuring that we protect what is great about the open web, while addressing harm and improving accountability,” Pichai wrote. “We are, however, concerned that many recent proposals to change Section 230 — including calls to repeal it altogether — would not serve that objective well.
+
+“In fact, they would have unintended consequences — harming both free expression and the ability of platforms to take responsible action to protect users in the face of constantly evolving challenges.”
+
+Zuckerberg and Dorsey have already been subjected to a congressional grilling on how their platforms handled misinformation related to the 2020 election last fall, just a few weeks after votes were cast. That hearing, hosted by the Republican-led (at the time) Senate Judiciary Committee, was focused on allegations that the platforms were engaged in biased moderation activities including unfairly suppressing conservative viewpoints and voices.
+
+At that hearing, Utah Republican Sen. Mike Lee accused Facebook and Twitter of being biased against Republicans and conservatives during the 2020 election, including tagging one of his own posts about alleged voter fraud.
+
+While a Utah attempt at compelling social media platforms to adopt new moderation rules earned the support of lawmakers in the 2021 session, Cox vetoed the proposal Tuesday evening citing technical issues, though the proposal was widely thought to be in conflict with federal protections under the U.S. Constitution.
+
+A livestream of Thursday’s virtual hearing, scheduled to begin at 10 a.m. Mountain time, can be found at energycommerce.house.gov/committee-activity/hearings/hearing-on-disinformation-nation-social-medias-role-in-promoting.
+
+Copyright © 2026 Deseret News Publishing Company. All Rights Reserved Terms of Use Privacy Notice CA Notice of Collection Cookie Policy Cookie Settings
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

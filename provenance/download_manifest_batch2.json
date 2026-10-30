@@ -1,0 +1,518 @@
+{
+  "batch": 2,
+  "source_workbook": "news_urls(1).xlsx",
+  "source_sheet": "headline_urls",
+  "created_at": "2026-10-30T20:54:34+08:00",
+  "requested_article_count": 20,
+  "completed_article_count": 20,
+  "prior_existing_count": 23,
+  "new_output_txt_count": 40,
+  "total_unique_articles_including_current_output": 43,
+  "use_scope": "Personal learning or nonprofit research, as confirmed by user; no commercial reuse or redistribution implied.",
+  "format": "UTF-8; original English article or full news-program transcript; attribution and applicable notices retained.",
+  "excluded_existing_headline_ids": [
+    "0ab5cd31a49fd223",
+    "0ecce865fcd1a229",
+    "104a9e477fbc5106",
+    "20424d423898dffa",
+    "219f22863f883836",
+    "260ead4ad1b85b11",
+    "30c38943018a84b7",
+    "38e99fb080df6c2e",
+    "3e8b0bc763936966",
+    "43d74244f2f60480",
+    "480b9ba8a2870f6b",
+    "48154e460ebd896f",
+    "49fa77aa4b01d3b3",
+    "54046453e1e7474b",
+    "5eb5f5aec2daab88",
+    "6b6671d4672b2a43",
+    "6d07f1b0a05d4670",
+    "805bc7876930b3b8",
+    "9688b6465b196bf2",
+    "a48e5372ff39cc4c",
+    "ad0e74bfc7de3c8a",
+    "e0ab5d11e0083444",
+    "e9d9289afe25c3ca"
+  ],
+  "validation": {
+    "existing_23_hashes_unchanged": true,
+    "new_unique_ids": 20,
+    "new_unique_urls": 20,
+    "total_unique_texts": 43,
+    "near_duplicate_pairs_above_0_65": 0
+  },
+  "articles": [
+    {
+      "headline_id": "4373dfc5956125a7",
+      "filename": "4373dfc5956125a7.txt",
+      "original_headline": "Boeing CEO Dennis Muilenburg to Testify Before U.S. Congress",
+      "page_title": "Boeing CEO Dennis Muilenburg to Testify Before U.S. Congress",
+      "source_url": "https://boeing.mediaroom.com/2019-10-28-Boeing-CEO-Dennis-Muilenburg-to-Testify-Before-U-S-Congress",
+      "author": "Boeing",
+      "publication_date": "2019-10-28",
+      "body_words": 592,
+      "content_type": "Article text",
+      "rights_basis": "Personal, non-commercial informational copy; source wording and notices retained.",
+      "rights_url": "https://www.boeing.com/terms-of-submission-and-privacy-policy/site-terms",
+      "copyright_notice": "Copyright © 1995–2026 Boeing. All Rights Reserved.",
+      "sha256": "df8f9bfa9351a1186426ec9d076e0975ab47d6e9d19ea0379abd3621cdb3b595",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "4373dfc5956125a7",
+        "4a7c7f9a1d5daeae",
+        "bc153e678b4f2322"
+      ]
+    },
+    {
+      "headline_id": "9199f404e2c5d3b0",
+      "filename": "9199f404e2c5d3b0.txt",
+      "original_headline": "Questions for technology CEOs testifying before Congress",
+      "page_title": "Questions for technology CEOs testifying before Congress",
+      "source_url": "https://www.brookings.edu/articles/questions-for-technology-ceos-testifying-before-congress/",
+      "author": "Darrell M. West",
+      "publication_date": "2020-07-14",
+      "body_words": 822,
+      "content_type": "Article text",
+      "rights_basis": "Nonprofit educational/research use with attribution; original English text preserved.",
+      "rights_url": "https://www.brookings.edu/attribution-and-permissions-guidelines/",
+      "copyright_notice": "Copyright 2026 The Brookings Institution",
+      "sha256": "4a2f2002f91a1633ac3bfa200f47e6e4c5ab1cf2db183cd2fc9783aa3d7a14bf",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "9199f404e2c5d3b0"
+      ]
+    },
+    {
+      "headline_id": "02a4a9146ce5f8f8",
+      "filename": "02a4a9146ce5f8f8.txt",
+      "original_headline": "IAITAM Head: Don't Buy \"Scapegoating\" By Former Equifax Head In Testimony To Congress",
+      "page_title": "IAITAM Head: Don't Buy \"Scapegoating\" By Former Equifax Head In Testimony To Congress",
+      "source_url": "https://www.prnewswire.com/news-releases/iaitam-head-dont-buy-scapegoating-by-former-equifax-head-in-testimony-to-congress-300531079.html",
+      "author": "The International Association of Information Technology Asset Managers, Inc. (IAITAM), Canton, OH.",
+      "publication_date": "2017-10-04",
+      "body_words": 660,
+      "content_type": "Article text",
+      "rights_basis": "Single copy for personal noncommercial use; source wording and notices retained; no redistribution.",
+      "rights_url": "https://www.prnewswire.com/terms-of-use/",
+      "copyright_notice": "Copyright © 2026 Cision US Inc.",
+      "sha256": "8e94e65bd8e199c735ec7c0e099a03cc81594ceec879beeabe3151e0e0587e82",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "02a4a9146ce5f8f8",
+        "e964f1d8d3852eca"
+      ],
+      "subtitle": "Equifax Was Not Failed by One Employee; Instead, the Company Let Down 145 Million Customers by Failing to Put Proper ITAM Systems and Controls in Place"
+    },
+    {
+      "headline_id": "912e9e2adc2aaf10",
+      "filename": "912e9e2adc2aaf10.txt",
+      "original_headline": "In Senate hearing, Zuckerberg faces blame over violence in Myanmar",
+      "page_title": "In Senate hearing, Zuckerberg faces blame over violence in Myanmar",
+      "source_url": "https://techcrunch.com/2018/04/10/myanmar-facebook-zuckerberg-senate-hearing-genocide/",
+      "author": "Taylor Hatmaker",
+      "publication_date": "2018-04-10T13:44:05-07:00",
+      "body_words": 678,
+      "content_type": "Article text",
+      "rights_basis": "TechCrunch single-copy individual-page personal noncommercial permission; source attribution and copyright retained",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": "© 2026 TechCrunch Media LLC.",
+      "sha256": "398888146a5a1d4b1d02ec95dda3e43f9a5f2365b28dc4279867d69d6c2bf5ae",
+      "original_match_quality": "high",
+      "source_match_notes": "Exact headline and publication date match",
+      "headline_ids_with_same_source_url": [
+        "912e9e2adc2aaf10"
+      ]
+    },
+    {
+      "headline_id": "4098035751a54ada",
+      "filename": "4098035751a54ada.txt",
+      "original_headline": "Zuckerberg To Testify Before House Panel April 11, Lawmakers Say -- MarketWatch",
+      "page_title": "Zuckerberg will testify before Congress on April 11",
+      "source_url": "https://techcrunch.com/2018/04/04/zuckerberg-will-testify-before-congress-on-april-11/",
+      "author": "Jordan Crook",
+      "publication_date": "2018-04-04T05:44:14-07:00",
+      "body_words": 343,
+      "content_type": "Article text",
+      "rights_basis": "TechCrunch single-copy individual-page personal noncommercial permission; source attribution and copyright retained",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": "© 2026 TechCrunch Media LLC.",
+      "sha256": "878e8a8462d141cdce99847beed18bf55edefc2aeba3ccfb006aeb4e6d658858",
+      "original_match_quality": "low",
+      "source_match_notes": "Same announcement and date; spreadsheet URL is TechCrunch but original headline/source says MarketWatch; not exact original-source reproduction",
+      "headline_ids_with_same_source_url": [
+        "4098035751a54ada"
+      ]
+    },
+    {
+      "headline_id": "877edb478d7b0181",
+      "filename": "877edb478d7b0181.txt",
+      "original_headline": "Facebook's Zuckerberg Should Testify On Capitol Hill, Sen. Markey Says",
+      "page_title": "Facebook's Zuckerberg Should Testify On Capitol Hill, Sen. Markey Says",
+      "source_url": "https://www.npr.org/2018/03/22/595987433/facebooks-zuckerberg-should-testify-on-capitol-hill-sen-markey-says",
+      "author": null,
+      "publication_date": "2018-03-22T07:13:00-04:00",
+      "body_words": 1013,
+      "content_type": "Article introduction plus full news-program transcript",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [
+        "Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+      ],
+      "sha256": "9250466d657bdb702e3b382ef62935e8a1ee5038197231edb2e830341fe34c0b",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "877edb478d7b0181"
+      ]
+    },
+    {
+      "headline_id": "1bf0343ff0caf413",
+      "filename": "1bf0343ff0caf413.txt",
+      "original_headline": "More Lawmakers, Including Rep. Lance, Call On Zuckerberg To Testify",
+      "page_title": "More Lawmakers, Including Rep. Lance, Call On Zuckerberg To Testify",
+      "source_url": "https://www.npr.org/2018/03/27/597222024/more-lawmakers-including-rep-lance-call-on-zuckerberg-to-testify",
+      "author": null,
+      "publication_date": "2018-03-27T05:00:00-04:00",
+      "body_words": 728,
+      "content_type": "Article introduction plus full news-program transcript",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [
+        "Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+      ],
+      "sha256": "25c0e84f8b238fce8ed9ac79da40f965c79c43e2b5dc31361aed1f2a6cfe9411",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "1bf0343ff0caf413"
+      ]
+    },
+    {
+      "headline_id": "215ac022510ddb4c",
+      "filename": "215ac022510ddb4c.txt",
+      "original_headline": "Facebook CEO Mark Zuckerberg To Testify In Congress Next Month",
+      "page_title": "Facebook CEO Mark Zuckerberg To Testify In Congress Next Month",
+      "source_url": "https://www.npr.org/2018/03/29/597888574/facebook-ceo-mark-zuckerberg-to-testify-in-congress-next-month",
+      "author": null,
+      "publication_date": "2018-03-29T07:28:00-04:00",
+      "body_words": 728,
+      "content_type": "Article introduction plus full news-program transcript",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [
+        "Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+      ],
+      "sha256": "b6086bc7e895c4c74b3921b8b00afb60fef4d46d89ef82e55ae3fa783a156261",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "215ac022510ddb4c",
+        "da76ac5216dc3e0f"
+      ]
+    },
+    {
+      "headline_id": "015291b340d30b5f",
+      "filename": "015291b340d30b5f.txt",
+      "original_headline": "Facebook CEO Mark Zuckerberg Readies To Testify On Capitol Hill",
+      "page_title": "Facebook CEO Mark Zuckerberg Readies To Testify On Capitol Hill",
+      "source_url": "https://www.npr.org/2018/04/08/600616534/facebook-ceo-mark-zuckerberg-readies-to-testify-on-capitol-hill",
+      "author": "Alina Selyukh",
+      "publication_date": "2018-04-08T07:15:59-04:00",
+      "body_words": 965,
+      "content_type": "Article introduction plus full news-program transcript",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [
+        "Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+      ],
+      "sha256": "d932a269139efab4ef92bfe438a4eb149cfe3609dd917e53fcafb83e2365be8f",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "015291b340d30b5f"
+      ]
+    },
+    {
+      "headline_id": "879bbe105c99a086",
+      "filename": "879bbe105c99a086.txt",
+      "original_headline": "Sen. Blumenthal On Syria Chemical Attack, Zuckerberg's Testimony",
+      "page_title": "Sen. Blumenthal On Syria Chemical Attack, Zuckerberg's Testimony",
+      "source_url": "https://www.npr.org/2018/04/09/600777575/sen-blumenthal-on-syria-chemical-attack-zuckerbergs-testimony",
+      "author": null,
+      "publication_date": "2018-04-09T07:20:00-04:00",
+      "body_words": 987,
+      "content_type": "Article introduction plus full news-program transcript",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [
+        "Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+      ],
+      "sha256": "e60f2aa62845fa35a8e56d5fa79d7511a03e6c951c2fa3022d5579c3ed242ecc",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "879bbe105c99a086"
+      ]
+    },
+    {
+      "headline_id": "73b518e59edfe055",
+      "filename": "73b518e59edfe055.txt",
+      "original_headline": "Facebook Founder And CEO Mark Zuckerberg Testifies On Capitol Hill",
+      "page_title": "Facebook Founder And CEO Mark Zuckerberg Testifies On Capitol Hill",
+      "source_url": "https://www.npr.org/2018/04/10/601268117/facebook-founder-and-ceo-mark-zuckerberg-testifies-on-capitol-hill",
+      "author": "Alina Selyukh",
+      "publication_date": "2018-04-10T16:39:00-04:00",
+      "body_words": 1132,
+      "content_type": "Article introduction plus full news-program transcript",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [
+        "Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+      ],
+      "sha256": "d659574cb64d4cf02df3bd8271f6d3ad2891c22917585a9ffa9a5962644a1fd2",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "73b518e59edfe055",
+        "2a1c4800dd48c662",
+        "a3cb45ccd5df57b9",
+        "cda50568af36d6b3"
+      ]
+    },
+    {
+      "headline_id": "1b25cd49fd6877c7",
+      "filename": "1b25cd49fd6877c7.txt",
+      "original_headline": "Democratic Sen. Tammy Baldwin Weighs In As Facebook CEO Testifies Before Congress",
+      "page_title": "Democratic Sen. Tammy Baldwin Weighs In As Facebook CEO Testifies Before Congress",
+      "source_url": "https://www.npr.org/2018/04/10/601268173/democratic-sen-tammy-baldwin-weighs-in-as-facebook-ceo-testifies-before-congress",
+      "author": null,
+      "publication_date": "2018-04-10T17:21:00-04:00",
+      "body_words": 894,
+      "content_type": "Article introduction plus full news-program transcript",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [
+        "Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+      ],
+      "sha256": "9fbd38c7cb45b5d3d082e8e6695136085e30555a337199b6ba75000e1eee79d3",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "1b25cd49fd6877c7"
+      ]
+    },
+    {
+      "headline_id": "07266c1e9e42c1f8",
+      "filename": "07266c1e9e42c1f8.txt",
+      "original_headline": "Democratic Sen. Ed Markey Discusses Testimony From Facebook CEO Mark Zuckerberg",
+      "page_title": "Democratic Sen. Ed Markey Discusses Testimony From Facebook CEO Mark Zuckerberg",
+      "source_url": "https://www.npr.org/2018/04/10/601345532/democratic-sen-ed-markey-discusses-testimony-from-facebook-ceo-mark-zuckerberg",
+      "author": null,
+      "publication_date": "2018-04-10T19:24:00-04:00",
+      "body_words": 967,
+      "content_type": "Article introduction plus full news-program transcript",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [
+        "Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+      ],
+      "sha256": "d82a4bfedd5c7268eb533a129f3d2d3f6cf411dc0dd27f1ea696875f6878925b",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "07266c1e9e42c1f8"
+      ]
+    },
+    {
+      "headline_id": "a3770e9c1f8323fa",
+      "filename": "a3770e9c1f8323fa.txt",
+      "original_headline": "Boeing Chief To Face Grilling From Lawmakers On 737 Crashes",
+      "page_title": "Boeing Chief To Face Grilling From Lawmakers On 737 Crashes",
+      "source_url": "https://www.npr.org/2019/10/29/774306299/boeing-chief-to-face-grilling-from-lawmakers-on-737-crashes",
+      "author": null,
+      "publication_date": "2019-10-29T05:06:00-04:00",
+      "body_words": 1398,
+      "content_type": "Article introduction plus full news-program transcript",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [
+        "Copyright © 2019 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information."
+      ],
+      "sha256": "fdc73240b93d9942201a7365ab07e8616e9e33316a806da13bf9694cf9021f91",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "a3770e9c1f8323fa"
+      ]
+    },
+    {
+      "headline_id": "f3253760e025a25e",
+      "filename": "f3253760e025a25e.txt",
+      "original_headline": "Wells Fargo Officials Resign Days Before They Were Set To Testify Before Congress",
+      "page_title": "Wells Fargo Officials Resign Days Before They Were Set To Testify Before Congress",
+      "source_url": "https://www.npr.org/2020/03/09/813632098/wells-fargo-board-members-resign-days-before-set-to-testify-before-congress",
+      "author": "Brakkton Booker",
+      "publication_date": "2020-03-09T12:30:49-04:00",
+      "body_words": 667,
+      "content_type": "Written news article",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [],
+      "sha256": "25d7e5f216a6abe72bda341ae9ae4189913e0fdfc72c55a1dc214f99207b2fd6",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "f3253760e025a25e",
+        "6a82fe525954c4cf"
+      ]
+    },
+    {
+      "headline_id": "9c40208645235ec2",
+      "filename": "9c40208645235ec2.txt",
+      "original_headline": "Facebook's Mark Zuckerberg Will Testify Before Congress On April 10 and 11",
+      "page_title": "Facebook's Mark Zuckerberg Will Testify Before Congress On April 10 And 11",
+      "source_url": "https://www.npr.org/sections/thetwo-way/2018/04/04/599394175/facebooks-mark-zuckerberg-will-testify-in-congress-on-april-11",
+      "author": "Brett Neely, Barbara Campbell",
+      "publication_date": "2018-04-04T09:42:00-04:00",
+      "body_words": 251,
+      "content_type": "Written news article",
+      "rights_basis": "Explicit limited personal noncommercial single-copy permission; retain notices and unchanged content; no republication or AI training.",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": [],
+      "sha256": "aaa8cbfb89fd1a08667e0b62477c601721b6990b232f3130f5c5097ffb1551fe",
+      "original_match_quality": "high",
+      "source_match_notes": "Title and date manually checked against supplied URL.",
+      "headline_ids_with_same_source_url": [
+        "defd742f9b747f59",
+        "9c40208645235ec2",
+        "dcd12976a43d9287",
+        "342418472983d019",
+        "684b3fca980e023d",
+        "6672e454c65245be",
+        "bea0114de43452a7",
+        "bb5674c3bf9e6698",
+        "ec8b7539b42f44a4",
+        "13b4622f71d81612",
+        "ac39aa1267dcb3a6",
+        "ea84f38a9cf0d22b",
+        "7fe41441bbc04b36",
+        "2b9ec7043b42575c",
+        "601da945439dca64",
+        "82ca699689d6d7c7",
+        "67b2f25945e910c7",
+        "e006d3665ac60011",
+        "094b5f233a33d15e",
+        "84bc4715e493df19",
+        "abde42af5c151767"
+      ]
+    },
+    {
+      "headline_id": "add878cbf2a98ccd",
+      "filename": "add878cbf2a98ccd.txt",
+      "original_headline": "Live Comey testifies before Senate committee",
+      "page_title": "James Comey Testifies Before Senate Committee In Russia Investigation",
+      "source_url": "https://www.npr.org/2017/06/08/532120190/james-comey-testifies-before-senate-committee-in-russia-investigation",
+      "author": null,
+      "publication_date": "2017-06-08T16:31:05-04:00",
+      "body_words": 325,
+      "content_type": "Article text",
+      "rights_basis": "One local copy for personal noncommercial use only; no redistribution or AI training",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "b7903ba39056c7bbfb7900cc39ec72622dd5024825dbe893f5b4d0acd382f263",
+      "original_match_quality": "medium",
+      "source_match_notes": "Workbook URL downloaded as supplied. Same 2017-06-08 Comey Senate hearing. Page is NPR's complete 59-second radio news report about the investigations following the hearing, not a transcript of the hearing itself. Original headline contains Live; actual source title/date retained.",
+      "headline_ids_with_same_source_url": [
+        "add878cbf2a98ccd"
+      ]
+    },
+    {
+      "headline_id": "ef97949630e91d6a",
+      "filename": "ef97949630e91d6a.txt",
+      "original_headline": "Equifax CEO Richard Smith Is Out Days Before Congressional Hearing",
+      "page_title": "Equifax CEO Richard Smith Resigns After Backlash Over Massive Data Breach",
+      "source_url": "https://www.npr.org/2017/09/26/553799200/equifax-ceo-richard-smith-resigns-after-backlash-over-massive-data-breach",
+      "author": null,
+      "publication_date": "2017-09-26T16:29:00-04:00",
+      "body_words": 947,
+      "content_type": "Article text",
+      "rights_basis": "One local copy for personal noncommercial use only; no redistribution or AI training",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "5e43a1158e92e03733d9c4406e48529ee5a6ee129b3f3159afe295d5f5f5be74",
+      "original_match_quality": "medium",
+      "source_match_notes": "Workbook URL downloaded as supplied. Actual page is NPR Chris Arnold radio report on the same 2017-09-26 Equifax CEO resignation. Wording differs from workbook headline; original source equivalence not established.",
+      "headline_ids_with_same_source_url": [
+        "ef97949630e91d6a"
+      ]
+    },
+    {
+      "headline_id": "95a22d75f841b8a5",
+      "filename": "95a22d75f841b8a5.txt",
+      "original_headline": "WATCH: Facebook CEO Mark Zuckerberg testifies",
+      "page_title": "Mark Zuckerberg Tells Senate: Election Security Is An 'Arms Race'",
+      "source_url": "https://www.npr.org/sections/thetwo-way/2018/04/10/599808766/i-m-responsible-for-what-happens-at-facebook-mark-zuckerberg-will-tell-senate",
+      "author": null,
+      "publication_date": "2018-04-10T14:30:00-04:00",
+      "body_words": 2120,
+      "content_type": "Article text",
+      "rights_basis": "One local copy for personal noncommercial use only; no redistribution or AI training",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "771414ed8e09655e8a3404743a86bf6f1ae16f585fe44976b4c497962cfbf627",
+      "original_match_quality": "medium",
+      "source_match_notes": "Workbook URL downloaded as supplied. Same 2018-04-10 Senate hearing; page is a live-hearing article subsequently updated at 7:35 p.m. ET, with a changed headline.",
+      "headline_ids_with_same_source_url": [
+        "95a22d75f841b8a5",
+        "70e83950807cda44",
+        "c38efe7029ebff20",
+        "10bfd5e3c95d2b4f",
+        "d76db1392935e61d",
+        "c9057a7d2200a94f",
+        "3faa676660901bb9",
+        "ae022408d96399cd",
+        "ee1cfbd7d7e5ca4f",
+        "bef2aa043d42ea59",
+        "2178da4afc908972"
+      ]
+    },
+    {
+      "headline_id": "e620f6b398fdedaa",
+      "filename": "e620f6b398fdedaa.txt",
+      "original_headline": "Zuckerberg faces grilling as skeptical House panel hears case for Libra digital currency",
+      "page_title": "Facebook CEO Zuckerberg Faces Lawmakers' Questions On Digital Currency And More",
+      "source_url": "https://www.npr.org/2019/10/23/772775813/facebook-ceo-zuckerberg-faces-lawmakers-questions-on-digital-currency-and-more",
+      "author": null,
+      "publication_date": "2019-10-23T16:37:00-04:00",
+      "body_words": 830,
+      "content_type": "Article text",
+      "rights_basis": "One local copy for personal noncommercial use only; no redistribution or AI training",
+      "rights_url": "https://www.npr.org/about-npr/179876898/terms-of-use",
+      "copyright_notice": null,
+      "sha256": "aefb6a79110a34a36da5a032f9009d5de92b8544737fdecc360a3316b4c10be2",
+      "original_match_quality": "low",
+      "source_match_notes": "Workbook URL downloaded as supplied. NPR radio report published 2019-10-23; workbook headline dated 2019-10-24. Same Libra hearing, but original outlet/article identity not established.",
+      "headline_ids_with_same_source_url": [
+        "e620f6b398fdedaa"
+      ]
+    }
+  ],
+  "skipped_candidates": [
+    {
+      "headline_id": "754f73869a71654f",
+      "url": "https://techcrunch.com/2018/04/09/this-is-mark-zuckerbergs-prepared-statement-for-congress/",
+      "status": "skipped_embedded_core_statement_unavailable"
+    },
+    {
+      "headline_id": "7e555ca7ea48a80f",
+      "url": "https://www.npr.org/2018/04/05/599707017/facebook-ceo-zuckerberg-to-testify-before-congress",
+      "status": "skipped_date_mismatch",
+      "reason": "NPR source dated8 daysafterheadline; removed only newlygenerated file before delivery.",
+      "source_match_notes": "Workbook URL downloaded as supplied. NPR interview transcript published 2018-04-05; workbook headline dated 2018-03-28 (8-day difference). Generic headline matches, but publication date and original outlet/article differ."
+    }
+  ]
+}

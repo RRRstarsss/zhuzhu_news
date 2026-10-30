@@ -1,0 +1,45 @@
+What to expect when Twitter CEO Jack Dorsey testifies to Congress
+
+Headline ID: f5aff96c39c26948
+Source URL: https://www.engadget.com/2018-09-04-jack-dorsey-sheryl-sandberg-twitter-facebook-congress-hearings-preview.html
+Published: 2018-09-04T20:00:00+00:00
+
+And Facebook’s Sheryl Sandberg, too.
+
+Add Engadget on Google:
+
+Google Discover
+
+Nearly five months after Facebook co-founder and CEO Mark Zuckerberg testified before Congress, it is now turn for Twitter boss Jack Dorsey to do the same. On September 5th, he will take the witness stand twice on Capitol Hill, first in front of the Senate Intelligence Committee and then the House Energy and Commerce Committee. Dorsey will be alongside Facebook's chief operating officer Sheryl Sandberg for the Intel Committee's "Foreign Influence Operations' Use of Social Media Platforms" hearing, followed by a solo appearance in the Energy and Commerce Committee's own, entitled "Twitter: Transparency and Accountability."
+
+1234
+
+Dorsey's congressional hearings are long overdue, considering the significant role Twitter played in Russia's meddling of the 2016 US presidential election. That's one of the topics Zuckerberg was grilled on by members of Congress earlier this year. Although Twitter wasn't exploited to the same level as Facebook (which exposed 126 million Americans to Russian-backed pages), the company did discover more than 2,500 accounts in 2016 linked to the Internet Research Agency (IRA), the Kremlin's notorious digital army of bots and trolls.
+
+Last January, Twitter revealed that the damage was actually larger than originally thought, announcing that 1.4 million of its users interacted with nearly 4,000 Russian spam accounts during the 2016 election. This included people who retweeted, quoted, replied to, mentioned or liked tweets from these accounts, though it still left out those who saw messages from the IRA on the site but otherwise didn't interact them. The Senate Intelligence Committee will ask Dorsey about what steps his team is taking to crack down on these bad actors, not just from Russia but also other countries that are trying to create discourse between Americans.
+
+Facebook's Sheryl Sandberg.
+
+The same goes for Sandberg, who's been leading the charge in Facebook's transparency efforts since the 2016 election and the Cambridge Analytica scandal that may have affected up to 87 million users. Following Zuckerberg's testimony in Congress, where he answered questions about both of these issues, Facebook has been focusing on creating features that it hopes will help it avoid further controversies. In the lead up to the 2018 US midterm elections, the company launched an ad-transparency tool that lets users know who's paying for political ads Facebook and Instagram, as well as when Pages on the site are running a paid political advertisement. Similarly, Twitter rolled out its Ad Transparency Center, which allows users to search for and see who is buying ads.
+
+A spokesperson for Senator Warner (D-VA), vice chairman of the Senate Intelligence Committee, told Engadget that tomorrow's hearing should be much more prospective than retrospective. Rather than spending time rehashing the 2016 election and what could've been done differently, the focus will be on finding policy solutions to address many of the challenges Facebook and Twitter are dealing with, including foreign interference, the spread of misinformation and protecting users' privacy. Talks of regulation will come up again, the spokesperson said, noting that at this point it's only a matter of time before Congress starts imposing new rules on these social media giants. The questions won't be exactly the same for Dorsey and Sandberg, however: Facebook's will be more about user data and what it's doing to keep it safe, while Twitter's are expected to touch on the abuse of the platform more generally, the spokesperson said.
+
+Alphabet's CEO and Google co-founder Larry Page was invited to join Dorsey and Sandberg, but he declined, which the Intelligence Committee views as a "grave mistake" since it shows that the company isn't taking these issues seriously. Senators could've easily subpoenaed him or Google CEO Sundar Pichai, but people like Warner felt it wasn't worth it if the company didn't want to participate voluntarily. The goal of the hearing is for tech giants and Congress to come up with solutions collectively, and if Google doesn't want to be a part of it, Warner feels like that's simply reprehensible. Google did offer to send its top lawyer, but the Committee wasn't interested in that.
+
+Mark Zuckerberg testifies before Congress.
+
+AFP/Getty Images
+
+As for the House Energy and Commerce Committee hearing, which Dorsey will be appearing at alone, that will focus on Twitter's content-filtering practices and its decision-making process, which members of the House believe is "opaque." The hearing is going to be an opportunity for Dorsey to explain how Twitter's algorithms work how it handles the type of content that appears on its site, a spokesperson for the House Energy and Commerce Committee said. Of course, Twitter has been under fire after being accused by President Trump of shadow-banning (aka censoring) members of the Republican party, so expect that to be a hot topic of discussion tomorrow — even if there's no proof that it's actually doing this on purpose.
+
+Dorsey will also be asked about how Twitter ensures that trolls don't abuse its site, if it considers itself a media company and whether further changes to Section 230 (a law that shields tech firms from liability for content posted by their users) are warranted in order to "encourage" more transparency and accountability. But, according to documents reviewed by Engadget, what the Energy and Commerce Committee really wants to know is how Twitter ensures that it doesn't "stifle freedom of expression and open dialogue for views that might be unpopular with its owners or employees."
+
+Twitter is, of course, the only major tech company that didn't ban conspiracy theorist Alex Jones for spreading misinformation. It took only taking limited action (read: one-week ban) after facing serious public backlash. In a prepared statement for the House Energy and Commerce Committee, Dorsey said Twitter isn't guided by "political ideology," noting that "in fact, from a simple business perspective and to serve the public conversation, Twitter is incentivized to keep all voices on the platform."
+
+Still, let's hope Dorsey says more than he did during his recent apology tour on TV. If not, we may see another member of Congress calling these new round of congressional social media hearings nothing but a "stupid" sideshow.
+
+Images: Getty Images (Sheryl Sandberg); LightRocket via Getty Images (Trump)
+
+© 2026 Static Media. All Rights Reserved
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

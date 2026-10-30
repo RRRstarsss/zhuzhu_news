@@ -1,0 +1,20 @@
+Congressional hearings signal growing antitrust problems for big tech
+
+Headline ID: 45f8c6341e3ea53d
+Source URL: https://arstechnica.com/tech-policy/2019/06/congressional-hearings-signal-growing-antitrust-problems-for-big-tech/
+Author: Timothy B. Lee
+Published: 2019-06-04T17:19:15+00:00
+
+The House Antitrust Subcommittee will conduct a series of hearings on the growing power of big technology companies, Chairman David Cicilline (D-R.I.) announced on Monday. It’s the latest sign of growing interest in antitrust action against the largest technology companies—especially Google, Facebook, Amazon, and Apple.
+
+“After four decades of weak antitrust enforcement and judicial hostility to antitrust cases, it is critical that Congress step in to determine whether existing laws are adequate to tackle abusive conduct by platform gatekeepers or whether we need new legislation to respond to this challenge,” Cicilline said in a press release.
+
+The announcement came shortly after news about a deal between the Department of Justice and the Federal Trade Commission, which share responsibility for antitrust enforcement. Under the deal, the Justice Department will focus on investigating Google and Apple, while the FTC will be responsible for Facebook and Amazon. The Justice Department has reportedly begun an investigation of Google; it’s not known if the agencies have begun investigating the other firms.
+
+Facebook, Google, and Amazon stock all saw big declines on Monday.
+
+These companies have become so large that it’s difficult to predict which concerns will ultimately attract the attention of officials in Congress and the executive branch. Facebook runs the world’s largest social network and owns Instagram and WhatsApp. Google dominates the search business and also owns YouTube and Android. Amazon leads in the cloud computing and e-book markets and owns retailers from Whole Foods to Zappos. If a company uses its dominance in one market to prop up its product in another market, that could run afoul of antitrust laws.
+
+
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

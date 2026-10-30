@@ -1,0 +1,39 @@
+In Senate hearing, Zuckerberg faces blame over violence in Myanmar
+
+By Taylor Hatmaker
+1:44 PM PDT · April 10, 2018
+
+While the recent Cambridge Analytica data privacy scandal is the main focus for American lawmakers questioning Facebook’s Mark Zuckerberg today, the company’s record beyond the U.S. raises even more alarms.
+
+During the hearing, Vermont Senator Patrick Leahy brought up the company’s role in the ongoing ethnic violence in Myanmar, citing one incident where death threats against a Muslim journalist did not violate the platform’s rules. In Myanmar, journalists are regularly arrested and even killed for reporting on the government’s activities.
+
+“Six months ago I asked your general counsel about Facebook’s role as a breeding ground for hate speech against Rohingya refugees,” Leahy said. “Recently, U.N. investigators blamed Facebook for playing a role in inciting the possible genocide in Myanmar, and there has been genocide there.”
+
+Using screenshots mounted on a poster, the Senator cited a specific threat calling for the death of Muslim journalists in the country:
+
+That threat went straight through your detection systems. It spread very quickly and it took attempt after attempt after attempt and the involvement of civil society groups to get you to remove it. Why couldn’t it be removed within 24 hours?
+
+Leahy interrupted Zuckerberg when he began to opine about the country’s tragedy. “We all agree it’s terrible,” Leahy said, pressing the Facebook founder for substantive answers.
+
+Zuckerberg cited the language barrier as one of the main obstacles to proper moderation of hate speech and calls for violence.
+
+“Hate speech is very language specific. It’s hard to do it without people who speak the local language and we need to ramp up our effort there dramatically,” Zuckerberg said.
+
+He mentioned the company’s plan to hire “dozens” of Burmese language content reviewers as the first part of a three-pronged approach in Myanmar, also noting a partnership with civil society groups to identify hate figures in the country rather than focusing on removing individual pieces of content.
+
+Third, Zuckerberg stated that Facebook is “standing up a product team to do specific product changes in Myanmar” and other countries with similar situations, though he did not delve into the specifics of those changes.
+
+Leahy’s line of questioning about Facebook’s influence in Myanmar is not speculative. In March, United Nations investigators concluded that disinformation campaigns facilitated by Facebook have played a “determining role” in inciting violence against the country’s Rohingya Muslim minority ethnic group.
+
+As Marzuki Darusman, chairman of the U.N. independent international fact-finding mission on Myanmar, stated those findings:
+
+[Social media] has …substantively contributed to the level of acrimony and dissension and conflict, if you will, within the public. Hate speech is certainly of course a part of that. As far as the Myanmar situation is concerned, social media is Facebook, and Facebook is social media.
+
+On April 5, a group of six NGOs working in the country addressed a critical letter to Zuckerberg, citing “issues that have been rife on Facebook in Myanmar for more than four years now,” criticizing the company for crediting its own systems with catching violent messages when in fact it had been these organizations doing the moderation work. When Zuckerberg responded to that letter just a day before he appeared before Congress, the NGO group dismissed his apology as “grossly insufficient.” It’s unlikely that they’ll be pleased with his lackluster testimony on the issue.
+
+Last October, Facebook told TechCrunch that it works with NGOs and the local community in Myanmar to communicate its policies there, though its efforts seemed fairly toothless. At the time, the focus of that initiative was to “empower people in Myanmar to share positive messages online,” and one component offered local education on fake news. But by October of last year, incitements to violence on Facebook were already being connected to real-world acts against the country’s Rohingya population — a group facing systemic violence that’s widely regarded as a genocide.
+
+For Facebook users in Myanmar, a country in which the platform is synonymous with the internet itself, the stakes couldn’t be higher. With the NGOs Facebook relies on in the Southeast Asian country deeply dissatisfied, it’s clear that words alone will no longer suffice.
+
+Source: https://techcrunch.com/2018/04/10/myanmar-facebook-zuckerberg-senate-hearing-genocide/
+© 2026 TechCrunch Media LLC.

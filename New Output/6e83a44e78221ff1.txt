@@ -1,0 +1,36 @@
+Facebook CEO Mark Zuckerberg Proposes Section 230 Tweaks As Social Media CEOs Prepare For Grilling In Congress
+
+Author: Jill Goldsmith
+Publisher: Deadline
+Published: March 24, 2021 3:33pm
+Published (source metadata): 2021-03-24T22:33:25+00:00
+Source URL: https://deadline.com/2021/03/mark-zuckerberg-section-230-jack-dorsey-twitter-sundar-pichai-google-congress-testimony-house-hearing-1234721236/
+Headline ID: 6e83a44e78221ff1
+
+Facebook chief executive Mark Zuckerberg laid out his most specific set of remedies yet for how the government should modify Section 230, a decades-old rule that gives Internet platforms like his sweeping legal immunity from all posted content.
+
+In prepared testimony ahead of an appearance on Capitol Hill Thursday, Zuckerberg suggested removing the blanket immunity that currently exists and linking liability to a company’s best practices in combatting questionable content.
+
+“Platforms should be required to demonstrate that they have systems in place for identifying unlawful content and removing it. Platforms should not be held liable if a particular piece of content evades its detection—that would be impractical for platforms with billions of posts per day—but they should be required to have adequate systems in place to address unlawful content,” he said. The definition of an “adequate system” could be proportionate to platform size, and set by a third-party, he suggested.
+
+He also said Congress should require more transparency, accountability and oversight of how companies make and enforce rules about content that is harmful but legal. “While this approach would not provide a clear answer to where to draw the line on difficult questions of harmful content, it would improve trust in and accountability of the systems and address concerns about the opacity of process and decision making within companies.”
+
+Zuckerberg has often called for federal changes to Section 230 but without as much specificity.
+
+He’ll be joined tomorrow by Twitter CEO Jack Dorsey and Sundar Pichai, chief of Google parent Alphabet, to testify at a joint hearing before members of two subcommittees of the House Committee on Energy and Commerce.
+
+Neither Dorsey nor Pichai echoed Zuckerberg on Section 230 reform. Dorsey’s prepared remarks acknowledged that fighting misinformation on Twitter requires innovative solutions and noted two the platform is investing in — Birdwatch and Bluesky.
+
+Pichai was the most adamant against any change to the current regime. His remarks called Section 230 “foundational to the open web” and beneficial to consumers.
+
+The three CEOs also ticked off the steps they’ve made to secure their platforms from Covid-19, election and other misinformation, and extremist content including, increasingly, from white nationalists. Facebook has expanded its ban on hate groups to “militarized social movements and violence-inducing conspiracy networks” like QAnon. To date, it’s banned over 250 white supremacist groups and 890 militarized social movements and prohibits QAnon and militia groups from organizing on the platform. Zuckerberg said Facebook remove Groups that represent QAnon even if they contain no violent content.
+
+New York Attorney General Letitia James, as part of a coalition of 12 attorneys general, today called on Facebook and Twitter today to take stronger measures to stop the spread of Covid-19 vaccine disinformation being spread by anti-vaxxers on their social media platforms.
+
+The CEOs also stressed the good their platforms do from get-out-the-vote initiatives to guidance on vaccine centers. Congress will likely opine on how they think the good balances out the bad — but the title of the hearing, Disinformation Nation: Social Media’s Role in Promoting Extremism and Misinformation — doesn’t sound like a cakewalk.
+
+To watch live, tune in at noon ET Thursday here.
+
+Deadline is a part of PMX Global, LLC, a subsidiary of Penske Media Corporation. © 2026 Deadline Hollywood, LLC. All rights reserved.
+
+Personal, non-commercial study copy. Publisher terms: https://www.pmc.com/terms-of-use

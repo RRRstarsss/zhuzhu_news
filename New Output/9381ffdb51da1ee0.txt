@@ -1,0 +1,44 @@
+Apple’s star witness will testify in Qualcomm case after all
+
+Headline ID: 9381ffdb51da1ee0
+Source URL: https://www.cnet.com/tech/tech-industry/apples-star-witness-will-testify-in-qualcomm-case-after-earlier-backing-out/
+Author: Richard Nieva
+Published: 2019-03-08T21:25:00-05:00
+
+A key witness in Apple’s patent case against Qualcomm will testify at the trial after all, a development that follows the iPhone maker saying yesterday that he was no longer intending to appear.
+
+The two tech giants are warring over three patents that Qualcomm says Apple infringed when it developed some versions of its iPhone. One of those patents allows a smartphone to quickly connect to the internet once the device has booted up. Apple has argued that one of its then-engineers, Arjuna Siva, co-invented the technology and should be named on the patent.
+
+Siva had been expected to testify at the trial, which is taking place in San Diego. But on Thursday, Apple lawyer Juanita Brooks said the engineer wouldn’t appear on the advice of newly retained counsel.
+
+More from CNET
+
+On Friday, the situation changed again, when Brooks said Apple had filed subpoenas for Siva and Matt Warren, his counsel. Siva, Brooks said, had gotten yet another new attorney, who was amenable to having him testify. Siva, who now works at Google, is expected to testify in court on Monday.
+
+The patent case is just one part of a wide-ranging legal saga between the two companies. Two years ago, the Federal Trade Commission, aided by tech giants tincluding Apple and Intel, accused Qualcomm of operating a monopoly in modem chips. The agency argued Qualcomm’s high royalty rates stopped competitors from entering the market, which has driven up the cost of phones and hurt consumers. That trial took place in January, and the parties are currently waiting for a decision.
+
+The San Diego trial, presided over by US District Judge Dana Sabraw, is more technical than the other parts of the legal battle. But it could have implications for how your phone is made and how much it costs.
+
+Aside from the boot-up patent, the companies are fighting over two others. One of them deals with graphics processing and battery life. The third lets apps on your phone download data more easily by directing traffic between the apps processor and the modem. On Friday, Qualcomm said it wants $31 million in damages from Apple. That’s based on $1.40 per allegedly infringing iPhone.
+
+On Thursday, Apple initially alleged witness tampering because Siva’s new counsel was a former attorney at Quinn Emanuel, the law firm now representing Qualcomm.
+
+Originally published March 8, 9:27 a.m. PT. Update, 1:25 p.m.: Adds information about damages.
+
+Richard Nieva
+
+Former senior reporter
+
+Richard Nieva was a senior reporter for CNET News, focusing on Google and Yahoo. He previously worked for PandoDaily and Fortune Magazine, and his writing has appeared in The New York Times, on CNNMoney.com and on CJR.org. See full bio
+
+The Latest from Richard
+
+• Google scraps plans to manage people’s bank accounts
+
+• Google adds context to search results, brings more wildfire info to Maps
+
+• ‘Don’t be evil’: Google’s iconic mantra comes into question at labor trial
+
+© 2026 CNET, a Ziff Davis company. All rights reserved.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

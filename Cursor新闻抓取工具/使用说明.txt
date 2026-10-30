@@ -1,0 +1,133 @@
+Cursor 新闻抓取工具
+
+适用：当前这台 Mac，Python 3.9 或更高版本。无需 OpenAI API Key，也不依赖 Codex 服务。
+程序读取工具文件夹上一级的 news_urls(1).xlsx，处理 headline_urls 工作表。
+
+新增：不依赖 sources.json 的通用模式
+
+在 Cursor 终端先预览第2–501行（不联网）：
+./.venv/bin/python crawl_news.py --all-sources --dry-run --start-row 2 --end-row 501
+
+依次尝试该范围内尚未整理的文章并生成TXT：
+./.venv/bin/python crawl_news.py --all-sources --download --start-row 2 --end-row 501 --limit 500 --max-requests 500
+
+--all-sources 让程序完全不读取 sources.json；该文件可以保留，无需继续逐站添加域名。
+已有规则的网站优先使用原提取器，其余网站使用HTML通用正文识别。
+默认仍按表格实际行号顺序处理；跳过已有103篇的ID和相同URL，并检查正文重复。
+保存到上一级 New Output/headline_id.txt，不覆盖原有文件。
+--limit 500 是成功数量目标，--max-requests 500 是最多尝试的不同初始URL数量，均不表示保证成功500篇。
+范围内总共500行，已有、重复、无效和不可访问的行都不算新增；处理到第501行会结束。
+因此实际新增少于500时，程序输出实际数量并以退出码2结束，这是“目标未全部达到”的提示。
+通用规则不能保证所有网页正文完整；提取方法和警告写入 provenance/cursor_runs/，请抽查TXT。
+来源匹配非high、标题/日期不符、付费或登录限制、验证码、403/429仍会记录并跳过。
+通用模式不代表已核实各网站的下载许可，也不会解除网站本身的访问限制。
+
+如果只想快速检查哪些网址可访问（不保存文章正文）：
+./.venv/bin/python crawl_news.py --probe-all --start-row 2 --end-row 501 --max-requests 500 --workers 4
+
+此模式也不读取sources.json，跳过已有ID及相同URL，同一URL合并为一次检查。
+不同网站最多4路并发，同站串行限速；CSV仍按原表行序记录全部所选行。
+结果在本工具 runs/access_日期时间.csv 与 .jsonl，包含HTTP状态、最终URL、网页标题和访问提示。
+HTTP 200 只说明服务器返回了页面，不保证新闻全文可提取；本模式不会产生新闻TXT。
+--workers 仅用于访问检查，范围1–8。--limit 不用于访问检查。
+--max-requests 不包含重定向跳数；--timeout 是每次socket操作超时，不是整个任务总时长上限。
+两种联网模式都仅访问HTTP(S)，使用正常证书验证。默认沿用本机HTTP(S)代理；没有代理时使用公网直连。
+当前Mac的代理使用198.18.x.x虚拟DNS地址，已做兼容。代理设置来自本机，不来自Excel。
+如需忽略本机代理并直连，可加 --no-system-proxy；在虚拟DNS网络下可能无法直连。
+
+一、在 Cursor 中打开
+
+选择 File → Open Folder，打开：
+/Users/fanfandemacpro/Documents/GitHub/朱珠新闻信息处理/Cursor新闻抓取工具
+
+迁移到新位置后，请先重建工具文件夹内的 .venv 并安装 requirements.txt 中的依赖，步骤见第六节。
+完成重建后，日常运行无需重复安装。
+打开 Cursor 的 Terminal（终端），先运行预览：
+
+./.venv/bin/python crawl_news.py --dry-run --limit 20
+
+预览会显示已有文章数和可尝试的行号，并生成 runs/preview_日期时间.csv。
+它不会联网，也不会生成新闻 TXT。
+
+确认后，运行：
+
+./.venv/bin/python crawl_news.py --download --limit 20
+
+也可在 Cursor 中使用 Terminal → Run Task，选择“预览待处理新闻（不联网）”或“下载最多20篇新新闻”。
+不用在聊天窗口粘贴代码；在终端运行上述命令即可。
+
+二、处理顺序和数量
+
+程序按 Excel 工作表当前的实际行号，从上到下逐行尝试，默认从第2行（表头之后）开始。
+成功、失败和跳过都记录原始 Excel 行号。失败后继续下一行，不会把失败条目标为完成。
+--limit 20 指“目标新增20篇成功文本”，不代表“表格前20行全部成功”。
+每次默认最多请求40个网页，间隔至少3秒；未达到目标会如实输出实际成功数并返回退出码2。
+已完成目标返回0；可以用 Ctrl+C 中断，已成功保存的文件保留。
+
+只处理第2–101行：
+./.venv/bin/python crawl_news.py --download --start-row 2 --end-row 101 --limit 20
+
+目标新增60篇，最多请求100个页面：
+./.venv/bin/python crawl_news.py --download --limit 60 --max-requests 100
+
+三、输出与去重
+
+默认新闻保存到上一级的 New Output，以 headline_id.txt 命名，UTF-8编码。
+每篇保留标题、作者（若网页提供）、发表日期、正文、来源和可取得的版权声明。
+程序扫描 Current Output/txt、New Output 和自定义输出目录，自动跳过已有文件。
+会从当前Excel反查原有103篇的URL，排除同一URL对应的其他headline_id，也检查正文近似重复。
+文件使用独占方式创建，已有TXT不会被覆盖。再次运行会自动跳过上次成功保存的文章。
+逐条运行记录在本工具的 runs/*.jsonl；成功来源清单在 New Output/provenance/cursor_runs/。
+工具不会修改原Excel，也不会改动原有103篇新闻。
+
+其他项目或输出路径：
+./.venv/bin/python crawl_news.py --project-dir "/你的项目文件夹" --output "/你的输出文件夹" --dry-run
+
+四、默认配置模式和实际限制
+
+这是一版把本次已经验证过的网页提取规则整理成的独立程序，不是适用于所有网站的万能爬虫。
+不加 --all-sources 时，sources.json 记录当前配置的站点及此前核对的条款链接。
+默认只自动处理工作簿标为 high 的来源匹配记录；low/medium 仍需人工判断是否指向正确文章。
+未支持/未核对许可的站点、付费墙、登录页、验证码、403/429、JavaScript才能显示全文的页面，都会跳过或记录需人工检查。
+isAccessibleForFree=false 的页面也会记录为需要浏览器确认；此前曾经人工浏览器确认的页面不会被当作未来页面一律免费。
+不读取隐藏付费正文，不绕过访问限制，不把网页摘要冒充完整文章。
+短简讯可以完整保存，但不为视频生成不存在的文字稿。
+标题相似度、日期差异和正文重复检查是筛查手段，不能替代最终人工校对。
+本轮只改进并测试工具，没有新增批量下载；原有103篇保持不变。
+默认配置模式下可自动尝试的新条目仍可能为0。使用上面的 --all-sources 命令可直接尝试未配置网站。
+通用提取失败时可再针对该网站调整 extractor.py；无须把每个网站先加入 sources.json。
+
+常见记录状态：
+existing_id：已有对应TXT。
+duplicate_url：同一网址已有文章。
+source_match_needs_review：Excel匹配质量不是high，需人工判断。
+unreviewed_source：当前未配置该站点。
+invalid_url：表格中的URL无效或只是相对跳转地址。
+failed：见reason字段，可能是正文未找到、需要浏览器确认、标题或日期不匹配。
+http_403/http_429：站点拒绝访问或限流，本轮停止请求该站。
+saved：本次成功保存。
+
+五、代码文件
+
+crawl_news.py：读取Excel、顺序调度、HTTP下载、去重、保存和运行记录。
+extractor.py：站点专用和通用正文提取、访问限制识别。
+sources.json：默认配置模式的站点与来源记录；通用模式不读取。
+check_urls.py：不依赖配置的URL访问检查，只保存状态和标题。
+public_http.py：公网连接、正常TLS验证和重定向处理的网络基础。
+requirements.txt：固定的运行依赖。
+tests/：本地自动测试，不下载新闻。
+.vscode/：Cursor的项目解释器和运行任务设置。
+
+测试命令：
+./.venv/bin/python -m unittest discover -s tests -v
+
+六、以后迁移或重新安装
+
+只需复制整个工具文件夹的代码和配置；不要把 .venv 当作可移植环境。
+在新位置重新创建环境并安装依赖：
+python3 -m venv .venv
+./.venv/bin/python -m pip install -r requirements.txt
+
+Python官方虚拟环境说明：https://docs.python.org/3/library/venv.html
+openpyxl只读工作簿说明：https://openpyxl.readthedocs.io/en/stable/optimized.html
+lxml HTML解析说明：https://lxml.de/parsing.html

@@ -1,0 +1,72 @@
+Microsoft, Google trade barbs during congressional hearing on news industry
+
+Headline ID: b6518d86c2e0fdd1
+Source URL: https://www.cnet.com/culture/microsoft-google-trade-barbs-amid-congressional-hearing-on-news-industry/
+Author: Ian Sherr
+Published: 2021-03-12T18:46:00-05:00
+
+Microsoft President Brad Smith says Google’s massive success in online advertising has come at a cost: The journalism industry is rapidly shrinking as Google swallows up tens of billions of dollars in advertising revenue each quarter.
+
+On Friday, Smith testified to the US House Committee on the Judiciary’s antitrust subcommittee that Microsoft supports a proposed law to offset that imbalance. The new bill would, effectively, let newspapers collectively bargain with tech companies over news content, something that typically isn’t allowed.
+
+“It’s perfectly clear that what was previously advertising revenue for newspapers has instead moved to advertising revenue for tech companies,” Smith told the subcommittee.
+
+More from CNET
+
+The hearing came as Congress considers the Journalism Competition Preservation Act, which would allow news organizations to collectively bargain with tech giants over payments for stories that appear on the tech firms’ sites. The proposed bill so far appears to have bipartisan support in both the House of Representatives and the Senate.
+
+Google published a statement as the hearing got underway, saying Microsoft’s involvement is self-serving, potentially hurting one of its competitors in productivity apps, web browsers and search.
+
+“Unfortunately, as competition in these areas intensifies, they are reverting to their familiar playbook of attacking rivals and lobbying for regulations that benefit their own interests,” Google’s head of government affairs, Kent Walker, wrote in his statement. The search giant also said Microsoft’s interests come as the world wrestles with the fallout from a series of recent hacks that impact its products.
+
+Despite the sideline squabbling between the two tech giants, the hearing focused primarily on the question of how to handle the news industry’s continued destruction. Newspaper circulation is the lowest it’s been in at least 60 years, according to surveys by Pew researchers last year. Newspaper revenues have similarly declined.
+
+Both sides agreed that the rise of big tech is at least partly to blame. More than three quarters of Americans get their news online through either Facebook or Google, the committee noted. Google itself is home to two of the most popular websites on the planet (its search engine and YouTube, which it owns), and it’s become the largest single beneficiary of advertising dollars on the web.
+
+What the sides don’t entirely agree on is what to do. “It’s clear that we must do something in the short term to save trustworthy journalism before it’s lost forever,” the subcommittee’s Democratis chairman, Rep. David Cicilline, said during the hearing Friday.
+
+Australian fallout
+
+The hearing came in many ways as a response to Google’s and Facebook’s actions in Australia when the country was considering a similar law aimed at helping the news industry by forcing big tech companies to effectively pay for the news published on their platforms.
+
+In mid February, Facebook struck back, keeping Australian users (more than 25 million people live in the country) from sharing news. It also stopped Australian news organizations from sharing articles on its service. And in its aggressiveness, Facebook also accidentally blocked some Australian government pages, including those of the country’s official state health organization.
+
+Facebook said at the time that the proposed law “misunderstands” its relationship with news outlets, failing to take into account its role in driving readers to publishers. Publishers benefit from the social network, Facebook argued, because it “allows them to sell more subscriptions, grow their audiences and increase advertising revenue.” The company didn’t respond to a request for comment on the US hearing Friday.
+
+Google had threatened to pull its search product out of Australia, but it relented and struck agreements with major publishers including Rupert Murdoch’s News Corp.
+
+The retaliatory moves outraged lawmakers, who said it all proved that big tech needed to be held to account.
+
+The moves also had reverberations in the US, where legislators on Capitol Hill said they too believe something needs to be done.
+
+“This bill is a life support measure, not the answer for ensuring long term health of the news industry,” Cicilline said during the hearing. “We need an all-of-the-above approach to save journalism.”
+
+Ian Sherr
+
+Contributor and Former Editor at Large / News
+
+Ian Sherr (he/him/his) grew up in the San Francisco Bay Area, so he's always had a connection to the tech world. As an editor at large at CNET, he wrote about Apple, Microsoft, VR, video games and internet troubles. Aside from writing, he tinkers with tech at home, is a longtime fencer -- the kind with swords -- and began woodworking during the pandemic. See full bio
+
+The Latest from Ian
+
+• Apple Watch SE May Come in Plastics and Bright Colors
+
+• Intel Facing Possible Lawsuit Over Raptor Lake Chip
+
+• Spotify Now Says It Won’t Charge Non-Premium Listeners for Song Lyrics
+
+LATEST IN NEWS
+
+See all news
+
+AO3 Suffers Major Outage: Possibly No Fanfic for 2 Weeks or Longer
+
+Here’s Why You’re About to See More Ads in Google’s AI Overviews
+
+Remember Patrick Stewart by Streaming Star Trek, X-Men and Other Genre-Defining Roles
+
+The Massive DHS Breach Is Hacktivist Payback for Government Surveillance
+
+© 2026 CNET, a Ziff Davis company. All rights reserved.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

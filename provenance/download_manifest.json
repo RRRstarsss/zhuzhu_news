@@ -1,0 +1,464 @@
+{
+  "source_workbook": "news_urls(1).xlsx",
+  "source_sheet": "headline_urls",
+  "requested_article_count": 20,
+  "completed_article_count": 20,
+  "created_at": "2026-10-30T20:42:14+08:00",
+  "use_scope": "User confirmed personal learning or nonprofit research. No redistribution or commercial permission implied.",
+  "format": "UTF-8 plain text; original English article text; title/byline/date when available; source and rights information retained.",
+  "excluded_existing_headline_ids": [
+    "219f22863f883836",
+    "9688b6465b196bf2",
+    "a48e5372ff39cc4c"
+  ],
+  "selection": "Unique source URLs; manually matched titles; only articles with confirmed reproduction basis. No summaries substituted.",
+  "validation": {
+    "unique_ids": 20,
+    "unique_urls": 20,
+    "unique_texts": 20,
+    "overlap_existing_ids": 0,
+    "near_duplicate_pairs_over_0_65": 0
+  },
+  "articles": [
+    {
+      "headline_id": "e0ab5d11e0083444",
+      "filename": "e0ab5d11e0083444.txt",
+      "original_headline": "Committee to Hold Hearing with AbbVie CEO and Experts on Pricing Practices for Humira and Imbruvica",
+      "page_title": "Committee to Hold Hearing with AbbVie CEO and Experts on Pricing Practices for Humira and Imbruvica",
+      "source_url": "https://oversightdemocrats.house.gov/news/press-releases/committee-to-hold-hearing-with-abbvie-ceo-and-experts-on-pricing-practices-for",
+      "author": "U.S. House Committee on Oversight and Reform",
+      "publication_date": "2021-05-14",
+      "body_words": 443,
+      "sha256": "290d6bb61b4f8f61c4d7695a59c587ded9b80047caed2efade1324df270f059b",
+      "rights_basis": "U.S. federal government original press release, public domain",
+      "rights_url": null,
+      "copyright_notice": null,
+      "headline_ids_with_same_source_url": [
+        "e0ab5d11e0083444"
+      ],
+      "original_match_quality": "low",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "6b6671d4672b2a43",
+      "filename": "6b6671d4672b2a43.txt",
+      "original_headline": "HENSARLING : Committee Will Hold Hearing on Troubling Equifax Data Breach",
+      "page_title": "Hensarling: Committee Will Hold Hearing on Troubling Equifax Data Breach",
+      "source_url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=402303",
+      "author": "U.S. House Committee on Financial Services",
+      "publication_date": "2017-09-08",
+      "body_words": 96,
+      "sha256": "fbb48a060df0ecfe8f0f2253b71dd015e8addfd1d73c42aab1611a469b059479",
+      "rights_basis": "U.S. federal government original press release, public domain",
+      "rights_url": null,
+      "copyright_notice": null,
+      "headline_ids_with_same_source_url": [
+        "6b6671d4672b2a43",
+        "aa6fd9d34dea7fba",
+        "808826b0f77dbd45"
+      ],
+      "original_match_quality": "low",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "20424d423898dffa",
+      "filename": "20424d423898dffa.txt",
+      "original_headline": "Senators Markey, Klobuchar, Udall, Baldwin, Blumenthal Call for Senate Commerce Hearing on Proposed T-Mobile-Sprint Deal",
+      "page_title": "Senators Markey, Klobuchar, Udall, Baldwin, Blumenthal Call for Senate Commerce Hearing on Proposed T-Mobile-Sprint Deal",
+      "source_url": "https://www.markey.senate.gov/news/press-releases/senators-markey-klobuchar-udall-baldwin-blumenthal-call-for-senate-commerce-hearing-on-proposed-t-mobile-sprint-deal",
+      "author": "Senator Edward J. Markey",
+      "publication_date": "2019-01-24",
+      "body_words": 181,
+      "sha256": "86378dd9846717dd9218fe45d4a163a0d0e355efd8ea7f38033c1f8f8e9b0a6e",
+      "rights_basis": "U.S. federal government original press release, public domain",
+      "rights_url": null,
+      "copyright_notice": null,
+      "headline_ids_with_same_source_url": [
+        "20424d423898dffa"
+      ],
+      "original_match_quality": "low",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "43d74244f2f60480",
+      "filename": "43d74244f2f60480.txt",
+      "original_headline": "Facebook's Zuckerberg Faces Grilling on Capitol Hill",
+      "page_title": "Facebook's Zuckerberg Faces Grilling on Capitol Hill",
+      "source_url": "https://www.voanews.com/a/facebook-zuckerberg-faces-grilling-on-capitol-hill/4339285.html",
+      "author": "Michael Bowman; Ken Bredemeier",
+      "publication_date": "2018-04-09 (updated 2018-04-10)",
+      "body_words": 486,
+      "sha256": "ff4fefb041fb74a4e766e7a94bd976e7ed56af28e4e25daee8346e0a5150920a",
+      "rights_basis": "VOA-original public-domain text",
+      "rights_url": "https://www.voanews.com/p/5338.html",
+      "copyright_notice": null,
+      "headline_ids_with_same_source_url": [
+        "43d74244f2f60480",
+        "4c253e72c98abfca"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "0ab5cd31a49fd223",
+      "filename": "0ab5cd31a49fd223.txt",
+      "original_headline": "Congress Asked Mark Zuckerberg a Bunch of Really, Really Stupid Questions at the Libra Hearing",
+      "page_title": "Congress Asked Mark Zuckerberg a Bunch of Really, Really Stupid Questions at the Libra Hearing",
+      "source_url": "https://reason.com/2019/10/23/mark-zuckerberg-facebook-congress-hearing-libra/",
+      "author": "Robby Soave",
+      "publication_date": "2019-10-23",
+      "body_words": 490,
+      "sha256": "f2f2401ccbb2e849a3bd85ce91f546126b277caee8de6117af2c2a78a18bff6d",
+      "rights_basis": "Reason personal noncommercial single-copy download permission",
+      "rights_url": "https://reason.com/terms-of-use/",
+      "copyright_notice": null,
+      "headline_ids_with_same_source_url": [
+        "0ab5cd31a49fd223"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "49fa77aa4b01d3b3",
+      "filename": "49fa77aa4b01d3b3.txt",
+      "original_headline": "Chatting corporate greed with Mr. Monopoly, hero of the Equifax Senate hearing",
+      "page_title": "Chatting corporate greed with Mr. Monopoly, hero of the Equifax Senate hearing 🎩💸",
+      "source_url": "https://techcrunch.com/2017/10/04/the-monopoly-man-interview-equifax-forced-arbitration/",
+      "author": "Taylor Hatmaker",
+      "publication_date": "2017-10-04T15:50:17-07:00",
+      "body_words": 772,
+      "sha256": "192c813b001723778d8e39d4ea5f3cc86949deeba92d81a53ab1be341b4a3466",
+      "rights_basis": "Single-copy personal noncommercial download permission; retain copyright notices; no redistribution.",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "49fa77aa4b01d3b3"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "5eb5f5aec2daab88",
+      "filename": "5eb5f5aec2daab88.txt",
+      "original_headline": "House and Senate put Zuckerberg on notice: You are the right person to testify before Congress",
+      "page_title": "House and Senate put Zuckerberg on notice: ‘You are the right person to testify before Congress’",
+      "source_url": "https://techcrunch.com/2018/03/23/house-and-senate-put-zuckerberg-on-notice-you-are-the-right-person-to-testify-before-congress/",
+      "author": "Devin Coldewey",
+      "publication_date": "2018-03-23T14:19:02-07:00",
+      "body_words": 311,
+      "sha256": "38d4558734da07d222e3d0a6ba79dbdae2e166a8364cd658e022f4027f7bf950",
+      "rights_basis": "Single-copy personal noncommercial download permission; retain copyright notices; no redistribution.",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "5eb5f5aec2daab88",
+        "7d224a769ad116bd",
+        "eb6bcd0d588d7868"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "ad0e74bfc7de3c8a",
+      "filename": "ad0e74bfc7de3c8a.txt",
+      "original_headline": "Facebook CEO Mark Zuckerberg will reportedly testify before Congress",
+      "page_title": "Facebook CEO Mark Zuckerberg will reportedly testify before Congress",
+      "source_url": "https://techcrunch.com/2018/03/27/facebook-ceo-mark-zuckerberg-will-reportedly-testify-before-congress/",
+      "author": "Matthew Lynley",
+      "publication_date": "2018-03-27T09:21:01-07:00",
+      "body_words": 373,
+      "sha256": "592d82b8579ccbd9823262a7c6938e7d4ad611e8471dc91e8337a2255ea0b588",
+      "rights_basis": "Single-copy personal noncommercial download permission; retain copyright notices; no redistribution.",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "ad0e74bfc7de3c8a"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "480b9ba8a2870f6b",
+      "filename": "480b9ba8a2870f6b.txt",
+      "original_headline": "Zuckerberg will also testify before the Senate",
+      "page_title": "Zuckerberg will also testify before the Senate",
+      "source_url": "https://techcrunch.com/2018/04/06/zuckerberg-will-also-testify-before-the-senate/",
+      "author": "Jordan Crook",
+      "publication_date": "2018-04-06T06:03:01-07:00",
+      "body_words": 245,
+      "sha256": "609b3285dfa4f91e402855bdd2194b840a9492860b420eb5c852189a5f4689a4",
+      "rights_basis": "Single-copy personal noncommercial download permission; retain copyright notices; no redistribution.",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "480b9ba8a2870f6b"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "3e8b0bc763936966",
+      "filename": "3e8b0bc763936966.txt",
+      "original_headline": "What Zuckerberg's congressional testimony doesn't say",
+      "page_title": "What Zuckerberg’s congressional testimony doesn’t say",
+      "source_url": "https://techcrunch.com/2018/04/09/what-zuckerbergs-congressional-testimony-doesnt-say/",
+      "author": "Jonathan Shieber",
+      "publication_date": "2018-04-09T13:59:33-07:00",
+      "body_words": 663,
+      "sha256": "ad8ba8704494eed0aa30b3014507ad6b89937993b754b941b31b5f2aa1cf1d36",
+      "rights_basis": "Single-copy personal noncommercial download permission; retain copyright notices; no redistribution.",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "3e8b0bc763936966"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "260ead4ad1b85b11",
+      "filename": "260ead4ad1b85b11.txt",
+      "original_headline": "A brief history of Facebook's privacy hostility ahead of Zuckerberg's testimony",
+      "page_title": "A brief history of Facebook’s privacy hostility ahead of Zuckerberg’s testimony",
+      "source_url": "https://techcrunch.com/2018/04/10/a-brief-history-of-facebooks-privacy-hostility-ahead-of-zuckerbergs-testimony/",
+      "author": "Natasha Lomas",
+      "publication_date": "2018-04-10T05:43:49-07:00",
+      "body_words": 2640,
+      "sha256": "b56bcc5fa8d5aab5a97459985b1cfb4a38912db9d9c1f0b30362193566fe5d6e",
+      "rights_basis": "Single-copy personal noncommercial download permission; retain copyright notices; no redistribution.",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "260ead4ad1b85b11"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "48154e460ebd896f",
+      "filename": "48154e460ebd896f.txt",
+      "original_headline": "Facebook rolls out $40K user data abuse bounty ahead of Zuckerberg's Congressional testimony",
+      "page_title": "Update: Facebook rolls out $40K user data abuse bounty ahead of Zuckerberg’s Congressional testimony",
+      "source_url": "https://techcrunch.com/2018/04/10/facebook-rolls-out-40k-user-data-abuse-bounty-ahead-of-zuckerbergs-congressional-testimony/",
+      "author": "Jonathan Shieber",
+      "publication_date": "2018-04-10T08:04:16-07:00",
+      "body_words": 576,
+      "sha256": "edc7f0837a777f03130ea1b851ced0b136df54f4941584d774c846a29da21992",
+      "rights_basis": "Single-copy personal noncommercial download permission; retain copyright notices; no redistribution.",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "48154e460ebd896f",
+        "f7d7d66bd8297f6a"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "e9d9289afe25c3ca",
+      "filename": "e9d9289afe25c3ca.txt",
+      "original_headline": "Facebook share price climbs as Zuckerberg gets grilled by the Senate",
+      "page_title": "Facebook share price climbs as Zuckerberg gets grilled by the Senate",
+      "source_url": "https://techcrunch.com/2018/04/10/facebook-share-price-climbs-as-zuckerberg-gets-grilled-by-the-senate/",
+      "author": "Lucas Matney",
+      "publication_date": "2018-04-10T13:54:25-07:00",
+      "body_words": 225,
+      "sha256": "d6b2ca32bff23ca57efc9aca0b96cb9a5fcb8b8f23670e7e304b152da183dcac",
+      "rights_basis": "Single-copy personal noncommercial download permission; retain copyright notices; no redistribution.",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "e9d9289afe25c3ca",
+        "0cfeb86e8c140970"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "805bc7876930b3b8",
+      "filename": "805bc7876930b3b8.txt",
+      "original_headline": "Zuckerberg's boring testimony is a big win for Facebook",
+      "page_title": "Zuckerberg’s boring testimony is a big win for Facebook",
+      "source_url": "https://techcrunch.com/2018/04/10/zzzuckerberg/",
+      "author": "Josh Constine",
+      "publication_date": "5:04 PM PDT · April 10, 2018",
+      "body_words": 972,
+      "sha256": "88bcf7943a04ad4e92d84bb3aba6cc93846752fc51eb16ed435230883eb2c876",
+      "rights_basis": "TechCrunch single-copy individual-page personal noncommercial permission; source attribution and copyright retained",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "805bc7876930b3b8"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "0ecce865fcd1a229",
+      "filename": "0ecce865fcd1a229.txt",
+      "original_headline": "How to watch Facebook and Twitter's big hearings with Congress",
+      "page_title": "How to watch Facebook and Twitter’s big hearings with Congress",
+      "source_url": "https://techcrunch.com/2018/09/04/how-to-stream-tech-hearings-facebook-twitter/",
+      "author": "Taylor Hatmaker",
+      "publication_date": "5:00 PM PDT · September 4, 2018",
+      "body_words": 434,
+      "sha256": "9c9fac9dd663a47ac3ae4f3641be712d7305fce5a1c4d0c41f92454efb2a1a97",
+      "rights_basis": "TechCrunch single-copy individual-page personal noncommercial permission; source attribution and copyright retained",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "0ecce865fcd1a229"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "30c38943018a84b7",
+      "filename": "30c38943018a84b7.txt",
+      "original_headline": "Facebook's testimony to congress: Libra will be regulated by Swiss",
+      "page_title": "Facebook’s testimony to Congress: Libra will be regulated by Swiss",
+      "source_url": "https://techcrunch.com/2019/07/15/libra-testimony/",
+      "author": "Josh Constine",
+      "publication_date": "9:12 AM PDT · July 15, 2019",
+      "body_words": 1151,
+      "sha256": "907cdb2fca52f5555998aafad63f106ef7ea1330636c1147e5ff9b5c8a54216b",
+      "rights_basis": "TechCrunch single-copy individual-page personal noncommercial permission; source attribution and copyright retained",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "30c38943018a84b7"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "6d07f1b0a05d4670",
+      "filename": "6d07f1b0a05d4670.txt",
+      "original_headline": "What to expect from tomorrow's antitrust hearing featuring big tech",
+      "page_title": "What to expect from tomorrow’s antitrust hearing featuring big tech",
+      "source_url": "https://techcrunch.com/2019/07/15/what-to-expect-from-tomorrows-antitrust-hearing-featuring-big-tech/",
+      "author": "Jonathan Shieber",
+      "publication_date": "1:54 PM PDT · July 15, 2019",
+      "body_words": 763,
+      "sha256": "7c3a8ae80bdc36d223656009b3ccf114e34cc646bf7ac6f95f44da1f1d78d572",
+      "rights_basis": "TechCrunch single-copy individual-page personal noncommercial permission; source attribution and copyright retained",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "6d07f1b0a05d4670"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "54046453e1e7474b",
+      "filename": "54046453e1e7474b.txt",
+      "original_headline": "Highlights from Facebook's Libra Senate hearing",
+      "page_title": "Highlights from Facebook’s Libra Senate hearing",
+      "source_url": "https://techcrunch.com/2019/07/16/libra-in-messenger-whatsapp/",
+      "author": "Josh Constine",
+      "publication_date": "8:25 AM PDT · July 16, 2019",
+      "body_words": 1015,
+      "sha256": "bd56437f99c0259b74c2a8f956cfe0f1db203969fe7e9f54bbf2ce96b681e427",
+      "rights_basis": "TechCrunch single-copy individual-page personal noncommercial permission; source attribution and copyright retained",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "54046453e1e7474b"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "104a9e477fbc5106",
+      "filename": "104a9e477fbc5106.txt",
+      "original_headline": "Lowlights from Zuckerberg's Libra testimony in Congress",
+      "page_title": "Lowlights from Zuckerberg’s Libra testimony in Congress",
+      "source_url": "https://techcrunch.com/2019/10/23/zuckerberg-testimony/",
+      "author": "Josh Constine",
+      "publication_date": "8:03 AM PDT · October 23, 2019",
+      "body_words": 2641,
+      "sha256": "e344df6030adb2682ea704ee1fe58614676f7ac08de0689f46032ab8d69ae5af",
+      "rights_basis": "TechCrunch single-copy individual-page personal noncommercial permission; source attribution and copyright retained",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "104a9e477fbc5106",
+        "afe0306dc5c1e8ef"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    },
+    {
+      "headline_id": "38e99fb080df6c2e",
+      "filename": "38e99fb080df6c2e.txt",
+      "original_headline": "Top tech CEOs will testify about social media's role in the Capitol attack this week",
+      "page_title": "Top tech CEOs will testify about social media’s role in the Capitol attack this week",
+      "source_url": "https://techcrunch.com/2021/03/23/tech-hearing-capitol-attack-facebook-twitter-google/",
+      "author": "Taylor Hatmaker",
+      "publication_date": "12:14 PM PDT · March 23, 2021",
+      "body_words": 723,
+      "sha256": "046c30f2c5adb0b5bb47701b3faf8b77df09ab23bf51af5509d4a67e802a60c4",
+      "rights_basis": "TechCrunch single-copy individual-page personal noncommercial permission; source attribution and copyright retained",
+      "rights_url": "https://techcrunch.com/terms-of-service/",
+      "copyright_notice": [
+        "© 2026 TechCrunch Media LLC."
+      ],
+      "headline_ids_with_same_source_url": [
+        "38e99fb080df6c2e"
+      ],
+      "original_match_quality": "high",
+      "manual_title_check": "passed"
+    }
+  ],
+  "skipped_access_failures": [
+    {
+      "headline_id": "0f8d1942bdb9409e",
+      "url": "https://boingboing.net/2018/04/09/big-zucks-no-whammies.html/amp",
+      "reason": "HTTP 403; no TXT created"
+    },
+    {
+      "headline_id": "b05c09d5d4cde844",
+      "url": "https://boingboing.net/2019/07/09/amazon-apple-facebook-and-g.html/amp",
+      "reason": "HTTP 403; no TXT created"
+    },
+    {
+      "headline_id": "fc57dd2f16cb4a40",
+      "url": "https://boingboing.net/2019/10/09/mark-zuckerberg-to-testify-bef.html",
+      "reason": "HTTP 403; no TXT created"
+    },
+    {
+      "headline_id": "912e9e2adc2aaf10",
+      "url": "https://techcrunch.com/2018/04/10/myanmar-facebook-zuckerberg-senate-hearing-genocide/",
+      "reason": "HTTP 403; no TXT created"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+Facebook, Twitter Will Face GOP Questions of Political Bias at Congressional Hearings
+
+Author: Ted Johnson
+Publisher: Variety
+Published: Sep 4, 2018 11:21am PT
+Published (source metadata): 2018-09-04T18:21:56+00:00
+Source URL: https://variety.com/2018/politics/news/facebook-twitter-congressional-hearings-gop-1202926136/
+Headline ID: 76cfc58f0605a280
+
+Twitter’s Jack Dorsey and Facebook‘s Sheryl Sandberg are scheduled to appear on Capitol Hill on Wednesday, and it’s not too difficult to figure out what they should expect from Republican lawmakers: claims of political bias in their algorithms.
+
+In defense of the Silicon Valley titans, there’s no real evidence to back up such claims, whether they be President Trump’s attacks on big tech platforms as “unfair” in trying to suppress conservative voices, or congressional Republicans who offer individual anecdotes to try to make the case that there is some sort of systemic problem.
+
+To the detriment of the internet giants, though, is the fact that the way algorithms work can be hard to explain and easy to be misunderstood.
+
+“This gets back to the fact that they do have these algorithms that control what you see and what you don’t see, and the algorithms are secret,” says David Chavern, the president and CEO of the News Media Alliance, which represents the newspaper industry.
+
+“As long as you have secret rules of what you see and don’t see, people are going to say the rules are biased.”
+
+Tech companies keep their algorithms secret for competitive reasons, but their lack of transparency has led to a plethora of alternative, and often incorrect, explanations.
+
+A 2016 study authored by researchers from the University of Illinois at Urbana-Champaign found that Facebook users frequently develop and share their own unverified “folk theories” about the signals Facebook uses to curate its newsfeed.
+
+In fact, Facebook users frequently utilize these theories in their interactions with the service in order to manipulate the company’s algorithms. For instance, they will “like” posts they’re not really interested in just to get to see more content of a certain user. “In other words, they were forced to deceive the algorithm by changing their behavior,” the researchers wrote.
+
+Trying to outsmart Facebook’s algorithm may be relatively harmless, but the opacity that makes users develop these theories also has some suspecting that Facebook uses their phone to listen to everything they say — something the company has vehemently denied — or that Google suppresses conservative sources in search results.
+
+The internet industry has tried to push back against these claims by arguing that it is a matter of simple common sense.
+
+Michael Beckerman, the president of the Internet Association, which represents major Silicon Valley companies, is a conservative who has spent decades working in Republican politics, but ”it’s clear to me and to most people that there is not political bias in search and there is not political bias on social media.”
+
+“Conservative voices are now more prominent than ever because of social media,” he says. “Online platforms offer the most open and accessible form of communication for all Americans. The platforms themselves don’t have a political ideology, and it is counter to business interests of the companies to stifle the speech of half their customers.”
+
+One solution suggested by the authors of the University of Illinois study is to introduce more obvious clues into tech products, even if that may make those products less polished.
+
+The flip side of that approach is that the increased transparency can also encourage abuse. Companies like Google have gotten pretty good about preventing search result manipulations, but they still frequently fall prey to other forms of misuse. Just last week, someone was able to rename New York to “Jewtopolis” in Snapchat’s and the Weather Channel’s mobile apps by duping a third-party data source.
+
+It’s also important to remember that the congressional scrutiny over the past year was triggered largely by a bevy of concerns like privacy, data manipulation, and, most of all, Russian-linked use of web platforms in the 2016 election and up to the present day.
+
+Dorsey and Sandberg are scheduled to appear before the Senate Intelligence Committee in the morning, and Dorsey is set for a House Energy and Commerce Committee hearing in the afternoon.
+
+In prepared testimony released by the Energy and Commerce Committee, Dorsey said, “Twitter does not use political ideology to make any decisions, whether related to ranking content on our service or how we enforce our rules. We believe strongly in being impartial, and we strive to enforce our rules impartially.” He added that “from a simple business perspective and to serve the public conversation, Twitter is incentivized to keep all voices on the platform.”
+
+Lawmakers sought an appearance from Google CEO Larry Page, but the company instead offered its chief legal officer, Kent Walker, but that was rejected, sources said.
+
+The scrutiny of Google’s search practices, meanwhile, is not anything new: Content companies and record labels have been hammering tech platforms for years to do more with its algorithm to fight piracy. Trump’s contention that Google, Facebook, and Twitter are in an “antitrust situation” may be misguided in its rationale, but it echoes a longtime policy debate in Washington that existing laws haven’t kept up with the growth of the new players.
+
+At the hearings this week, though, those issues are likely to take a backseat to claims that the system is “rigged,” as Trump calls it.
+
+When Mark Zuckerberg testified in April, there was a lot of focus on those issues, but he was also confronted by Sen. Ted Cruz (R-Texas), who asked why some sites, like a Chick-fil-a Appreciation Day page, were taken down. In fact, Facebook has said that it was a mistake and it was restored within 12 hours.
+
+Since that hearing, though, Republicans’ attacks on tech platforms and claims of bias have only intensified, so there’s every expectation that they will be front and center this week.
+
+“There needs to be policies that promote competition, privacy, and data transparency and algorithmic transparency,” says Gigi Sohn, a former FCC official and now distinguished fellow at the Georgetown Law Institute for Technology Law & Policy. “All this talk about conservative bias is going to be a sideshow.”
+
+Variety is a part of PMX Global, LLC, a subsidiary of Penske Media Corporation. © 2026 Variety Media, LLC. All rights reserved. Variety and the Flying V logos are trademarks of Variety Media, LLC. Powered by WordPress.com VIP
+
+Personal, non-commercial study copy. Publisher terms: https://www.pmc.com/terms-of-use

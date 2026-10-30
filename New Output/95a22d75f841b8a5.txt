@@ -1,0 +1,100 @@
+Mark Zuckerberg Tells Senate: Election Security Is An 'Arms Race'
+
+2018-04-10T14:30:00-04:00
+
+Updated at 7:35 p.m. ET
+
+Mark Zuckerberg faced dozens of senators — and the American television audience — to take "hard questions" on how Facebook has handled user data and faced efforts to subvert democracy.
+
+"We didn't take a broad enough view of our responsibility, and that was a big mistake. It was my mistake, and I'm sorry," the co-founder and CEO of Facebook, uncharacteristically wearing a suit, said in his opening remarks. "I started Facebook, I run it, and I'm responsible for what happens here."
+
+Zuckerberg testified Tuesday before a joint session of the Senate commerce and judiciary committees.
+
+He spoke for more than four hours. If you want the full experience, you can watch the video above, or on C-SPAN here.
+
+The leaders of the committees, in their opening remarks, signaled that the status quo was not satisfactory and called for changes — voluntary or mandatory — to promote transparency and prevent abuse.
+
+Sen. John Thune, chairman of the commerce committee, said the days of deferring to tech companies on questions of regulation may be ending — and that in his testimony, Zuckerberg has the opportunity to speak to supporters and to skeptics.
+
+"We are listening," he told Zuckerberg in his opening statement. "America is listening. And, quite possibly, the world is listening too."
+
+"If you and other social media companies do not get your act in order, none of us are going to have any privacy any more," Sen. Bill Nelson, ranking member of the commerce committee, said bluntly.
+
+The remarkable hearing was a bit of a spectacle, at least by Senate committee hearing standards. It was also Zuckerberg's first appearance before Congress. He was the only witness in the joint session and will also be testifying before the House Energy and Commerce Committee on Wednesday.
+
+Facebook is reeling from the Cambridge Analytica scandal, after news broke that millions of Facebook users' data had been improperly shared with a data analytics firm that worked with the Trump campaign. (The company says the Facebook data was legally acquired, and not used in any of its 2016 election work.)
+
+The Federal Trade Commission has confirmed it is investigating how user privacy has been handled at Facebook.
+
+On Tuesday, the company began informing users who were affected. You can check this page on Facebook's help site to see if you're among that number.
+
+Nelson, a Florida Democrat, asked Zuckerberg why Facebook didn't inform users back in 2015, when it first discovered that user data had been sold to Cambridge Analytica.
+
+"When we heard back from Cambridge Analytica that they had told us that they weren't using the data and deleted it, we considered it a closed case," Zuckerberg said. "In retrospect, that was clearly a mistake. We shouldn't have taken their word for it."
+
+Facebook did not inform the FTC of the improper data sharing, Zuckerberg says.
+
+Facebook has blamed Aleksandr Kogan, the researcher who gathered user data and sold it to Cambridge Analytica, for violating Facebook's terms of service. But Richard Blumenthal, D-Conn., showed Zuckerberg the text of an agreement he said Kogan sent to Facebook when he set up his app. It claimed the right to "edit, copy, disseminate, publish, transfer, append or merge with other databases, sell, license ... and archive" data. Zuckerberg said he had not seen that text. He said that Facebook's app review team would have been responsible for that agreement and that nobody from that team has been fired over this scandal.
+
+Zuckerberg also said that Kogan sold data to other companies in addition to Cambridge Analytica, including Eunoia Technologies and potentially "a couple of others"; he said he would provide lawmakers with more detail.
+
+Zuckerberg agreed that "victims" was an appropriate word for the millions of users whose data was shared. "They did not want their information to be sold to Cambridge Analytica by a developer, and that happened, and it happened on our watch," he said. "Even though we didn't do it, I think we do have a responsibility to be able to prevent it."
+
+But he denied that the data-sharing violated Facebook's a 2011 consent decree with the FTC.
+
+Under the terms of that decree, Facebook is required to "obtain users' affirmative consent" before sharing their data. Most of the people affected by the Cambridge Analytica scandal did not opt in to Kogan's app, which collected that data; their data was scraped after a friend opted in. But Zuckerberg argued that the decree was not violated because the "Facebook Platform," which was set up to allow third-party developers to use Facebook data, allowed that practice. "I believe that we rolled out this developer platform and that we explained to people how it worked and that they did consent to it," he said.
+
+Zuckerberg was also grilled on a wide range of other topics. Lawmakers were keenly interested in how Facebook handled — or mishandled — Russian election interference during the 2016 campaigns, how the platform plans to monitor and disclose who is responsible for ads, and how Facebook plans to prevent hate speech or discriminatory ads.
+
+Topics Zuckerberg addressed include:
+
+• Informing users about how their data is used: "Long privacy policies are very confusing," Zuckerberg said. "If you make it long and spell out all the detail, then you're probably going to reduce the percent of people who read it."
+
+• Why this apology is different from previous apologies from Facebook: "Overall I would say that we're going through a broader philosophical shift in how we approach our responsibility as a company," he said. "We need to take a more proactive role and a broader view of our responsibilities. It's not enough to just build tools. We need to make sure they're used for good. That means we need to now take a more active view in policing the ecosystem."
+
+• Policing harmful language: Zuckerberg noted that Facebook has had success using artificial intelligence tools to police and enforce communication by blocking terrorist propaganda, but he says it's more difficult to identify hate speech. "Determining if something is hate speech is very linguistically nuanced," he said, and the error rate is high. But he said repeatedly that better AI tools are being developed.
+
+• Election security: "There are people in Russia whose job it is to try to exploit our systems and other Internet systems," he said. "So this is an arms race. They're going to keep getting better at this, and we need to invest in keeping on getting better at this, too." He repeated the point again hours later. "As long as there are people sitting in Russia whose job it is to try to interfere with elections around the world, this is going to be an ongoing conflict," he said.
+
+• Working with Justice Department special counsel Robert Mueller on the Russia investigation: "I want to be careful here because that, our work with the special counsel is confidential and I want to make sure that in an open session I'm not revealing something that's confidential," he said. " ... I am not aware of a subpoena, I believe there may be [a subpoena], but I know we are working with them."
+
+• Whether Facebook is a monopoly: Sen. Lindsey Graham, R-S.C., pushed Zuckerberg on whether the platform has any true competition, asking whether there is "an alternative to Facebook in the private sector." Zuckerberg maintained that Facebook offers a variety of services and has competition within different "categories," to which Graham asked, "You don't think you have a monopoly?" "It certainly doesn't feel like that to me," Zuckerberg said, to chuckles from the audience.
+
+• On whether Facebook is a "neutral public forum": Sen. Ted Cruz, R-Texas, pushed Zuckerberg on this. "The predicate for Section 230 immunity is that you are a neutral public forum," he said. "Do you consider yourself a neutral public forum or are you engaged in political speech?" (Under Section 230, online platforms can't be sued for something posted by a user.) Cruz cited allegations of censorship and suppression of conservative speech on the platform. In response, Zuckerberg said, "We consider ourselves to be a platform for all ideas ... Our goal is certainly not to engage in political speech." But, he said, there are "a number of things that we would all agree are clearly bad," which should be removed from the platform.
+
+• Transparency in political ads: Facebook recently began requiring location verification for groups purchasing political or issue ads on Facebook. Sen Sheldon Whitehouse, D-R.I., asked whether shell corporations could be used to get around that system. "If they were running through a corporation domiciled in Delaware, you wouldn't know that they were actually a Russian owner," Whitehouse said. "Senator, that's — that's correct," Zuckerberg said.
+
+• Who's responsible for identifying violations: Sen. Chris Coons, D-Del., asked why Facebook puts the burden on users to flag content that needs to be taken down. Zuckerberg cited the "sheer volume" of material on Facebook and said new hires and AI tools will help improve the process over time. "We can't wait five years for Facebook to get rid of housing discrimination content," Coons said, referring to allegations that the site lets housing and rental companies restrict who can see their ads, by excluding, for example, certain races.
+
+• Whether people understand how Facebook uses their data: Multiple senators emphasized that user agreements are long and confusing and that more data is collected by Facebook than many users might realize. Zuckerberg said, repeatedly, that he believes users — even if they don't read the full agreement — generally know how their data is used and have different expectations for different kinds of services. company. Sen. Cory Gardner, R-Colo., brought up the example of a user browsing a news site that has a "Facebook button on it," in which case Facebook knows what the user is reading. "Do you think users understand that?" Gardner asked. "I think the answer is probably yes," Zuckerberg said.
+
+Zuckerberg said he that didn't know the answer to several questions or that he would have to check with his team, including whether Facebook employees worked directly with Cambridge Analytica and whether Facebook tracks users' activity across devices while they are offline.
+
+Facebook has lost about $100 billion in value since February. As Zuckerberg testified on Tuesday, Facebook stock was up more than 4 percent for the day.
+
+In Zuckerberg's prepared testimony — a longer version of his opening comments — he embraces a wider responsibility for user content than Facebook has claimed in the past. He also lays out efforts that he says will help protect users' information and defend against "bad actors" on the platform.
+
+Regulation came up repeatedly in this hearing. Some lawmakers are pushing to establish rules for how Internet companies handle ads or user data. And Facebook has signaled that it might be open to some regulation, although the company also argues it is not waiting for laws to be passed to change its own behavior.
+
+But, of course, lawmakers are divided on the question of regulation. Some senators from both sides of the aisle warned that Congress would step in if Facebook can't improve security.
+
+"I don't want to vote to have to regulate Facebook," Sen. John Kennedy, R-La., said. "But by God, I will."
+
+But Sens. Orrin Hatch, R-Utah, and Roger Wicker, R-Miss., cautioned against overregulation in response to the scandal.
+
+In addition to a split over regulation, senators were divided in their responses to Facebook's new, broader understanding of its responsibility for user content.
+
+Here's what Zuckerberg said in his testimony:
+
+"It's not enough to just connect people, we have to make sure those connections are positive. It's not enough to just give people a voice, we have to make sure people aren't using it to hurt people or spread misinformation. It's not enough to give people control of their information, we have to make sure developers they've given it to are protecting it too. Across the board, we have a responsibility to not just build tools, but to make sure those tools are used for good."
+
+Some senators asked questions about how, exactly, Facebook plans to be more proactive on this issue, while embracing the idea that Facebook will be accountable for harmful content.
+
+But others — like Sen. Ben Sasse, R-Neb. — sounded a note of caution about the idea of Facebook deciding what's "positive" and what's not.
+
+Sasse asked Zuckerberg to define hate speech and asked about a hypothetical future where "pro-lifers are prohibited about voicing their views" on Facebook.
+
+"I wouldn't want you to leave here and think there's a unified view of the Congress that you should be moving toward policing more speech," he said.
+
+Source: https://www.npr.org/sections/thetwo-way/2018/04/10/599808766/i-m-responsible-for-what-happens-at-facebook-mark-zuckerberg-will-tell-senate
+Publisher: NPR

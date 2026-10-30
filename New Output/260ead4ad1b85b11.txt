@@ -1,0 +1,126 @@
+A brief history of Facebook’s privacy hostility ahead of Zuckerberg’s testimony
+
+By Natasha Lomas
+5:43 AM PDT · April 10, 2018
+
+The Facebook founder will be questioned by the Senate Judiciary and Senate Commerce Committees later today — in a session entitled “Facebook, Social Media Privacy, and the Use and Abuse of Data.”
+
+Mark Zuckerberg is also due to testify before Congress on Wednesday — to be asked about the company’s use and protection of user data.
+
+As we’ve pointed out already, his written testimony is pretty selective and self-serving in terms of what he does and doesn’t include in his version of events.
+
+Indeed, in the face of the snowballing Cambridge Analytica data misuse scandal, the company’s leadership (see also: Sheryl Sandberg) has been quick to try to spin an idea that it was simply too “idealistic and optimistic” — and that ‘bad actors’ exploited its surfeit of goodwill.
+
+This of course is pure fiction.
+
+Facebook’s long history of privacy hostility should make that plain to any thinking person. As former FTC director David Vladeck wrote earlier this month: “Facebook can’t claim to be clueless about how this happened. The FTC consent decree put Facebook on notice.”
+
+To be clear, that’s the 2011 FTC consent decree — ergo, a major regulatory privacy sanction that Facebook incurred well over six years ago.
+
+Every Facebook privacy screw up since is either carelessness or intention.
+
+Vladeck’s view is that Facebook’s actions were indeed calculated. “All of Facebook’s actions were calculated and deliberate, integral to the company’s business model, and at odds with the company’s claims about privacy and its corporate values,” he argues.
+
+So we thought it would be helpful to compile an alternative timeline ahead of Zuckerberg’s verbal testimony, highlighting some curious details related to the Cambridge Analytica data misuse scandal — such as why Facebook hired (and apparently still employs) the co-director of the company that built the personality quiz app that “improperly shared” so much Facebook data with the controversial company — as well as detailing some of its other major privacy missteps over the years.
+
+There are A LOT of these so forgive us if we’ve missed anything — and feel free to put any additions in the comments.
+
+Facebook: An alternative timeline
+
+February 2004 — Facebook is launched by Harvard College student Mark Zuckerberg
+
+September 2006 — Facebook launches News Feed, broadcasting the personal details of Facebook users — including relationship changes — without their knowledge or consent. Scores of users protest at the sudden privacy intrusion. Facebook goes on to concede: “We really messed this one up… we did a bad job of explaining what the new features were and an even worse job of giving you control of them.”
+
+November 2007 — Facebook launches a program called Beacon, injecting personal information such as users’ online purchases and video rentals on third party sites into the News Feed without their knowledge or consent. There’s another massive outcry — and a class action lawsuit is filed. Facebook eventually pays $9.5M to settle the lawsuit. It finally shutters the controversial program in 2009
+
+May 2008 — a complaint is filed with the Privacy Commissioner of Canada concerning the “unnecessary and non-consensual collection and use of personal information by Facebook”. The following year the company is found to be “in contravention” of the country’s Personal Information Protection and Electronic Documents Act. Facebook is told to make changes to its privacy policy and tools — but the Commissioner is still expressing concerns at the end of 2009
+
+February 2009 — Facebook revises its terms of service to state that users can’t delete their data when they leave the service and there’s another outcry. Backpeddling furiously in a subsequent conference call, Zuckerberg says: “We do not own user data, they own their data. We never intended to give that impression and we feel bad that we did”
+
+June 2009 — the ACLU warns about privacy risks with quiz apps running on Facebook’s platform, saying there is nothing to prevent developers exploiting information gathered in this way — and warning users their data “could easily be abused, sold, or released without [their] knowledge or consent”. The organization subsequently releases its own quiz app to illustrate the data leak risk
+
+November & December 2009 — Facebook again revises its privacy policy and the privacy settings for users and now, in a fell swoop, it makes a range of personal information public by default — available for indexing on the public web. We describe this as a privacy fiasco. Blogging critically about the company’s actions, the EFF also warns: “Major privacy settings are now set to share with everyone by default, in some cases without any user choice”
+
+December 2009 — a complaint (and supplementary complaint) is filed by EPIC with the FTC about Facebook’s privacy settings and privacy policy, with the coalition of privacy groups asserting these are inconsistent with the site’s information sharing practices, and that Facebook is misleading users into believing they can still maintain control over their personal information. The FTC later writes a letter saying the complaint “raises issues of particular interest for us at this time”
+
+April 2010 — four senators call on Facebook to change its policies after it announces a product called Instant Personalization — which automatically hands over some user data to certain third-party sites as soon as a person visits them. The feature has an opt-out but Facebook users are default opted in. “[T]his class of information now includes significant and personal data points that should be kept private unless the user chooses to share them,” the senators warn
+
+May 2010 — following another user backlash against settings changes Facebook makes changes to its privacy controls yet again. “We’re really going to try not to have another backlash,” says Facebook’s VP of product Chris Cox. “If people say they want their stuff to be visible to friends only, it will apply to that stuff going forward”
+
+May 2010 — EPIC complains again to the FTC, requesting an investigation. The watchdog quietly begins an investigation the following year
+
+May 2010 — Facebook along with games developer Zynga is reported to the Norwegian data protection agency. The complaint focuses on app permissions, with the Consumer Council warning about “unreasonable and unbalanced terms and conditions”, and how Facebook users are unwittingly granting permission for personal data and content to be sold on
+
+June 2011 — EPIC files another complaint to the FTC, focused on Facebook’s use of facial recognition technology to automatically tag users in photos uploaded to its platform
+
+August 2011 — lawyer and privacy campaigner Max Schrems files a complaint against Facebook Ireland flagging its app permissions data sinkhole. “Facebook Ireland could not answer me which applications have accessed my personal data and which of my friends have allowed them to do so,” he writes. “Therefore there is practically no way how I could ever find out if a developer of an application has misused data it got from Facebook Ireland in some way”
+
+November 2011 — Facebook settles an eight-count FTC complaint over deceptive privacy practices, agreeing to make changes opt-in going forward and to gain express consent from users to any future changes. It must also submit to privacy audits every two years for the next 20 years; bar access to content on deactivated accounts; and avoid misrepresenting the privacy or security of user data. The settlement with the FTC is finalized the following year. Facebook is not fined
+
+December 2011 — Facebook agrees to make some changes to how it operates internationally following Schrems’ complaint leading to an audit of its operations by the Irish Data Protection Commission
+
+September 2012 — Facebook turns off an automatic facial recognition feature in Europe following another audit by Ireland’s Data Protection Commission. The privacy watchdog also recommends Facebook tightens app permissions on its platform, including to close down developers’ access to friends data
+
+September 2012 — Facebook launches Custom Audiences, allowing advertisers to link their own databases of customer data with Facebook users to be able to target the same individuals with ads on its platform. Facebook’s T&Cs required businesses to have “provided appropriate notice to and secured any necessary consent from the data subjects” to attain and use these people’s contact info — but the company did not invest any effort in verifying whether consent had actually been obtained so did not actively enforce that rule
+
+April 2013 — Facebook launches Partner Categories: Further enriching the capabilities of its ad targeting platform by linking up with major data broker companies which hold aggregate pools of third party data, including information on people’s offline purchases. Five years later Facebook announces it’s ending this access, likely as one of the measures needed to comply with the EU’s updated privacy framework, GDPR
+
+May 2014 — Facebook finally announces at its developer conference that it will be shutting down an API that let developers harvest users’ friends data without their knowledge or consent, initially for new developer users — giving existing developers a year-long window to continue sucking this data
+
+May 2014 — Facebook only now switches off the public default for users’ photos and status updates, setting default visibility to ‘friends’
+
+May 2014 — Cambridge University professor Aleksandr Kogan runs a pilot of a personality test app (called thisisyourdigitallife) on Facebook’s platform with around 10,000 users. His company, GSR, then signs a data-licensing contract with political consultancy Cambridge Analytica, in June 2014, to supply it with psychological profiles linked to US voters. Over the summer of 2014 the app is downloaded by around 270,000 Facebook users and ends up harvesting personal information on as many as 87 million people — the vast majority of whom would have not known or consented to data being passed
+
+June 2014 — Facebook data scientists publish a study detailing the results of an experiment on nearly 700,000 users to determine whether showing them more positive or negative sentiment posts in the News Feed would affect their happiness levels (as deduced by what they posted). Consent had not been obtained from the Facebook users whose emotions were being experimenting on
+
+February 2015 — a highly critical report by Belgium’s data watchdog examining another updated Facebook privacy policy asserts the company is breaching EU privacy law including by failing to obtain valid consent from users for processing their data
+
+May 2015 — Facebook finally shutters its friends API for existing developers such as Kogan — but he has already been able to use this to suck out and pass on a massive cache of Facebook data to Cambridge Analytica
+
+June 2015 — the Belgian privacy watchdog files a lawsuit against Facebook over the tracking of non-users via social plugins. Months later the court agrees. Facebook says it will appeal
+
+November 2015 — Facebook hires Joseph Chancellor, the other founding director of GSR, to work as a quantitative social psychologist. Chancellor is still listed as a UX researcher at Facebook Research
+
+December 2015 — the Guardian publishes a story detailing how the Ted Cruz campaign had paid UK academics to gather psychological profiles about the US electorate using “a massive pool of mainly unwitting US Facebook users built with an online survey”. After the story is published Facebook tells the newspaper it is “carefully investigating this situation” regarding the Cruz campaign
+
+February 2016 — the French data watchdog files a formal order against Facebook, including for tracking web browsing habits and collecting sensitive user data such as political views without explicit consent
+
+August 2016 — Facebook-owned WhatsApp announces a major privacy U-turn, saying it will start sharing user data with its parent company — including for marketing and ad targeting purposes. It offers a time-bound opt-out for the data-sharing but pushes a pre-ticked opt-in consent screen to users
+
+November 2016 — facing the ire of regulators in Europe Facebook agrees to suspend some of the data-sharing between WhatsApp and Facebook (this regional ‘pause’ continues to this day). The following year the French data watchdog also puts the company on formal warning that data transfers it is nonetheless carrying out — for ‘business intelligence’ purposes — still lack a legal basis
+
+November 2016 — Zuckerberg describes the idea that fake news on Facebook’s platform could have influenced the outcome of the US election as “a pretty crazy idea” — a comment he later says he regrets making, saying it was “too flippant” and a mistake
+
+May 2017 –– Facebook is fined $122M in Europe for providing “incorrect or misleading” information to competition regulators who cleared its 2014 acquisition of WhatsApp. It had told them it could not automatically match user accounts between the two platforms, but two years later announced it would indeed be linking accounts
+
+September 2017 — Facebook is fined $1.4M by Spain’s data watchdog, including for collecting data on users ideology and tracking web browsing habits without obtaining adequate consent. Facebook says it will appeal
+
+October 2017 — Facebook says Russian disinformation distributed via its platform may have reached as many as 126 million Facebook users — upping previous estimates of the reach of ‘fake news’. It also agrees to release the Russian ads to Congress, but refuses to make them public
+
+February 2018 — Belgian courts again rule Facebook’s tracking of non-users is illegal. The company keeps appealing
+
+March 2018 — the Guardian and New York Times publish fresh revelations, based on interviews with former Cambridge Analytica employee Chris Wylie, suggesting as many as 50M Facebook users might have had their information passed to Cambridge Analytica without their knowledge or consent. Facebook confirms 270,000 people downloaded Kogan’s app. It also finally suspends the account of Cambridge Analytica and its affiliate, SCL, as well as the accounts of Kogan and Wylie
+
+March 21, 2018 — Zuckerberg gives his first response to the revelations about how much Facebook user data was passed to Cambridge Analytica — but omits to explain why the company delayed investigating
+
+March 2018 — the FTC confirms it is (re)investigating Facebook’s privacy practices in light of the Cambridge Analytica scandal and the company’s prior settlement. Facebook also faces a growing number of lawsuits
+
+March 2018 — Facebook outs new privacy controls, as part of its compliance with the EU’s incoming GDPR framework, consolidating settings from 20 screens to just one. However it will not confirm whether all privacy changes will apply for all Facebook users — leading to a coalition of consumer groups to call for a firm commitment from the company to make the new standard its baseline for all services
+
+April 2018 — Facebook also reveals that somewhere between 1BN and 2BN users have had their public Facebook information scraped via a now disabled feature which allowed people to look up users by inputting a phone number or email. The company says it discovered the feature was abused by “malicious actors”, writing: “Given the scale and sophistication of the activity we’ve seen, we believe most people on Facebook could have had their public profile scraped in this way”
+
+April 2018 — the UK’s data watchdog confirms Facebook is one of 30 companies it’s investigating as part of an almost year-long probe into the use of personal data and analytics for political targeting
+
+April 2018 — Facebook announces it has shut down a swathe of Russian troll farm accounts
+
+April 2018 — Zuckerberg agrees to give testimony in front of US politicians — but continues to ignore calls to appear before UK politicians to answer questions about the role of fake news on its platform and the potential use of Facebook data in the UK’s Brexit referendum
+
+April 2018 — the Canadian and British Columbian privacy watchdogs announce they are combining existing investigations into Facebook and a local data firm, AggregateIQ, which has been linked to Cambridge Analytica. The next day Facebook reportedly suspends AggregateIQ‘s account on its platform
+
+April 2018 — Facebook says it has started telling affected users whether their information was improperly shared with Cambridge Analytica
+
+---
+Source: https://techcrunch.com/2018/04/10/a-brief-history-of-facebooks-privacy-hostility-ahead-of-zuckerbergs-testimony/
+© 2026 TechCrunch Media LLC.
+Terms of use: https://techcrunch.com/terms-of-service/
+Single local copy for personal, non-commercial use. Original article wording preserved; webpage navigation, advertising, media controls and related-content cards omitted.

@@ -1,0 +1,15 @@
+{
+  "verified_at": "2026-10-30",
+  "scope": "个人学习或非营利研究的单份本地副本；站点条款更新后需重新核对。此文件不授予再传播、商业使用或模型训练许可。",
+  "sources": [
+    {"hosts": ["techcrunch.com", "www.techcrunch.com"], "terms_url": "https://techcrunch.com/terms-of-service/", "basis": "Single personal non-commercial copy of individual pages; attribution and notices preserved."},
+    {"hosts": ["variety.com", "www.variety.com", "deadline.com", "www.deadline.com", "hollywoodreporter.com", "www.hollywoodreporter.com", "theverge.com", "www.theverge.com"], "terms_url": "https://www.pmc.com/terms-of-use", "basis": "Single personal internal non-commercial copy; preserve attribution and notices."},
+    {"hosts": ["euronews.com", "www.euronews.com"], "terms_url": "https://www.euronews.com/terms-and-conditions", "basis": "One personal non-commercial copy on one computer; preserve notices; no redistribution or database reuse."},
+    {"hosts": ["globalnews.ca", "www.globalnews.ca"], "terms_url": "https://www.corusent.com/terms-of-use/", "basis": "Individual pages may be downloaded for noncommercial use with notices retained."},
+    {"hosts": ["breitbart.com", "www.breitbart.com"], "terms_url": "https://www.breitbart.com/terms-of-use/", "basis": "Personal downloading exception; no redistribution."},
+    {"hosts": ["time.com", "www.time.com"], "terms_url": "https://legal.time.com/terms-of-service/", "basis": "Individual pages may be downloaded for personal noncommercial use."},
+    {"hosts": ["npr.org", "www.npr.org"], "terms_url": "https://www.npr.org/about-npr/179876898/terms-of-use", "basis": "Limited personal noncommercial copy; preserve notices, no republication."},
+    {"hosts": ["kalb.com", "www.kalb.com", "kfyrtv.com", "www.kfyrtv.com"], "terms_url": "https://graymedia.com/about/copyright-complaint-procedures/", "basis": "Personal noncommercial reproduction; retain actual page notices."},
+    {"hosts": ["kpax.com", "www.kpax.com", "wtkr.com", "www.wtkr.com", "wtvr.com", "www.wtvr.com", "wtxl.com", "www.wtxl.com"], "terms_url": "https://scripps.com/user-agreement/", "basis": "Single personal noncommercial copy; retain attribution and notices."}
+  ]
+}

@@ -1,0 +1,64 @@
+Mark Zuckerberg’s Congress testimony: What he said
+
+Headline ID: d8c3ba9f98a6118f
+Source URL: https://www.aljazeera.com/economy/2018/4/11/mark-zuckerbergs-congress-testimony-what-he-said
+Author: News Agencies
+Published: 2018-04-11T01:35:05Z
+
+Mark Zuckerberg, Facebook CEO, has appeared before a US Congress committee to answer questions about the social media giant’s policies in the wake of a massive data privacy breach.
+
+During a five-hour testimony on Tuesday, the tech mogul said he was “sorry” about the Cambridge Analytica scandal, in which the private information of more than 87 million people was collected illegally.
+
+He was also asked about the alleged abuse of the social media platform by Russian groups to interfere in the 2016 US presidential elections.
+
+The 33-year-old Facebook founder confirmed his company is “working with” a special counsel investigating the alleged meddling, while warning of an “arms race” against Russian efforts seeking to exploit social media.
+
+In the high-stakes joint hearing of the Senate Judiciary Committee and the Senate Committee on Commerce, Science and Transportation, several Congress members voiced their dismay over Facebook’s actions or lack of action.
+
+Among the possible outcomes of the testimony are new rules on data protection that could limit Facebook’s ability to make money.
+
+“Mark Zuckerberg spent the entire day in Washington, DC, preparing for this meeting and you could tell,” said Al Jazeera’s Alan Fisher, reporting from the US capital.
+
+“He ditched his normal grey t-shirt for a suit and it was a solid performance from the Facebook CEO.”
+
+Below are some of Zuckerberg’s quotes during, as well as some of his exchanges with senators.
+
+‘I’m sorry’
+
+Mark Zuckerburg (MZ): “We didn’t take a broad enough view of our responsibility, and that was a big mistake. And it was my mistake, and I’m sorry. I started Facebook, I run it, and I’m responsible for what happens here.”
+
+ANALYST’S VIEW: Ian Sherr, executive editor for the West Coast at CNET News “What we learned from that hearing is that the US Senate does not understand technology very well. This is not new, but it is a critical piece of information when you consider whether or not they are going to try and regulate this industry, that is on its own the third largest economic power in the world, behind the US and China, so that is a really important moment. “What was really shocking about today’s testimony was that how obvious it was. “If these senators walked into this room, fired up, ready to regulate this company, and they made it very clear that they didn’t know what they are talking about, what do we end with? How do we deal with the next step? “It was very unclear what the next steps are – the most clear thing that the Senate asked for was that they asked for Mark Zuckerburg’s own help crafting legislation to regulate himself. “This company is facing scandals on multiple fronts. This is one of the most critical weeks that Facebook has ever had and the people who were supposed to be standing up to them, the US Senate, clearly just fell down on the job.”
+
+MZ: “When we heard back from Cambridge Analytica that they had told us that they weren’t using the data and deleted it, we considered it a closed case. In retrospect, that was clearly a mistake. We shouldn’t have taken their word for it. We’ve updated our policy to make sure we don’t make that mistake again.”
+
+“It will take some time to work through all the changes we need to make across the company. I’m committed to getting this right. This includes the basic responsibility of protecting people’s information, which we failed to do with Cambridge Analytica.”
+
+“We’re investigating every single app that had access to a large amount of information in the past. And if we find that someone improperly used data, we’re going to ban them from Facebook and tell everyone affected.”
+
+‘Arms race’
+
+MZ: “One of my greatest regrets in running the company is that we were slow in identifying the Russian information operations in 2016.”
+
+MZ: “There are people in Russia whose job it is to try to exploit our systems and other internet systems…. So this is an arms race. They’re going to keep getting better and we need to invest in getting better at this too.”
+
+Limits of right to privacy
+
+Senator Dick Durbin (DD): “Would you be comfortable sharing with us the name of the hotel you stayed in last night?”
+
+MZ: “Um, uh, no.”
+
+DD: “If you messaged anybody this week, would you share with us the names of the people you’ve messaged?”
+
+MZ:: “Senator, no, I would probably not choose to do that publicly here.”
+
+DD: “I think that may be what this is all about: your right to privacy, the limits of your right to privacy, and how much you give away in modern America in the name of ‘connecting people around the world’.”
+
+Special probe
+
+Asked if Facebook executives have been interviewed by Special Counsel Robert Mueller, who is investigating Russian interference in the US election, Zuckerberg said: “Our work with the special counsel is confidential…. I actually am not aware of a subpoena. I believe there may be, but I know we’re working with them.”
+
+“I know we did help out the Trump campaign overall in sales support in the same way we do with other campaigns.”
+
+© 2026 Al Jazeera Media Network
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

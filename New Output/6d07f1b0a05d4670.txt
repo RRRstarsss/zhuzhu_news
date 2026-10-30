@@ -1,0 +1,37 @@
+What to expect from tomorrow’s antitrust hearing featuring big tech
+
+By Jonathan Shieber
+1:54 PM PDT · July 15, 2019
+
+Tomorrow, representatives from Facebook, Google, Amazon and Apple will testify before Congress in the second hearing organized as part of the House Judiciary Committee’s antitrust investigation into the world’s largest technology companies.
+
+While the first hearing focused on the ways technology companies busted the traditional news business, this one promises to look at the “impact of market power of online platforms on innovation and entrepreneurship,” according to the committee.
+
+Unlike the previous hearing, which featured representatives from media outlets and industry trade organizations attacking or defending the ways in which online advertising had gutted the news business, this latest outing led by Rhode Island Democratic Rep. David Cicilline will have actual tech company execs on hand to answer congressional queries.
+
+One section of the testimony will feature Google’s economic policy head, Adam Cohen; Amazon’s associate general counsel, Nate Sutton; Facebook’s global head of policy, Matt Perault; and Kyle Andeer, Apple’s chief compliance officer.
+
+Others expected to appear include Tim Wu, the Columbia Law professor who’s been an outspoken critic of technology consolidation and an advocate for more stringent antitrust oversight of tech companies, and Maureen Ohlhausen, a partner at Baker Botts and the former acting chairman of the Federal Trade Commission in charge of its antitrust actions.
+
+Wu and his views sort of encapsulate much of the thinking from critics of these companies’ current dominance in the market.
+
+“I would love, in fact, if a serious Facebook challenger took down Facebook, and I would stop calling for any antitrust action. It’s just when you become suspicious that the barriers have gotten strong enough that a company could survive, then maybe we need to have antitrust law loosened up, get things moving, and provide for the market cycle to take its place. Now eventually it will happen, but we can’t wait for 50 years,” Wu told the American Enterprise Institute in an interview earlier this year.
+
+“It’s also possible that history would suggest that a company like Facebook, and perhaps Amazon, will soon try to get government on their side to defend themselves against competition. I don’t know what it will look like, but maybe Facebook agrees to some kind of privacy law, which for some reason is very hard for new entrants to adhere to. Amazon may try and instantiate itself as basically the national e-commerce monopolist, kind of like a Bell-regulated monopoly. That’s a next natural step, especially as a big star, to become less competitive. And so before that happens, I think we give the antitrust law its turn.”
+
+Policy watchers can expect market criticisms of the big technology platforms to come from a few different angles (each company has different, slightly overlapping, issues that policymakers find worrisome).
+
+For Alphabet, criticism stems primarily from the company’s dominance in online search and the ad networks it controls through its ownership of DoubleClick and AdMob (along with its ownership of YouTube’s wildly popular video platform). At Amazon, it’s the ways in which Jeff Bezos’e-commerce behemoth hoovers up sales information and uses it to inform pricing and potentially anticompetitive practices that stymie the development of new e-commerce players by promoting its own brands and products.
+
+For Facebook, it’s the dominance of the company’s social media platforms (including Instagram and the messaging service WhatsApp) that are a cause for concern — as is its unwillingness to open its social graph for other startups. The company also elicits howls from consumer advocates for its abysmal ability to protect user privacy and data.
+
+Finally, Apple’s control over the entire ecosystem it pitches to consumers — and the pricing policies it enforces that some critics have called extortive are cause for concern among the political class.
+
+These competitive concerns also play out against the outsized ambitions that these technology companies have in other areas. Facebook is trying to make an end run around the existing global financial system through the launch of its Libra cryptocurrency; Alphabet, Amazon and Facebook all have designs to dominate the development of artificial intelligence in open markets; and then there’s the work these companies are conducting in areas as diverse as healthcare, mobility technologies and even space travel and high-speed networking.
+
+With so many interests in so many areas and core businesses generating so much money, it’s easy to conflate a broader unease with these companies’ ambitions and the core anti-competitive arguments that are worthy of discussion.
+
+For this hearing — and indeed the Congressional investigation to be successful — the focus should be less on the global ambitions of these technology companies and more on the practices they’ve enacted to stifle competition.
+
+Source: https://techcrunch.com/2019/07/15/what-to-expect-from-tomorrows-antitrust-hearing-featuring-big-tech/
+© 2026 TechCrunch Media LLC.

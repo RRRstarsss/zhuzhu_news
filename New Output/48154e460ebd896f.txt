@@ -1,0 +1,42 @@
+Update: Facebook rolls out $40K user data abuse bounty ahead of Zuckerberg’s Congressional testimony
+
+By Jonathan Shieber
+8:04 AM PDT · April 10, 2018
+
+Update: This article has been updated to include comment from Facebook that bounties will not be awarded retroactively.
+
+Ahead of Mark Zuckerberg’s Senate testimony today, Facebook has rolled out a number of product updates — including a bounty hunting program of up to $40,000 for user data violations — meant to address (and blunt) the criticism he’s likely to face.
+
+The bounties start at $500, according to a report by CNBC, and will be awarded if certain conditions are met.
+
+First announced amid a slew of updates Zuckerberg offered up in March as the scandal around abuse of user data by the political consulting firm Cambridge Analytica was first coming to light, the new bounty program is modeled off of Facebook’s attempts to combat hackers with a $1 million bug bounty.
+
+It’s the second product announcement today, following news that Facebook would stop apps from accessing user data if they haven’t been launched within 90 days.
+
+To be eligible for the bounty, the offending app must impact more than 10,000 Facebook users and show a clear pattern of abuse and not “collection” (in this case, I’m assuming abuse would qualify as transferring the data to a third party without permission).
+
+Facebook also stipulated that it should be a case that the company isn’t already actively investigating.
+
+Examples of “out of scope” scenarios include: scraping, malware, social engineering applications, and cases involving other Facebook companies (like Instagram).
+
+Facebook goes on to assure that if whistleblowers comply with the company’s policy, then the company won’t sue them (which is very big of Facebook). It also tries to ensure that all of the issues are kept quiet and far away from the meddling of the media which could blow the whole thing up and force company executives to testify in front of Congressional hearings.
+
+Here are some other details from the program:
+
+• You give us time to investigate and act on an issue that you report before making any information about the report public or sharing such information with others. You make a good faith effort to avoid privacy violations and disruptions to others, including (but not limited to) unauthorized access to or destruction of data, and interruption or degradation of our or another’s services. You provide us with the Facebook data we request after we request it. You do not violate any other applicable laws or regulations, including (but not limited to) laws and regulations prohibiting the unauthorized access to data. Again, do not submit any data to us that you obtained unlawfully.
+
+Those are the requirements for folks who submit bounties to Facebook. For its part, Facebook agrees to investigate and validate the reports; determine the amount of the bounty; takes responsibility for publishing reports and updates on the bounty; and indicates that one bounty is paid per abuse (if multiple reports of abuse are submitted, it’s first come, first served for payouts).
+
+“These researchers… they get paid… they get rewarded, and they get recognized,” says Pete Voss, the communications manager for security at Facebook. . “Once the issue is resolved they are free to talk about it at will.”
+
+As for whether journalists will get any bounty from Facebook for exposing Cambridge Analytica’s abuses, Voss says they shouldn’t hold their breath. “Just like the bug bounty program, there will not be retroactive payment,” says Voss.
+
+So, do news organizations get back pay from this Data Abuse Bounty? https://t.co/VpnFdlglAh
+
+— Shira Ovide (@ShiraOvide) April 10, 2018
+
+---
+Source: https://techcrunch.com/2018/04/10/facebook-rolls-out-40k-user-data-abuse-bounty-ahead-of-zuckerbergs-congressional-testimony/
+© 2026 TechCrunch Media LLC.
+Terms of use: https://techcrunch.com/terms-of-service/
+Single local copy for personal, non-commercial use. Original article wording preserved; webpage navigation, advertising, media controls and related-content cards omitted.

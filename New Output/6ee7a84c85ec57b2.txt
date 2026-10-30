@@ -1,0 +1,42 @@
+Apple releases study defending App Store's 30% cut ahead of Tim Cook's congressional testimony next week
+
+Headline ID: 6ee7a84c85ec57b2
+Source URL: https://www.cnbc.com/2020/07/22/apple-defends-app-stores-30percent-cut-ahead-of-tim-cook-testimony.html
+Author: Kif Leswing
+Published: 2020-07-22T17:00:01+0000
+
+Apple CEO Tim Cook delivers the keynote address during the 2019 Apple Worldwide Developer Conference (WWDC) at the San Jose Convention Center on June 03, 2019 in San Jose, California.
+
+Justin Sullivan | Getty Images
+
+On Monday, Apple CEO Tim Cook will join chief executives from Amazon, Facebook and Google in a hearing before the House Judiciary Committee as part of an antitrust investigation into big technology companies.
+
+For Cook, the questioning is expected to center around Apple's App Store, which is the only way to install consumer software on an iPhone. For years, developers have alleged Apple engages in anti-competitive behavior, with complaints centering around Apple's 30% cut of digital goods, and business practices such as requiring developers to use Apple's payment system for digital purchases.
+
+On Wednesday, Apple presented some arguments defending the App Store that could factor into next week's testimony. While the company says it's not a preview of what Cook will say at Monday's hearing, it commissioned a study from Analysis Group released on Wednesday that finds that Apple's App Store's fees and practices are largely in line with other digital marketplaces, including the Google Play app store and the Amazon Appstore.
+
+"The commission rates charged by digital marketplaces most similar to the App Store, such as other app stores and video game digital marketplaces, are generally around 30%," the authors of the study wrote.
+
+The Apple-backed study has four major findings:
+
+• Most app stores charge the same 30% cut on digital goods.
+
+• Retailers, travel booking services and other marketplaces can charge more than 30% for their services.
+
+• Distributing software through an app store is less expensive than distributing through brick-and-mortar retailers.
+
+• Other app stores and digital marketplaces often require users to use their in-app payment mechanism and forbid sellers from redirecting buyers to finish the transaction in another venue.
+
+The House probe into big technology companies will not result in enforcement, but it may spur legislation that could restrict Apple and other large tech companies. The probe was announced in June 2019, and collecting CEO testimony is one of the final steps before completing the investigation, which will likely result in new proposed legislation. Cook previously appeared before the Senate in 2013 to discuss Apple's tax policies.
+
+Apple's App Store is one of the company's most important services. While Apple doesn't break down how much services revenue comes directly from the App Store, services is a fast-growing unit that brought in $46 billion in 2019, and accounted for 18% of the company's revenue. Investors see services as a growth engine for the company as iPhone sales stall.
+
+Developers who produce software for Apple's platforms have criticized other company practices in addition to the 30% cut, including that Apple could use data about what is trending in the App Store to create competing Apple apps or features, and an opaque review process that can lead to apps removed from Apple's platform over what programmers see as minor or unfair reasons.
+
+Apple also faces a European Commission investigation into the App Store as well as Apple Pay, the company's payment processing software.
+
+Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news.
+
+© 2026 Versant Media, LLC. All Rights Reserved. A Versant Media Company.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.

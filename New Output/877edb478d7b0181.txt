@@ -1,0 +1,64 @@
+Facebook's Zuckerberg Should Testify On Capitol Hill, Sen. Markey Says
+
+NPR
+
+March 22, 2018 7:13 AM ET
+
+David Greene talks to Democratic Sen. Ed Markey of Massachusetts, who has called on Facebook's CEO to testify before Congress about the misuse of millions of users' private information.
+
+Transcript
+
+DAVID GREENE, HOST:
+
+Last night, we heard a high-profile apology.
+
+(SOUNDBITE OF TV SHOW, "ANDERSON COOPER 360")
+
+MARK ZUCKERBERG: This was a major breach of trust, and I'm really sorry that this happened.
+
+GREENE: That is Facebook founder and CEO Mark Zuckerberg. He never seems eager to do interviews, but he did a number of them yesterday in a tumultuous moment. We now know a political consulting firm, Cambridge Analytica, mined the personal data of millions of Facebook users and may have used it to influence the 2016 presidential election, though they deny that. Zuckerberg told CNN that Facebook is carefully reviewing its security practices.
+
+(SOUNDBITE OF TV SHOW, "ANDERSON COOPER 360")
+
+ZUCKERBERG: This is going to be an intensive process. This is important. I mean, this is something that, in retrospect, we clearly should've done up front with Cambridge Analytica. We should not have trusted the certification that they gave us. And we're not going to make that mistake again.
+
+GREENE: Now, Zuckerberg also said that he is happy to testify in Congress, quote, "if it is the right thing to do." It is something that our next guest is demanding. Democratic Senator Ed Markey of Massachusetts is a member of the commerce committee, and he's on the line with us.
+
+Good morning, Senator.
+
+ED MARKEY: Good morning.
+
+GREENE: I suppose you think it's the right thing to do for Zuckerberg to testify.
+
+MARKEY: Yeah, it absolutely is the right thing to do. You know, Mr. Zuckerberg said that his - in his own words, I am responsible for what happens on our platform. And that is really the reason why he himself should be the one who comes to Congress and answers our questions. A blog post is simply not enough. An interview on CNN or with other media outlets is simply not enough.
+
+GREENE: Why not? What do you think you'll get out of him in a committee hearing, you know, that we haven't heard yet from him or from the company?
+
+MARKEY: Well, after the BP oil spill, I called in the CEO of BP and all the other major oil companies to testify to their oil spill response plans and how to explain an environmental disaster like the Deepwater Horizon explosion so that we could prevent it from happening again. Well, the same thing has to happen here. The CEO of Facebook has the come in so that we can ask him the questions which the American people want to have the answer to - the answers to. How did Facebook allow this to happen? Did users consent to have their data collected? Has the data in question been deleted? Have Facebook users been informed if their data was compromised? What steps are being taken to ensure this does not happen again? All of these questions must be answered in public. There's a reckoning here, and we have to understand what happened in order to put the laws on the books to ensure it never happens again.
+
+GREENE: Well, speaking of the potential for it to happen again, in this CNN interview last night, Zuckerberg was asked about whether his platform is still facing interference from bad actors. And here's what he said.
+
+(SOUNDBITE OF TV SHOW, "ANDERSON COOPER 360")
+
+ZUCKERBERG: I'm sure someone's trying right now. I'm sure that there's, you know, V2 - version 2 - of whatever the Russian effort was in 2016. I'm sure they're working on that, and there're going to be some new tactics that we need to make sure that we observe and get in front of.
+
+GREENE: So, Senator, what can Congress do in terms of regulations that would take care of this problem? I mean, Zuckerberg says that he's going to do his part and review security measures and look at the relationship with apps in which - with companies like Cambridge Analytica. He said he's open to some sort of regulation. Do you have some ideas of what regulations might be palatable and might actually make a difference here?
+
+MARKEY: Yes. And there is clearly a Dickensian quality to the Internet. It's the best of technologies and the worst of technology simultaneously. It can enable and ennoble, but it can also degrade and debase. We need rules and regulations that reduce this degradation and debasement of the political process but of privacy protections for Americans in general. So we do need a privacy bill of rights that we pass through Congress and that would guarantee that every American know when information is being gathered about them, know when that information's being re-used for purposes other than which the consumer wanted it to be used. And third and most importantly, they have a right to say no. And we have to enshrine that as the law in our country.
+
+GREENE: That would be enforceable - some sort of bill of rights, like, that it wouldn't just be stating, this is what users should know - that it'd be something enforceable, that Facebook could be punished somehow if they allowed something like this to happen.
+
+MARKEY: That is correct - that it'd just be the law of the land, not just for Facebook, for - but for any of these online companies. This is the moment of reckoning. This is the time that has finally arrived where we need a national debate about the values that we've had in the real world but not in the online world in terms of protection. And ultimately, the Federal Trade Commission did, in fact, reach a consent decree with Facebook back in 2011 which required Facebook to obtain explicit permission before sharing data about its users. As a result, Facebook is already on a privacy probation. But it's clear here that the protections were not put in place.
+
+GREENE: Democratic Senator Ed Markey of Massachusetts, thanks a lot.
+
+MARKEY: Thank you so much.
+
+Copyright © 2018 NPR. All rights reserved. Visit our website terms of use and permissions pages at www.npr.org for further information.
+
+Accuracy and availability of transcripts for NPR programming may vary. Transcript text may also be revised to correct errors or match updates to audio. Audio may be edited after its original broadcast or publication. The authoritative record of NPR’s programming is the audio record. Please note that NPR platforms and products also include some programming produced by third parties; NPR cannot guarantee transcripts for that content and some transcripts may be produced using automated or other tools.
+
+---
+Source: https://www.npr.org/2018/03/22/595987433/facebooks-zuckerberg-should-testify-on-capitol-hill-sen-markey-says
+Terms of use: https://www.npr.org/about-npr/179876898/terms-of-use
+Single local copy for personal learning and nonprofit research; no republication. Original article wording preserved; webpage navigation, advertising, media controls and related-content cards omitted.

@@ -1,0 +1,38 @@
+Apple Promotes Research It Commissioned Defending App Store’s Fee Structure Ahead of Congressional Hearing
+
+Author: Todd Spangler
+Publisher: Variety
+Published: Jul 22, 2020 10:00am PT
+Published (source metadata): 2020-07-22T17:00:36+00:00
+Source URL: https://variety.com/2020/digital/news/apple-app-store-research-fees-1234713340/
+Headline ID: 06832244dcea857f
+
+Apple is publicizing a study it commissioned looking at the App Store‘s fees and terms — as the tech giant tries to make the case that its practices are in line with the rest of the industry.
+
+The upshot? Not surprisingly, the report says, Apple takes a cut from app developers that’s akin to rival app stores. But, according to critics, just because a 30% commission has become the de facto standard doesn’t make it fair.
+
+The report’s release comes ahead of the House Judiciary Committee’s hearing next Monday, July 27, as part of its antitrust investigation into the tech industry, at which Apple CEO Tim Cook is scheduled to testify. Also slated to appear are Facebook’s Mark Zuckerberg, Amazon’s Jeff Bezos and Alphabet/Google’s Sundar Pichai.
+
+Separately, last month the European Union opened an antitrust investigation into Apple’s App Store business practices, including its requirement that apps use the in-app purchasing system, prompted by an earlier complaint by Spotify.
+
+Against this backdrop, Apple’s aim is to argue that while the App Store is hugely powerful, the company doesn’t deviate from industry norms.
+
+The study, conducted by the Analysis Group and paid for by Apple, examined 38 different app stores and digital marketplaces. Their conclusion: that “Apple’s App Store commission rate is similar in magnitude to the commission rates charged by many other app stores and digital content marketplaces,” the analysts wrote in the report.
+
+For digital marketplaces most similar to Apple’s App Store — like Google Play and the Amazon Appstore — as well as video game digital marketplaces, the standard fee charged to developers is “generally around 30%,” the authors of the Analysis Group report wrote.
+
+Apple’s App Store commission rates are 30% for paid apps and in-app purchases of digital content and services. For digital subscriptions, Apple charges 30% in the first year and 15% for subsequent years, the report said. Google Play similarly steps down fees for subscriptions to 15% at 12 months, and while Amazon takes a 20% cut of streaming-video subscription fees.
+
+The report doesn’t look into the question of how 30% was established as the standard cut that Apple and others take from app partners.
+
+One of the exceptions to that split, the Analysis Group noted, is Epic Games’ digital store, which charges a commission rate of 12%. Epic Games CEO Tim Sweeney has been outspoken on the issue of app-store fees, and last year asked Google to distribute its popular “Fortnite” game in Google Play without levying the standard 30% cut. Google declined.
+
+In the case of Google Play, “tying of a mandatory payment service with a 30% fee is illegal in the case of a distribution platform with over 50% market share,” Sweeney said in a statement last December.
+
+Apple also has had disputes with app developers looking to avoid the in-app payment fees, while it has granted exceptions to certain partners including Amazon Prime Video. In addition, apps from companies like Netflix and Spotify are distributed in the App Store but no longer let customers subscribe through Apple’s in-app payment system. Epic Games’ Sweeney has said Apple’s 30% cut “is also too high!”
+
+Meanwhile, the Analysis Group report said, “Marketplaces that distribute digital content such as videos, podcasts, eBooks, and audiobooks generally charge commission rates of 30% or more. Commission rates charged by e-commerce marketplaces vary by industry but sometimes exceed 30%.”
+
+Variety is a part of PMX Global, LLC, a subsidiary of Penske Media Corporation. © 2026 Variety Media, LLC. All rights reserved. Variety and the Flying V logos are trademarks of Variety Media, LLC. Powered by WordPress.com VIP
+
+Personal, non-commercial study copy. Publisher terms: https://www.pmc.com/terms-of-use

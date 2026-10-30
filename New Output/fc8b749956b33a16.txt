@@ -1,0 +1,100 @@
+Zuckerberg testifies: Seven things to look out for
+
+Headline ID: fc8b749956b33a16
+Source URL: https://www.bbc.com/news/technology-43707629
+Author: By Dave Lee
+Published: 2018-04-10T02:06:09.000Z
+
+Mark Zuckerberg has been preparing for his biggest test yet as Facebook chief executive - facing not one, but two congressional hearings.
+
+Some view these sessions as little more than political theatre, a chance for politicians to be seen on TV berating the rich and powerful.
+
+There might be some truth in that. But never have we had such unfiltered access to a man who is typically wrapped in cotton wool by his PR team and deputies.
+
+His opening prepared statements have already been released.
+
+But the marathon sessions scheduled on Tuesday and Wednesday will throw up far more.
+
+Mr Zuckerberg will inevitably be grilled on data privacy - with particular focus on the Cambridge Analytica scandal - and why it took a newspaper to discover the breach of its systems. And he'll be expecting some hard questions on election interference as well as his own and Facebook's future.
+
+So here's what to look out for as Mr Zuckerberg heads to the Hill this week.
+
+1. Highlighting the good
+
+Community, community, community. It's a word you'll be hearing a lot from Mr Zuckerberg who will open his statements by stressing the good Facebook brings to the world.
+
+And he's right. Organising our real world lives, whether a birthday party or protest march, has become much easier thanks to Facebook. As has sharing pictures and video with families and friends.
+
+He'll speak about how Facebook is used by small businesses the world over to reach customers quickly, efficiently and cheaply.
+
+Between the lines he's saying don't clamp down too harshly on its business, as it could affect millions of others too.
+
+For the 33-year-old, being up-to-speed on how his company works will not be a problem. He's not a chief executive who hides in the boardroom. He can code as well as the best of his engineers.
+
+Instead, his challenge will be to appear human and to come across as genuinely remorseful - even if deep down he still believes, as the company said originally, that users willingly gave up their data.
+
+A skit from this week's Saturday Night Live portrayed it best - a jumpy "Mark Zuckerberg" told bad rehearsed jokes and counted the seconds he needed to maintain eye contact in order to be seen as normal.
+
+The real Mr Zuckerberg has always struggled with appearing compassionate. Indeed, even a home video of him as a teenager shows early signs of the roboticism that might stifle him in these hearings.
+
+An anecdote or two about his children might help with this. In a recent CNN interview, a flicker of genuine emotion entered the room as Mr Zuckerberg talked about the influence his two young children have had on his life. Being fatherly-Zuckerberg might help leave behind college-Zuckerberg, who famously had unfortunate views about user privacy.
+
+It's important to remember that while Facebook has admitted mistakes around its data policy and how thorough it was (or wasn't) in cleaning up the original mess, the company maintains that it was Aleksandr Kogan, the University of Cambridge researcher, who is most at fault here.
+
+It was Mr Kogan who created the personality app that hoovered up data then allegedly used by Cambridge Analytica. And it was CA that said it had deleted the data when it apparently hadn't.
+
+Mr Zuckerberg will tread a fine line between making sure the politicians know Facebook's systems were abused, while also not looking as if he is trying to abdicate responsibility.
+
+• How to protect your Facebook data
+
+• Facebook alerts users after data scandal
+
+At one point before these hearings, lawmakers had wanted bosses at Google and Twitter to appear alongside Mr Zuckerberg - an acknowledgement that many of the issues faced are shared. There was plenty of Russian propaganda on Twitter, for example, and YouTube's woes are very well documented.
+
+That won't be happening now. Facebook is all alone. But that won't stop Mr Zuckerberg trying to pull in other technology companies to this debate, even if not explicitly by name.
+
+Facebook wasn't the first company to make billions from gathering personal data and it won't be the last.
+
+"It's a simple yes or no question," is a phrase beloved by politicians at these kinds of hearings. It's most effective, of course, when asking a question that is anything but at simple yes or no.
+
+Expect the more camera-keen representatives to go for this gotcha moment from the word go. They will want to be the soundbite in the evening news, or the clip that's shared by millions on, ironically enough, Facebook.
+
+Giving both barrels to one of Silicon Valley's most influential figures makes great tape for any campaign ads ahead of this year's midterm vote.
+
+But this approach often leads to bad, sometimes misleading questions. Watch out for moments that may seem like major concessions by Mr Zuckerberg but are actually anything but.
+
+I'd put good money on at least one representative asking "can you swear here today that Facebook will never sell user data?" - to which the answer is "of course". Facebook hasn't ever sold user data, it merely grants access to it.
+
+Mr Zuckerberg will bring up the Honest Ads Act, a proposed law that would increase transparency around political advertising on the internet. It would bring the legislation more in line with what happens on television, where it's made clear who has paid for the ad.
+
+Backing this act is a shrewd PR move by Facebook. It gives Mr Zuckerberg the chance to say he is open to government regulation, while also avoiding any major impact on the way Facebook is run.
+
+The changes Mr Zuckerberg has already put in place around campaign and "issue" ads means they are probably already in compliance with the measures the Honest Ads Act wants to introduce - or are not far off.
+
+Don't expect much progress when it comes to any other type of regulation debate.
+
+Instead, we may get a few baby steps in the direction of what other kinds of regulation might look like, but Mr Zuckerberg will no doubt emphasise the work his company is already doing.
+
+The Federal Trade Commission (FTC) is investigating whether Facebook violated a consent decree signed in 2011.
+
+It's a document that details an agreement to look after data in certain ways, and was drawn up after the FTC gave Facebook a telling off about content that people thought and assumed was just being shared among friends, but was in fact made public.
+
+In short, Facebook agreed not to "misrepresent in any manner, expressly or by implication" how data collected would be used.
+
+The company also promised to be absolutely frank with users about how they can proactively and reactively control how their private data is being used.
+
+Given what we know now, lawmakers might be minded to ask Mr Zuckerberg if his company lived up to both of those important pledges.
+
+Black Lives Matter page exposed as fake
+
+Facebook reveals US Congress testimony
+
+Scammers abused Facebook phone number search
+
+Facebook scandal 'hit 87 million users'
+
+Facebook alerts users after data scandal
+
+Copyright 2026 BBC. All rights reserved. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+Personal, non-commercial study copy. Generic extraction; completeness requires review.
